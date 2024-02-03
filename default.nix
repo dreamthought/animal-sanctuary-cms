@@ -1,7 +1,9 @@
-{ pkgs ? import <nixpkgs> {} }:
-
+{
+  pkgs ? import <nixpkgs> {},
+  run ? "zsh"
+}:
 (pkgs.buildFHSEnv {
-  name = "nvm";
+  name = "nvm-env";
   targetPkgs = pkgs: (with pkgs; [
     udev
     glibc
@@ -11,6 +13,10 @@
   ]);
   multiPkgs = pkgs: (with pkgs; [
   ]);
-  runScript = "zsh";
+  runScript = "${run}";
+  profile =
+    '' 
+      unset LD_LIBRARY_PATH
+    '';
 }).env
 
