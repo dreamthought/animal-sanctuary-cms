@@ -1,0 +1,208 @@
+/* Base Size */
+html {
+  font-size: 15px;
+}
+
+/* Body styles */
+body {
+  margin: 0;
+  background-color:#ddd;
+  color: #451b16;
+  font-size: 1.2rem;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Lexend', sans-serif;
+  font-family: 'Lexend Deca', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: green;
+}
+
+/* Banner styles */
+.custom-banner-wrapper {
+  background-color: #d0bba0;
+}
+
+/* Center the Banner image */
+.custom-banner {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* Navbar styles */
+.navbar-custom {
+  background-color: #451b16;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  color: #ddd;
+}
+
+.nav-link:active,
+.nav-link:hover {
+  color: green;
+}
+
+/* Override bootstrap navbar color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: #f2f2f2;
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: #f2f2f2;
+  margin: 0.5rem;
+  position: relative;
+}
+
+/* Restyle hamburger */
+.custom-toggler .navbar-toggler-icon {
+  position: relative;
+  display: inline-block;
+  width: 0.5rem;
+  height: 0.5rem;
+  vertical-align: middle;
+  content: "";
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(242, 242, 242, 242)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+/* Main content area background image for Home */
+.custom-background {
+  background-image: url('images/clouds.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.custom-background-about  {
+  background-image: url('images/clouds.jpg');
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position:center;
+}
+
+/* Main content area background image */
+.custom-background-TEST {
+  background-image: url('images/clouds.jpg');
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* i-frame Vimeo video */
+.container-iframe {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;
+  /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+
+}
+
+/* Responsive style to fit the iframe in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/** Cards **/
+.animal-cards {
+  gap: 2rem;
+}
+
+.animal-card {
+  margin: 0;
+}
+
+
+.card {
+  width: 100%;
+  max-width: 300px;
+  background-color: #451b16;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+
+.card-body {
+  position: absolute;
+  bottom: 0;
+  padding: 1.5rem;
+  background-color: #451b16;
+  color: #f2f2f2;
+  opacity: 0.7;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #f2f2f2;
+}
+
+.btn-primary {
+  background-color: #451b16;
+  color: #f2f2f2;
+  border: 2px solid #f2f2f2;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+  background-color: #f2f2f2;
+  color: #451b16;
+  font-weight: bold;
+  border-color: #f2f2f2;
+}
+
+/* About Us styles */
+img.custom-about-img {
+  float: left;
+  margin-right: 2rem;
+}
+
+h1.custom-about-h1 {
+  color: green;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+p.custom-about-text {
+  text-align: justify;
+}
+
+
+/* Footer styles */
+.custom-footer {
+  background-color: #ddd;
+  color: #451b16;
+  padding-top: 1rem;
+}
+
+/* Facebook Follow Us */
+.custom-facebook {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  width: 20%;
+}
