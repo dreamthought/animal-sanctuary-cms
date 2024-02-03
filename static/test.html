@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Animal Sanctuary</title>
+<meta name=description content="The Animal Sanctuary - Animal Shelter based near Matakana is an established chicken, duck, farm animal and native bird rescue working for the health and welfare of animals across New Zealand">
+<!-- Load external font-awesome CSS styles -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Load external Bootstrap CSS styles -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+<!-- Custom CSS -->
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- Top Banner -->
+<div class="container-fluid">
+<a href="index.html"><img id="banner" src="images/sanctuary-banner.png" alt="Animal Sanctuary Banner" class="custom-banner"/></a>
+</div>
+
+<!-- Navigation -->
+<nav class="sticky-top navbar navbar-expand-lg navbar-custom">
+  <a class="d-lg-node d-xl-none navbar-brand" href="#"></a>
+  <button class="navbar-toggler custom-toggler shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="justify-content-center navbar-collapse collapse" id="navbarSupportedContent">    
+    <ul class="navbar-nav mr-auto navbar-custom"> 
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">HOME</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="about.html">ABOUT</a>
+      </li> 
+      <li class="nav-item">
+        <a class="nav-link" href="animals.html">ANIMALS</a>
+      </li> 
+      <li class="nav-item">
+        <a class="nav-link" href="adopt.html">ADOPT</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="shop.html">SHOP</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="donate.html">DONATE/HELP</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="FAQ.html">FAQ</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="contact.html">CONTACT</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<hr>
+
+<!-- Main Who We Are -->
+<div class="container-fluid mt-3">
+  <div class="row">
+    <div class="col-xl-6 order-xl-2 ">
+    <h1>Welcome to the Animal Sanctuary</h1>
+    <p>The Sanctuary is animal refuge with charitable trust status, run by Shawn Bishop and Michael Dixon in Matakana, New Zealand. We provide a safe haven for abused and neglected animals, and care for injured or orphaned native birds.</p>
+    <p>Our 32 acre property has grazing land to permanently home abused animals, and is bordered by 400 acres of protected bush where we can safely release rehabilitated native birds.</p>
+    <p>We currently care for around 100 animals in The Sanctuary: two-legged and four-legged, native and exotic, warm and cold-blooded – all getting the care that they deserve.</p>
+    <p class="fs-5">You can <b>watch our video</b> to learn more about what we do, and <b>Follow us on Facebook</b> to see what we're up to.</p>
+    </div>
+    <div class="col-xl-6 order-xl-1">
+      <div class="container-iframe"  >
+      <iframe  class="responsive-iframe" src="https://player.vimeo.com/video/447269165?color&amp;autopause=0&amp;loop=1&amp;muted=0&amp;title=0&amp;portrait=0&amp;byline=0#t="></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<!-- Main What We Do -->
+<div class="container mt-4 mb-2 d-flex justify-content-center">
+  <p class="fs-4 fw-bold">The Animal Sanctuary is a haven for all animals, with a focus on three main areas of work:</p>
+</div>
+
+<!--
+<div class="container mt-4 mb-2 d-flex justify-content-center">
+  <div class="row">
+-->
+
+<!-- Row for What We Do -->
+<div class="container justify-content-center animal-cards">
+
+    <div class="card" >
+      <img class="card-img" src="images/home-nativebirds.jpg"" alt="Young rescue goat">
+      <div class="card-img-overlay">
+        <div class="card-body">
+          <h4 class="card-title">Native Birds</h4>
+          <p class="card-text">We rehabilitate and release native New Zealand birds back into the wild.</p>
+          <a href="#" class="btn btn-primary">Learn more</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="card" >
+      <img src="images/home-rescueanimals.jpg" class="card-img rounded mb-2" alt="Young rescue goat" />
+      <div class="card-img-overlay">
+        <div class="card-body">
+        <p>
+          <h4 class="card-title">Rescue Animals</h4>
+          <p class="card-text">The Animal Sanctuary is a permanent home and refuge for abandoned, abused, and forgotten animals</p>
+          <a href="#" class="btn btn-primary">Learn more</a>
+        </div>
+      </div>
+    </div>
+
+</div>
+<!--
+  <div class="row d-flex justify-content-center">
+      <div class="text-center">
+        <p class="fs-5 fw-bold">Native Birds</p>
+        <img src="images/home-nativebirds.jpg" class="img-fluid rounded mb-2" alt="Young rescue goat" />
+      </div>
+      <div class="text-center">
+        <p>We rehabilitate and release native New Zealand birds back into the wild.
+        <br>
+        <a href="#" class="text-muted">Learn more</a>
+        </p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="text-center">
+        <p class="fs-5 fw-bold">Rescue Animals</p>
+        <img src="images/home-rescueanimals.jpg" class="img-fluid rounded mb-2" alt="Young rescue goat" />
+      </div>
+      <div class="text-center">
+        <p>The Animal Sanctuary is a permanent home and refuge for abandoned, abused, and forgotten animals.
+        <br>
+        <a href="#" class="text-muted">Learn more</a>
+        </p>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="text-center">
+        <p class="fs-5 fw-bold">Battery Hens</p>
+        <img src="images/home-batteryhens.jpg" class="img-fluid rounded mb-2" alt="Young rescue goat" />
+      </div>
+      <div class="text-center">
+        <p>We rehabilitate and rehome ex-battery hens throughout the Auckland region.
+        <br>
+        <a href="#" class="text-muted">Learn more</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+ -->
+
+<hr>
+
+  <!-- Footer -->
+  <footer class="text-center">
+    <a href=""><img id="facebook" src="images/facebook-follow.png" alt="Animal Sanctuary Banner" class="custom-facebook img-fluid"/></a>
+    <p>Thank you to our sponsors (images to follow)</p>
+    <p class="fs-6 text-muted">The Sanctuary is an animal refuge run by Shawn Bishop and Michael Dixon in Matakana, New Zealand. We provide a safe haven for abused and neglected animals, and care for injured or orphaned native birds. A charitable trust has been established for this purpose.</p>
+    <p class="custom-footer"><i class="fa fa-copyright"></i> 2024 The Animal Sanctuary</p>
+  </footer>
+
+<!-- Load external Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+</body>
+</html>
