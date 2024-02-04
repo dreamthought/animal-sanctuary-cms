@@ -1,21 +1,44 @@
 <!doctype html>
 <html lang="en">
 	<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=0"/>
+  <meta name="description" content="SEO Stuff - Lucia to add"/>
+  <meta name="keywords" content="animals,sanctuary,charity,chicken,duck,donkey,horse"/>
+  <meta name=description
+    content="The Animal Sanctuary - Animal Shelter based near Matakana is an established chicken, duck, farm animal and native bird rescue working for the health and welfare of animals across New Zealand"/>
+  <!-- Load external font-awesome CSS styles -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <!-- Load external Google fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Source Sans Pro' rel='stylesheet'/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+  integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"/>
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="styles.css"/>
+
+
+  <!-- Load external Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"></script>
+
 		<meta charset="utf-8" />
 		<link rel="icon" href="/animal-santuary-cms/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/start.b6Q8W6-Z.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/entry.sw2g1rHY.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/scheduler.N6VJfDEH.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/app.1GqSDiQC.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/index.8AgvweCG.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/start.gAYPODEZ.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/entry.jetoowWV.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/scheduler.zMJaRgub.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/app.2toUdzsp.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/index.liOAnOgG.js">
+
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">
 			<script>
 				{
-					__sveltekit_1cltmsc = {
+					__sveltekit_18t6iz7 = {
 						base: "/animal-santuary-cms",
 						assets: "/animal-santuary-cms"
 					};
@@ -23,8 +46,8 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/animal-santuary-cms/_app/immutable/entry/start.b6Q8W6-Z.js"),
-						import("/animal-santuary-cms/_app/immutable/entry/app.1GqSDiQC.js")
+						import("/animal-santuary-cms/_app/immutable/entry/start.gAYPODEZ.js"),
+						import("/animal-santuary-cms/_app/immutable/entry/app.2toUdzsp.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
