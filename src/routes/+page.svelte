@@ -5,10 +5,10 @@
 
 <Header/>
 
- <!-- Content area cloud background -->
+<!-- Content area cloud background -->
   <div class="container-fluid custom-background">
     <IndexWelcome/> 
-   
+    
     <!-- Footer - within main container -->
     <footer class="custom-footer">
       <a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank"><img id="facebook" src="images/followus.png" 
@@ -24,4 +24,3 @@
   
   </div>
   <!-- End Content area -->
-
