@@ -3,99 +3,152 @@ html {
   font-size: 15px;
 }
 
-/* Body styles */
+/* BODY styles */
 body {
   margin: 0;
-  background-color:#ddd;
+  background-color:#fbfbfb;
   color: #451b16;
   font-size: 1.2rem;
-  font-weight: 600;
-  font-family: 'Inter', sans-serif;
-  font-family: 'Lexend', sans-serif;
-  font-family: 'Lexend Deca', sans-serif;
-  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-family: 'Source Sans Pro';
 }
 
-h1 {
-  font-size: 2rem;
-  font-weight: bold;
-  color: green;
+/** HEADER styles **/
+/* header background */
+.custom-header-wrapper {
+  background: rgb(251,251,251);
+  background: radial-gradient(circle, rgba(251,251,251,1) 0%, rgba(208,187,160,1) 100%);
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
-
-/* Banner styles */
-.custom-banner-wrapper {
-  background-color: #d0bba0;
-}
-
-/* Center the Banner image */
-.custom-banner {
+/* header image padding */
+.custom-header {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
 
-/* Navbar styles */
-.navbar-custom {
+/** NAVBAR styles **/
+/* navbar styles */
+.custom-navbar {
   background-color: #451b16;
+  color: #fbfbfb;
   font-weight: bold;
   font-size: 1.5rem;
 }
-
+/* link styles */
 .nav-link {
-  color: #ddd;
+  color: #fbfbfb;
+  text-shadow: 1px 1px 2px green;
 }
-
+/* active link styles */
 .nav-link:active,
 .nav-link:hover {
-  color: green;
+  color: green; 
 }
-
-/* Override bootstrap navbar color */
-.navbar-custom .navbar-brand,
-.navbar-custom .navbar-text {
-  color: #f2f2f2;
-}
-
-.custom-toggler.navbar-toggler {
-  border-color: #f2f2f2;
+/* toggler styles */
+.custom-toggler {
   margin: 0.5rem;
   position: relative;
+  border: none;
 }
-
-/* Restyle hamburger */
-.custom-toggler .navbar-toggler-icon {
+/* hamburger styles */
+.navbar-toggler-icon {
   position: relative;
   display: inline-block;
-  width: 0.5rem;
-  height: 0.5rem;
+  width: 2rem;
+  height: 2rem;
   vertical-align: middle;
   content: "";
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(242, 242, 242, 242)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
-/* Main content area background image for Home */
+/** CONTENT styles **/
+/* background cloud image */
 .custom-background {
   background-image: url('images/clouds.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+/* box styles */
+.custom-content  {
+  background-color: #fbfbfb;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+/* section title div */
+.custom-section-title  {
+  color:#451b16;
+  background-color: rgba(0, 128, 0, 0.095);
+  font-size: 1.5rem;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 0.8rem;
+  border-top: solid 0.1rem #451b16;
+  border-bottom: solid 0.1rem #451b16;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+/* wraps text around image */
+.custom-wrap-text {
+  text-align: justify;
+}
+/* floats image to left, allows text wrap */
+.custom-wrap-img {
+  float: left;
+  margin-right: 2rem;
+}
+/* h1 text styles */
+h1 {
+  color: green;
+  text-shadow: 1px 1px 2px #000;
+  font-size: 2rem;
+  font-weight: 900;
+  text-align: center;
+  padding-bottom: 1rem;
+}
+/* h2 text styles */
+h2 {
+  color: #451b16;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+/* h3 text styles */
+h3  {
+  color: #451b16;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+/* h4 text styles */
+h4  {
+  color: green;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+/* Link styles in text */
+.in-text-link  {
+  text-decoration: none;
+  color: green;
+  font-weight: bold;
+}
+.in-text-link:hover,
+.in-text-link:active  {
+  font-size: 1.3rem;
+}
+.in-text-link-facebook  {
+  text-decoration: none;
+  color: #4267B2;
+  font-weight: bold;
+}
+.in-text-link-facebook:hover,
+.in-text-link-facebook:active  {
+  font-size: 1.3rem;
 }
 
-.custom-background-about  {
-  background-image: url('images/clouds.jpg');
-  background-repeat: no-repeat;
-  background-size:contain;
-  background-position:center;
-}
-
-/* Main content area background image */
-.custom-background-TEST {
-  background-image: url('images/clouds.jpg');
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-}
-
+/** VIDEO styles **/
 /* i-frame Vimeo video */
 .container-iframe {
   position: relative;
@@ -103,10 +156,12 @@ h1 {
   width: 100%;
   padding-top: 56.25%;
   /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-
+  border: solid 0.1rem #451b16;
+  border-radius: 0.5rem;
+  box-shadow: 4px 4px 5px rgb(138, 139, 138);
+  
 }
-
-/* Responsive style to fit the iframe in the container div with full height and width */
+/* responsive style to fit the iframe in the container div with full height and width */
 .responsive-iframe {
   position: absolute;
   top: 0;
@@ -115,94 +170,238 @@ h1 {
   right: 0;
   width: 100%;
   height: 100%;
+  border: solid 0.1rem #451b16;
 }
 
-/** Cards **/
-.animal-cards {
-  gap: 2rem;
-}
-
-.animal-card {
-  margin: 0;
-}
-
-
-.card {
+/** CARD styles **/
+/* HOME card styles */
+.custom-card-home {
   width: 100%;
-  max-width: 300px;
+  max-width: 20rem;
   background-color: #451b16;
+  color: #fbfbfb;
+  margin: auto;
+  margin-bottom: 1rem;
+  box-shadow: 4px 4px 5px rgb(138, 139, 138);
 }
-
-.card-img-top {
-  width: 100%;
-  height: auto;
+/* main card style on hover */
+.custom-card-home:hover,
+.custom-card-home:active  {
+  transform: scale(1.05);
 }
-
-
-.card-body {
+/* card body styles for home */
+.custom-card-body-home {
   position: absolute;
   bottom: 0;
-  padding: 1.5rem;
   background-color: #451b16;
-  color: #f2f2f2;
-  opacity: 0.7;
+  color: #fbfbfb;
+  opacity: 0.8;
+  border-top-left-radius: 2rem;
 }
-
-.card-title {
+/* card title styles for home */
+.custom-card-title-home {
   font-size: 1.5rem;
   font-weight: bold;
 }
-
-.card-text {
+/* card text styles */
+.custom-card-text-home {
   font-size: 1rem;
-  color: #f2f2f2;
+  color: #fbfbfb;
 }
-
-.btn-primary {
+/* card button styles for home */
+.custom-btn-home {
   background-color: #451b16;
-  color: #f2f2f2;
-  border: 2px solid #f2f2f2;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
 }
-
-.btn-primary:hover,
-.btn-primary:active {
-  background-color: #f2f2f2;
-  color: #451b16;
-  font-weight: bold;
-  border-color: #f2f2f2;
-}
-
-/* About Us styles */
-img.custom-about-img {
-  float: left;
-  margin-right: 2rem;
-}
-
-h1.custom-about-h1 {
-  color: green;
-  text-align: center;
-  font-size: 3rem;
+/* card button styles for active and hover home */
+.custom-btn-home:hover,
+.custom-btn-home:active {
+  background-color: green;
+  color: #fbfbfb;
   font-weight: bold;
 }
 
-p.custom-about-text {
-  text-align: justify;
-}
-
-
-/* Footer styles */
-.custom-footer {
-  background-color: #ddd;
-  color: #451b16;
-  padding-top: 1rem;
-}
-
-/* Facebook Follow Us */
-.custom-facebook {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 1rem;
+/** ANIMALS card styles **/
+/* main card style */
+.custom-card-animals {
+  background-color: #451b16;
+  color:#fbfbfb;
+  width: 100%;
+  max-width: 15rem;
+  margin: auto;
   margin-bottom: 1rem;
-  width: 20%;
+  text-align: center;
+  border: 0.15rem solid #451b16;
+  box-shadow: 4px 4px 5px rgb(138, 139, 138);
+}
+/* main card style on hover */
+.custom-card-animals:hover,
+.custom-card-animals:active  {
+  transform: scale(1.05);
+}
+/* card title styles for animals */
+.custom-card-title-animals {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+/* card button styles for animals */
+.custom-btn-animals {
+  background-color: #fbfbfb;
+  color: #451b16;
+  border: 0.15rem solid #451b16;
+  font-weight: bold;
+  position: absolute;
+  bottom: 0.15rem;
+  right: 0.15rem;
+}
+/* card button styles for active and hover animals */
+.custom-btn-animals:hover,
+.custom-btn-animals:active {
+  background-color: green;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
+  font-weight: bold;
+}
+
+/* SHOP card styles */
+.custom-card-shop {
+  width: 100%;
+  max-width: 20rem;
+  background-color: #451b16;
+  color: #fbfbfb;
+  margin: auto;
+  margin-bottom: 1rem;
+  box-shadow: 4px 4px 5px rgb(138, 139, 138);
+}
+/* main card style on hover */
+.custom-card-shop:hover,
+.custom-card-shop:active  {
+  transform: scale(1.05);
+}
+/* card body styles for shop */
+.custom-card-body-shop {
+  position: absolute;
+  bottom: 0;
+  background-color: #451b16;
+  color: #fbfbfb;
+  opacity: 0.8;
+  border-top-left-radius: 2rem;
+}
+/* card title styles for shop */
+.custom-card-title-shop {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+/* card text styles for shop */
+.custom-card-text-shop {
+  font-size: 1rem;
+  color: #fbfbfb;
+}
+/* card button styles for shop */
+.custom-btn-shop {
+  background-color: #451b16;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
+}
+/* card button styles for active and hover shop */
+.custom-btn-shop:hover,
+.custom-btn-shop:active {
+  background-color: green;
+  color: #fbfbfb;
+  font-weight: bold;
+}
+
+/** HELP styles **/
+/* card styles */
+.custom-card-help {
+  background-color: #451b16;
+  color:#fbfbfb;
+  width: 100%;
+  max-width: 20rem;
+  margin: auto;
+  margin-bottom: 1rem;
+  text-align: center;
+  border: 0.15rem solid #451b16;
+  box-shadow: 4px 4px 5px rgb(138, 139, 138);
+}
+/* main card style on hover */
+.custom-card-help:hover,
+.custom-card-help:active  {
+  transform: scale(1.05);
+}
+
+/** ABOUT styles **/
+/* for sign-off image */
+.custom-signoff  {
+  width: 235px;
+  height: 28px;
+}
+
+/** ANIMALS styles **/
+/* card button styles for shop */
+.custom-btn-animals {
+  background-color: #451b16;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
+}
+/* card button styles for active and hover shop */
+.custom-btn-animals:hover,
+.custom-btn-animals:active {
+  background-color: green;
+  color: #fbfbfb;
+  font-weight: bold;
+}
+
+/** DONATE styles **/
+/* card style for donate */
+.custom-card-donate  {
+  color: #451b16;
+  border: 0.15rem solid #451b16;
+  text-align: center;
+  box-shadow: 4px 4px 5px rgb(138, 139, 138);
+}
+/* card header style for donate */
+.custom-card-header-donate  {
+  background-color: rgba(0, 128, 0, 0.095);
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 800;
+  border: 0;
+}
+/* card donate button style for givealittle and paypal */
+.custom-donate-button  {
+  width: 100%; 
+  max-width: 10rem; 
+  height: auto;
+}
+/* card donate button on hover */
+.custom-donate-button:hover,
+.custom-donate-button:active  {
+  transform: scale(1.05);
+}
+/* green content box for donate */
+.custom-content-green  {
+  background-color: green;
+  color:#fbfbfb;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+/** FAQ styles **/
+/* accordion */
+.accordion  {
+--bs-accordion-color: #451b16; 
+--bs-accordion-bg: rgba(0, 128, 0, 0.055); 
+--bs-accordion-border-color: #451b16; 
+--bs-accordion-btn-color: #451b16;
+} 
+
+/** footer styles **/
+.custom-footer {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+  color: #451b16;
+  text-align: center;
+  margin-top: 2rem;
 }
