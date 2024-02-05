@@ -41,7 +41,7 @@
           <a class="nav-link" href="FAQ.html">FAQ</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="contact.html">CONTACT</a>
+          <a class="nav-link" href="contact">CONTACT</a>
         </li>
       </ul>
     </div>
