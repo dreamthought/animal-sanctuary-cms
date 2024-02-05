@@ -24,10 +24,10 @@
 		<link rel="icon" href="/animal-santuary-cms/favicon.ico" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/start.plAsHzfT.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/entry.IZQPtkOH.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/start.CVvmZ7-r.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/entry.0OIOu_yA.js">
 		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/scheduler.kAlY8CUs.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/app.xy9JiYIK.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/app.B15dqHFt.js">
 		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/index.bcoglLpJ.js">
 
 	</head>
@@ -35,7 +35,7 @@
 		<div style="display: contents">
 			<script>
 				{
-					__sveltekit_1ff0b0z = {
+					__sveltekit_g4766o = {
 						base: "/animal-santuary-cms",
 						assets: "/animal-santuary-cms"
 					};
@@ -43,8 +43,8 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/animal-santuary-cms/_app/immutable/entry/start.plAsHzfT.js"),
-						import("/animal-santuary-cms/_app/immutable/entry/app.xy9JiYIK.js")
+						import("/animal-santuary-cms/_app/immutable/entry/start.CVvmZ7-r.js"),
+						import("/animal-santuary-cms/_app/immutable/entry/app.B15dqHFt.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
