@@ -26,7 +26,7 @@
           <a class="nav-link" href="about.html">ABOUT</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="animals.html">ANIMALS</a>
+          <a class="nav-link" href="animals">ANIMALS</a>
         </li>
         <li class="nav-item px-3">
           <a class="nav-link" href="adopt.html">ADOPT</a>

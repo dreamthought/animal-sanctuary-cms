@@ -64,7 +64,7 @@
               <div class="card-body custom-card-body-home">
                 <h4 class="card-title custom-card-title-home">Rescue Animals</h4>
                 <p class="card-text custom-card-text-home">The Animal Sanctuary is a permanent home and refuge for abandoned, abused, and forgotten animals.</p>
-                <a href="animals.html" class="btn custom-btn-home">Learn more</a>
+                <a href="animals" class="btn custom-btn-home">Learn more</a>
               </div>
             </div>
           </div>
