@@ -16,8 +16,7 @@ body {
 /** HEADER styles **/
 /* header background */
 .custom-header-wrapper {
-  background: rgb(251,251,251);
-  background: radial-gradient(circle, rgba(251,251,251,1) 0%, rgba(208,187,160,1) 100%);
+  background: radial-gradient(circle, rgba(255, 255, 255) 0%, rgb(121, 179, 253) 100%);
   text-align: center;
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -48,7 +47,6 @@ body {
 }
 /* toggler styles */
 .custom-toggler {
-  margin: 0.5rem;
   position: relative;
   border: none;
 }
@@ -56,8 +54,6 @@ body {
 .navbar-toggler-icon {
   position: relative;
   display: inline-block;
-  width: 2rem;
-  height: 2rem;
   vertical-align: middle;
   content: "";
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(242, 242, 242, 242)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
@@ -81,14 +77,14 @@ body {
 /* section title div */
 .custom-section-title  {
   color:#451b16;
-  background-color: rgba(0, 128, 0, 0.095);
+  background-color: #fbfbfb;
   font-size: 1.5rem;
   font-weight: 900;
   text-align: center;
   padding-top: 0.8rem;
   border-top: solid 0.1rem #451b16;
   border-bottom: solid 0.1rem #451b16;
-  margin-top: 2rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 /* wraps text around image */
@@ -173,6 +169,14 @@ h4  {
   border: solid 0.1rem #451b16;
 }
 
+
+/** ABOUT styles **/
+/* for sign-off image */
+.custom-signoff  {
+  width: 235px;
+  height: 28px;
+}
+
 /** CARD styles **/
 /* HOME card styles */
 .custom-card-home {
@@ -183,6 +187,8 @@ h4  {
   margin: auto;
   margin-bottom: 1rem;
   box-shadow: 4px 4px 5px rgb(138, 139, 138);
+  border: solid 0.2rem #451b16;
+
 }
 /* main card style on hover */
 .custom-card-home:hover,
@@ -195,7 +201,7 @@ h4  {
   bottom: 0;
   background-color: #451b16;
   color: #fbfbfb;
-  opacity: 0.8;
+  opacity: 0.9;
   border-top-left-radius: 2rem;
 }
 /* card title styles for home */
@@ -221,6 +227,48 @@ h4  {
   color: #fbfbfb;
   font-weight: bold;
 }
+
+/* WELCOME card styles */
+/* main card style */
+.custom-card-welcome {
+  background-color: rgba(0, 128, 0, 0.095);
+  color: #451b16;
+  width: 100%;
+  max-width: 30rem;
+  margin: auto;
+  margin-bottom: 1rem;
+  border: 0.15rem solid #451b16;
+  box-shadow: 4px 4px 5px rgb(138, 139, 138);
+}
+/* main card style on hover */
+.custom-card-welcome:hover,
+.custom-card-welcome:active  {
+  transform: scale(1.05);
+}
+/* card title styles for animals */
+.custom-card-title-welcome {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+/* card button styles for animals */
+.custom-btn-welcome {
+  background-color: #451b16;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
+  font-weight: bold;
+  position: absolute;
+  bottom: 0.15rem;
+  right: 0.15rem;
+}
+/* card button styles for active and hover animals */
+.custom-btn-welcome:hover,
+.custom-btn-welcome:active {
+  background-color: green;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
+  font-weight: bold;
+}
+
 
 /** ANIMALS card styles **/
 /* main card style */
@@ -331,28 +379,6 @@ h4  {
   transform: scale(1.05);
 }
 
-/** ABOUT styles **/
-/* for sign-off image */
-.custom-signoff  {
-  width: 235px;
-  height: 28px;
-}
-
-/** ANIMALS styles **/
-/* card button styles for shop */
-.custom-btn-animals {
-  background-color: #451b16;
-  color: #fbfbfb;
-  border: 0.15rem solid #fbfbfb;
-}
-/* card button styles for active and hover shop */
-.custom-btn-animals:hover,
-.custom-btn-animals:active {
-  background-color: green;
-  color: #fbfbfb;
-  font-weight: bold;
-}
-
 /** DONATE styles **/
 /* card style for donate */
 .custom-card-donate  {
@@ -397,7 +423,7 @@ h4  {
 --bs-accordion-btn-color: #451b16;
 } 
 
-/** footer styles **/
+/** FOOTER styles **/
 .custom-footer {
   font-family:Arial, Helvetica, sans-serif;
   font-size: 0.8rem;
