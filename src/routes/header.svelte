@@ -20,28 +20,28 @@
     <div class="justify-content-center navbar-collapse collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item px-3">
-          <a class="nav-link" href="index.html">HOME</a>
+          <a class="nav-link" href="/">HOME</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="about">ABOUT</a>
+          <a class="nav-link" href="/about">ABOUT</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="animals">ANIMALS</a>
+          <a class="nav-link" href="/animals">ANIMALS</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="adopt.html">ADOPT</a>
+          <a class="nav-link" href="/adopt.html">ADOPT</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="shop.html">SHOP</a>
+          <a class="nav-link" href="/shop.html">SHOP</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="help.html">DONATE/HELP</a>
+          <a class="nav-link" href="/help.html">DONATE/HELP</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="FAQ.html">FAQ</a>
+          <a class="nav-link" href="/FAQ.html">FAQ</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="contact">CONTACT</a>
+          <a class="nav-link" href="/contact">CONTACT</a>
         </li>
       </ul>
     </div>
