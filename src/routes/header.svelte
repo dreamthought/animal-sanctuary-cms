@@ -23,7 +23,7 @@
           <a class="nav-link" href="index.html">HOME</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="about.html">ABOUT</a>
+          <a class="nav-link" href="about">ABOUT</a>
         </li>
         <li class="nav-item px-3">
           <a class="nav-link" href="animals">ANIMALS</a>
