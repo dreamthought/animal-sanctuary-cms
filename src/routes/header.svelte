@@ -1,6 +1,7 @@
 <svelte:head>
   <title>The Animal Sanctuary</title>
 </svelte:head>
+
   <!-- Header -->
   <header class="container-fluid custom-header-wrapper">
     <a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank"><img id="banner" src="images/sanctuary-banner.png" 
@@ -17,7 +18,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="justify-content-center navbar-collapse collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto navbar-custom">
+      <ul class="navbar-nav mr-auto">
         <li class="nav-item px-3">
           <a class="nav-link" href="index.html">HOME</a>
         </li>
@@ -46,5 +47,3 @@
     </div>
   </nav>
   <!-- End Navigation -->
-
-
