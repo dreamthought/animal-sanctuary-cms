@@ -1,3 +1,8 @@
+<!-- Add headers here -->
+<svelte:head>
+<title>The Animal Sanctuary - Contact Us</title>
+</svelte:head>
+
 <!-- Contact Us -->
 <div class="container custom-content shadow-lg">
   <!-- Form and Contact Details section -->
