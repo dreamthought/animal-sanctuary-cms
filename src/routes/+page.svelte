@@ -88,15 +88,17 @@
 <hr/>
       <!-- Sponsorship request  -->
       <div class="container custom-content-green">
-        <h1 class="custom-h1-greenbg"><i>Would you spare a coffee for the animals?</i></h1>
+        <h1 class="custom-h1-greenbg"><i>Will you spare a coffee for the animals?</i></h1>
 	      <p>
-          <b>For the price of one good coffee a month, you can provide real help to injured and orphaned native birds and rescued abused animals.</b>
+          <b>For the price of just one good coffee a month, you can provide real help to injured and orphaned native birds and rescued abused animals.</b>
         </p>
         <p>
-          Become a Sanctuary Supporter with an automatic deduction of $5 or more per month. 
-          You will be invited to exclusive Supporters events, can cuddle the animals and visit the birds, and will receive regular photos and updates. 
-          And because we are a registered charity, you’ll even receive one-third of your donation each year back from the government. 
-          Which means you can join for LESS than a cup of coffee each month! <a href="support" class="in-text-link-greenbg">Click here to become a supporter.</a>
+          Become a Sanctuary Supporter with an automatic deduction donation of $5 or more per month. 
+          You can visit The Animal Sanctuary (which is closed to the general public), meet the animals and birds, and see what we do. 
+          And because we are a registered charity, you can even receive one-third of your donation back each year as a tax refund! 
+        </p>
+        <p class="text-center">
+          <a href="support" class="in-text-link-greenbg">Click here to become a supporter.</a>
         </p>
       </div>
       <!-- End Sponsorship request -->
