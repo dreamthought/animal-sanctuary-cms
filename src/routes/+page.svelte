@@ -17,7 +17,7 @@
         <div class="col-lg-6 mb-3">
           <div class="container-iframe">
             <iframe class="responsive-iframe"
-                    src="https://player.vimeo.com/video/447269165?color&amp;autopause=0&amp;loop=1&amp;muted=0&amp;title=0&amp;portrait=0&amp;byline=0#t=">
+                    src="https://player.vimeo.com/video/447269165?color&amp;autopause=0&amp;loop=1&amp;muted=0&amp;title=0&amp;portrait=0&amp;byline=0#t=" title="The Animal Sanctuary video">
             </iframe>
           </div>
         </div>
