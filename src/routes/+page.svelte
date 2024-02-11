@@ -63,7 +63,7 @@
                 <img src="images/home/rescueanimals.jpg" alt="Young rescue goat" class="card-img" />
                 <div class="card-img-overlay">
                   <div class="card-body custom-card-body-home">
-                    <h4 class="card-title custom-card-title-home">Rescue Animals</h4>
+                    <h4 class="card-title custom-card-title-home">Rescued Animals</h4>
                     <p class="card-text custom-card-text-home">The Animal Sanctuary is a permanent home and refuge for abandoned, abused, and forgotten animals.</p>
                     <a href="animals" class="btn custom-btn-home">Learn more</a>
                   </div>
@@ -75,8 +75,8 @@
                 <img src="images/home/batteryhens.jpg" class="card-img" alt="Battery Hens" />
                 <div class="card-img-overlay">
                   <div class="card-body custom-card-body-home">
-                    <h4 class="card-title custom-card-title-home">Battery Hens</h4>
-                    <p class="card-text custom-card-text-home">We rehabilitate and rehome ex-battery hens throughout the Auckland region.</p>
+                    <h4 class="card-title custom-card-title-home">Egg-Farm Hens</h4>
+                    <p class="card-text custom-card-text-home">We rehabilitate & rehome hens from commercial egg farms.</p>
                     <a href="hens" class="btn custom-btn-home">Learn more</a>
                   </div>
                 </div>
