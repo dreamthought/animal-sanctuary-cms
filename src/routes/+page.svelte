@@ -27,12 +27,13 @@
           We provide a safe haven for abused and neglected animals, and care for injured and orphaned native birds.</b>
           </p>
           <p>
-          Our 32 acre property has grazing land to permanently home abused animals, and is bordered by 400 acres of protected bush where we can 
-          safely release rehabilitated native birds.
+            Our 32 acre property has paddocks and barns to care for abused farm animals. 
+            Some stay forever, and others are rehomed when they recover. 
+            We're bordered by 400 acres of protected bush where we can safely release rehabilitated native birds.
           </p>
           <p>
-          We currently care for around 100 animals in The Sanctuary: two-legged and four-legged, native and exotic, warm and cold-blooded –
-          all getting the care that they deserve.
+            We often care for between 100 – 300 animals at The Animal Sanctuary: two-legged and
+            four-legged, native and exotic, warm and cold-blooded – all getting the care that they deserve.
           </p>
           <p class="text-center">
           <b>You can <a href="https://player.vimeo.com/video/447269165?color&amp;autopause=0&amp;loop=1&amp;muted=0&amp;title=0&amp;portrait=0&amp;byline=0#t=" target="_blank" class="in-text-link">watch our video</a>
@@ -44,7 +45,7 @@
 <hr/>
       <!-- What We Do -->
       <div class="row">
-        <h3 class="mb-3">The Animal Sanctuary is a haven for all animals, with a focus on three main areas of work:</h3>
+        <h3 class="mb-3">The Animal Sanctuary is a haven for a wide range of animals with a focus on three main areas of work:</h3>
         <div class="col-md-4">
             <div class="card custom-card-home">
                 <img src=" images/home/nativebirds.jpg" alt="Two native wood pigeons - kereru" class="card-img" />
