@@ -28,7 +28,7 @@
             <h4 class="card-header custom-card-title-animals">Equines</h4>
             <img src="images/animals/animals-1-equines.jpg" alt="equines" class="card-img-top" />
             <div class="card-img-overlay">
-              <a href="equines.html" class="btn custom-btn-animals">Learn more</a>
+              <a href="equines" class="btn custom-btn-animals">Learn more</a>
             </div>
           </div>
       </div>
@@ -37,7 +37,7 @@
           <h4 class="card-header custom-card-title-animals">Goats</h4>
           <img src="images/animals/animals-2-goats.jpg" alt="goats" class="card-img-top" />
           <div class="card-img-overlay">
-            <a href="goats.html" class="btn custom-btn-animals">Learn more</a>
+            <a href="goats" class="btn custom-btn-animals">Learn more</a>
           </div>
         </div>
       </div>
@@ -46,7 +46,7 @@
             <h4 class="card-header custom-card-title-animals">Pigs</h4>
             <img src="images/animals/animals-3-pigs.jpg" alt="pigs" class="card-img-top" />
             <div class="card-img-overlay">
-              <a href="pigs.html" class="btn custom-btn-animals">Learn more</a>
+              <a href="pigs" class="btn custom-btn-animals">Learn more</a>
             </div>
           </div>
       </div>
@@ -55,7 +55,7 @@
             <h4 class="card-header custom-card-title-animals">Parrots</h4>
             <img src="images/animals/animals-4-parrots.jpg" alt="parrots" class="card-img-top" />
             <div class="card-img-overlay">
-              <a href="parrots.html" class="btn custom-btn-animals">Learn more</a>
+              <a href="parrots" class="btn custom-btn-animals">Learn more</a>
             </div>
           </div>
       </div>
@@ -66,7 +66,7 @@
               <h4 class="card-header custom-card-title-animals">Ducks</h4>
               <img src="images/animals/animals-5-ducks.jpg" alt="ducks" class="card-img-top" />
               <div class="card-img-overlay">
-                <a href="ducks.html" class="btn custom-btn-animals">Learn more</a>
+                <a href="ducks" class="btn custom-btn-animals">Learn more</a>
               </div>
             </div>
         </div>
@@ -75,7 +75,7 @@
             <h4 class="card-header custom-card-title-animals">Peacocks</h4>
             <img src="images/animals/animals-6-peacocks.jpg" alt="peacocks" class="card-img-top" />
              <div class="card-img-overlay">
-              <a href="peacocks.html" class="btn custom-btn-animals">Learn more</a>
+              <a href="peacocks" class="btn custom-btn-animals">Learn more</a>
             </div>
           </div>
         </div>
@@ -84,7 +84,7 @@
               <h4 class="card-header custom-card-title-animals">Hens</h4>
               <img src="images/animals/animals-7-hens.jpg" alt="hens" class="card-img-top" />
               <div class="card-img-overlay">
-                <a href="ourhens.html" class="btn custom-btn-animals">Learn more</a>
+                <a href="ourhens" class="btn custom-btn-animals">Learn more</a>
               </div>
             </div>
         </div>
@@ -93,7 +93,7 @@
               <h4 class="card-header custom-card-title-animals">Native Birds</h4>
               <img src="images/animals/animals-8-nativebirds.jpg" alt="native birds" class="card-img-top" />
               <div class="card-img-overlay">
-                <a href="nativebirds.html" class="btn custom-btn-animals">Learn more</a>
+                <a href="nativebirds" class="btn custom-btn-animals">Learn more</a>
               </div>
             </div>
         </div>
