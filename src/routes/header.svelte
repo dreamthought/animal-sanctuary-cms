@@ -11,9 +11,8 @@
 
   <!-- Navigation -->
   <nav class="sticky-top navbar navbar-expand-lg custom-navbar">
-    <!-- svelte-ignore a11y-missing-attribute -->
-    <!-- svelte-ignore a11y-missing-content -->
-    <a class="d-lg-node d-xl-none navbar-brand" href="#"></a>
+    <!-- svelte-ignore a11y-missing-content a11y-missing-attribute -->
+    <a class="d-lg-node d-xl-none navbar-brand" href="."></a>
     <button class="navbar-toggler custom-toggler shadow-none" type="button" data-bs-toggle="collapse"
       data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
       aria-label="Toggle navigation">
