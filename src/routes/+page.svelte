@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-
+<title>The Animal Sanctuary - Home</title>
 </svelte:head>
 
 <script>
@@ -52,7 +52,7 @@
                   <div class="card-body custom-card-body-home">
                     <h4 class="card-title custom-card-title-home">Native Birds</h4>
                     <p class="card-text custom-card-text-home">We rehabilitate and release native New Zealand birds back into the wild.</p>
-                    <a href="nativebirds.html" class="btn custom-btn-home">Learn more</a>
+                    <a href="nativebirds" class="btn custom-btn-home">Learn more</a>
                   </div>
                 </div>
               </div>
@@ -64,7 +64,7 @@
                   <div class="card-body custom-card-body-home">
                     <h4 class="card-title custom-card-title-home">Rescue Animals</h4>
                     <p class="card-text custom-card-text-home">The Animal Sanctuary is a permanent home and refuge for abandoned, abused, and forgotten animals.</p>
-                    <a href="animals.html" class="btn custom-btn-home">Learn more</a>
+                    <a href="animals" class="btn custom-btn-home">Learn more</a>
                   </div>
                 </div>
               </div>
@@ -76,7 +76,7 @@
                   <div class="card-body custom-card-body-home">
                     <h4 class="card-title custom-card-title-home">Battery Hens</h4>
                     <p class="card-text custom-card-text-home">We rehabilitate and rehome ex-battery hens throughout the Auckland region.</p>
-                    <a href="hens.html" class="btn custom-btn-home">Learn more</a>
+                    <a href="hens" class="btn custom-btn-home">Learn more</a>
                   </div>
                 </div>
               </div>
@@ -95,7 +95,7 @@
           Become a Sanctuary Supporter with an automatic deduction of $5 or more per month. 
           You will be invited to exclusive Supporters events, can cuddle the animals and visit the birds, and will receive regular photos and updates. 
           And because we are a registered charity, you’ll even receive one-third of your donation each year back from the government. 
-          Which means you can join for LESS than a cup of coffee each month! <a href="support.html" class="in-text-link-greenbg">Click here to become a supporter.</a>
+          Which means you can join for LESS than a cup of coffee each month! <a href="support" class="in-text-link-greenbg">Click here to become a supporter.</a>
         </p>
       </div>
       <!-- End Sponsorship request -->

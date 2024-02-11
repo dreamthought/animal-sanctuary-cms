@@ -32,13 +32,13 @@
           <a class="nav-link" href="adopt">ADOPT</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="shop.html">SHOP</a>
+          <a class="nav-link" href="shop">SHOP</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="help.html">DONATE/HELP</a>
+          <a class="nav-link" href="help">DONATE/HELP</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="FAQ.html">FAQ</a>
+          <a class="nav-link" href="FAQ">FAQ</a>
         </li>
         <li class="nav-item px-3">
           <a class="nav-link" href="contact">CONTACT</a>
