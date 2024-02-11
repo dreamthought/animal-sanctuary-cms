@@ -35,9 +35,10 @@
           The final step in their rehab program is learning to fly vertically and for longer stretches in the big aviary, which is necessary for a successful release.
         </p>
         <p>
-          Our goal is the eventual release of all native birds in our care, and we support feed after release until the birds have successfully established 
-          their new life in the wild. You can be here to see the release yourself by becoming a Native Bird Buddy and supporting The Sanctuary with a regular donation. 
-          For more information, <a href="support" class="in-text-link">click here</a>.
+          Our goal is the eventual release of all native birds in our care, 
+          and we support feed after release until the birds have successfully established their new life in the wild. 
+          You can help us to save our precious native birds by becoming a Sanctuary Supporter.
+          <br/>For more information, <a href="support" class="in-text-link">click here</a>.
         </p>
       </div>
     </div>
