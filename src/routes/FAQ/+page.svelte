@@ -73,7 +73,7 @@
         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordion">
           <div class="accordion-body custom-accordion-body">
             Certainly. The Department of Consevation (DOC) has a great website that gives pictures and descriptions of all New Zealand birds. 
-            Please follow this link: <a href="www.doc.govt.nz/conservation/native-animals/birds/birds-a-z/" target="_blank">www.doc.govt.nz/conservation/native-animals/birds/birds-a-z/</a>
+            Please follow this link: <a href="https://www.doc.govt.nz/conservation/native-animals/birds/birds-a-z/" target="_blank">www.doc.govt.nz/conservation/native-animals/birds/birds-a-z/</a>
           </div>
         </div>
       </div>
