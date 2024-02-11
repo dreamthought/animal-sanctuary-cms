@@ -22,7 +22,7 @@
             <div class="card-body custom-card-body-shop">
               <h4 class="card-title custom-card-title-shop">Online Shop</h4>
               <p class="card-text custom-card-text-shop">Yes, our own on-line shop! 100% of the profits from these products go to the animals.</p>
-              <a href="#" class="btn custom-btn-shop">Coming Soon</a>
+              <a href="#/" class="btn custom-btn-shop">Coming Soon</a>
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@
             <div class="card-body custom-card-body-shop">
               <h4 class="card-title custom-card-title-shop">Trade Me Store</h4>
               <p class="card-text custom-card-text-shop">100% of the sales from our Trade Me site go to the animals. (contact us if you have items for us to sell)</p>
-              <a href="#" class="btn custom-btn-shop">Shop Now</a>
+              <a href="#/" class="btn custom-btn-shop">Shop Now</a>
             </div>
           </div>
         </div>
@@ -53,7 +53,7 @@
         The proceeds from this sale will help us continue the important work we do, and we couldn’t do it without support from people like you.</b>
       </p>
       <p>
-        To help us create the best listing possible, please complete this form and send it back to us at <a class="in-text-link">animalsopshop@gmail.com</a> with <b><i>at least three</i></b> photographs of the item. 
+        To help us create the best listing possible, please complete this form and send it back to us at <b class="custom-b-green">animalsopshop@gmail.com</b> with <b><i>at least three</i></b> photographs of the item. 
         We suggest you follow these guidelines for photos:
       </p>
       <ul>
