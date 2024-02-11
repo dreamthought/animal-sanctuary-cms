@@ -20,7 +20,7 @@
     <div class="justify-content-center navbar-collapse collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item px-3">
-          <a class="nav-link" href="index">HOME</a>
+          <a class="nav-link" href=".">HOME</a>
         </li>
         <li class="nav-item px-3">
           <a class="nav-link" href="about">ABOUT</a>
@@ -29,7 +29,7 @@
           <a class="nav-link" href="animals">ANIMALS</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="adopt.html">ADOPT</a>
+          <a class="nav-link" href="adopt">ADOPT</a>
         </li>
         <li class="nav-item px-3">
           <a class="nav-link" href="shop.html">SHOP</a>
