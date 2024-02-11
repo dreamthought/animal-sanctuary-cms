@@ -19,7 +19,7 @@
           <h4 class="card-header custom-card-title-animals">Ex-Battery hens</h4>
           <img src="images/adopt/hen.jpg" alt="hens" class="card-img-top" />
           <div class="card-img-overlay">
-            <a href="hens.html" class="btn custom-btn-animals">Learn more</a>
+            <a href="hens" class="btn custom-btn-animals">Learn more</a>
           </div>
         </div>
       </div>
