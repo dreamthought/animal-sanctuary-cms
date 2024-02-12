@@ -152,8 +152,8 @@ h2 {
 }
 /* h3 text styles */
 h3  {
-  color: green;
-  text-shadow: 1px 1px 2px #000;
+  color: #451b16;
+  text-shadow: 0.2px 0.2px 1px #000;
   font-size: 1.5rem;
   font-weight: 900;
   text-align: center;
