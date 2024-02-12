@@ -9,10 +9,10 @@
       <div class="container">
       <h2><i>Would you spare a coffee for the animals?</i></h2>
         <p>
-        <b>For the price of just one good coffee a month, you can provide real help to injured and orphaned native birds and rescued abused animals.</b>
+        <b>For the price of just one coffee a month, you can provide real help to injured and orphaned native birds and rescued abused animals.</b>
       </p>
       <p>
-        Become a Sanctuary Supporter with an automatic deduction donation of $5 or more per month. 
+        Become a Sanctuary Supporter with an automatic donation of $5 or more per month. 
         You can visit The Animal Sanctuary (which is closed to the general public), meet the animals and birds, and see what we do. 
         And because we are a registered charity, you can even receive one-third of your donation back each year as a tax refund!
       </p>
