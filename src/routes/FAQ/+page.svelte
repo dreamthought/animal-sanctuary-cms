@@ -101,8 +101,8 @@
         </div>
         <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordion">
           <div class="accordion-body custom-accordion-body">
-            When you <a href="hens" class="in-text-link">register your interest in getting a hen from us</a>, we will contact you and give you the opportunity to ask us questions and learn more about keeping hens. 
-            We also have created a fact sheet that covers basic hen care for new hen owners. 
+            Head over to our <a href="adopt" class="in-text-link">adoption page</a>, where you find all the info you need. 
+            We have also created a fact sheet that covers basic hen care for new hen owners. 
             You can download it <a href="https://animalsanctuary.co.nz/wp-content/uploads/2020/08/hen_adoption.pdf" target="_blank" class="in-text-link">here</a>.
           </div>
         </div>

@@ -30,7 +30,7 @@
               <h4 class="card-header custom-card-title-animals">Adopt a Hen</h4>
               <img src="images/help/hen.jpg" alt="pigs" class="card-img-top" />
               <div class="card-img-overlay">
-                <a href="hens" class="btn custom-btn-animals">Learn more</a>
+                <a href="adopt" class="btn custom-btn-animals">Learn more</a>
               </div>
             </div>
         </div>

@@ -72,12 +72,12 @@
         </div>
         <div class="col-md-4">
             <div class="card custom-card-home">
-                <img src="images/home/batteryhens.jpg" class="card-img" alt="Battery Hens" />
+                <img src="images/home/batteryhens.jpg" class="card-img" alt="Ex Egg Farm Hen" />
                 <div class="card-img-overlay">
                   <div class="card-body custom-card-body-home">
                     <h4 class="card-title custom-card-title-home">Egg-Farm Hens</h4>
                     <p class="card-text custom-card-text-home">We rehabilitate & rehome hens from commercial egg farms.</p>
-                    <a href="hens" class="btn custom-btn-home">Learn more</a>
+                    <a href="adopt" class="btn custom-btn-home">Learn more</a>
                   </div>
                 </div>
               </div>
