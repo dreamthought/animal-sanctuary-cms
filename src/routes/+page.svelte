@@ -88,18 +88,26 @@
 <hr/>
       <!-- Sponsorship request  -->
       <div class="container custom-content-green">
-        <h1 class="custom-h1-greenbg"><i>Will you spare a coffee for the animals?</i></h1>
-	      <p>
-          <b>For the price of just one coffee a month, you can provide real help to injured and orphaned native birds and rescued abused animals.</b>
-        </p>
-        <p>
-          Become a Sanctuary Supporter with an automatic donation of $5 or more per month. 
-          You can visit The Animal Sanctuary (which is closed to the general public), meet the animals and birds, and see what we do. 
-          And because we are a registered charity, you can even receive one-third of your donation back each year as a tax refund! 
-        </p>
-        <p class="text-center">
-          <a href="support" class="in-text-link-greenbg">Click here to become a supporter.</a>
-        </p>
+        <div class="row">
+          <div class="col-lg-4">
+            <img src="images/home/coffeeAI.jpeg" class="img-fluid rounded" alt="AI generated painting of a donkey and an owl sharing a pot of coffee">
+          </div>
+          <div class="col-lg-8">
+              <h1 class="custom-h1-greenbg mt-3"><i>Will you spare a coffee for the animals?</i></h1>
+              <p>
+                <b>For the price of just one coffee a month, you can provide real help to injured and orphaned native birds and rescued abused animals.</b>
+              </p>
+              <p>
+                Become a Sanctuary Supporter with an automatic donation of $5 or more per month. 
+                You can visit The Animal Sanctuary (which is closed to the general public), meet the animals and birds, and see what we do. 
+                And because we are a registered charity, you can even receive one-third of your donation back each year as a tax refund! 
+              </p>
+              <p class="text-center">
+                <a href="support" class="btn custom-btn-home p-3 mt-2 fs-5"><b>Yes, I want to become a supporter!</b></a>
+              </p>
+          </div>
+        </div>
+        
       </div>
       <!-- End Sponsorship request -->
     
