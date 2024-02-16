@@ -4,8 +4,8 @@
 
   <!-- Header -->
   <header class="container-fluid custom-header-wrapper">
-    <a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank"><img id="banner" src="images/sanctuary-banner.png" 
-       alt="Animal Sanctuary Logo" class="img-fluid" /></a>
+    <a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank">
+      <img src="images/sanctuary-banner.png" alt="Animal Sanctuary Logo" class="img-fluid" /></a>
   </header>
   <!-- End Header -->
 
