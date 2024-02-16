@@ -23,7 +23,7 @@
         </div>
         <div class="col-lg-6">
           <p>
-          <b>The Animal Sanctuary is run by Shawn Bishop and Michael Dixon based in Matakana, New Zealand.
+          <b>The Animal Sanctuary is run by Shawn Bishop and Michael Dixon, and is based in Matakana, New Zealand.
           We provide a safe haven for abused and neglected animals, and care for injured and orphaned native birds.</b>
           </p>
           <p>
@@ -107,7 +107,6 @@
               </p>
           </div>
         </div>
-        
       </div>
       <!-- End Sponsorship request -->
     
