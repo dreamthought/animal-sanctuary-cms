@@ -27,9 +27,6 @@
           <a class="nav-link" href="about">ABOUT</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="animals">ANIMALS</a>
-        </li>
-        <li class="nav-item px-3">
           <a class="nav-link" href="adopt">ADOPT</a>
         </li>
         <li class="nav-item px-3">
