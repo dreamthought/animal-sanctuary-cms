@@ -212,7 +212,8 @@ b.custom-b-green  {
 }
 
 /** CARD styles **/
-/* HOME card styles */
+/** HOME card styles **/
+/* main card style */
 .custom-card-home {
   width: 100%;
   max-width: 20rem;
@@ -229,7 +230,7 @@ b.custom-b-green  {
 .custom-card-home:active  {
   transform: scale(1.05);
 }
-/* card body styles for home */
+/* card body styles */
 .custom-card-body-home {
   position: absolute;
   bottom: 0;
@@ -238,7 +239,7 @@ b.custom-b-green  {
   opacity: 0.9;
   border-top-left-radius: 2rem;
 }
-/* card title styles for home */
+/* card title styles */
 .custom-card-title-home {
   font-size: 1.5rem;
   font-weight: bold;
@@ -248,61 +249,19 @@ b.custom-b-green  {
   font-size: 1rem;
   color: #fbfbfb;
 }
-/* card button styles for home */
+/* card button styles */
 .custom-btn-home {
   background-color: #451b16;
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
 }
-/* card button styles for active and hover home */
+/* card button styles for active and hover */
 .custom-btn-home:hover,
 .custom-btn-home:active {
   background-color: green;
   color: #fbfbfb;
   font-weight: bold;
 }
-
-/* WELCOME card styles */
-/* main card style */
-.custom-card-welcome {
-  background-color: rgba(0, 128, 0, 0.095);
-  color: #451b16;
-  width: 100%;
-  max-width: 30rem;
-  margin: auto;
-  margin-bottom: 1rem;
-  border: 0.15rem solid #451b16;
-  box-shadow: 4px 4px 5px rgb(138, 139, 138);
-}
-/* main card style on hover */
-.custom-card-welcome:hover,
-.custom-card-welcome:active  {
-  transform: scale(1.05);
-}
-/* card title styles for animals */
-.custom-card-title-welcome {
-  font-size: 1.5rem;
-  font-weight: bold;
-}
-/* card button styles for animals */
-.custom-btn-welcome {
-  background-color: #451b16;
-  color: #fbfbfb;
-  border: 0.15rem solid #fbfbfb;
-  font-weight: bold;
-  position: absolute;
-  bottom: 0.15rem;
-  right: 0.15rem;
-}
-/* card button styles for active and hover animals */
-.custom-btn-welcome:hover,
-.custom-btn-welcome:active {
-  background-color: green;
-  color: #fbfbfb;
-  border: 0.15rem solid #fbfbfb;
-  font-weight: bold;
-}
-
 
 /** ANIMALS card styles **/
 /* main card style */
@@ -322,12 +281,12 @@ b.custom-b-green  {
 .custom-card-animals:active  {
   transform: scale(1.05);
 }
-/* card title styles for animals */
+/* card title styles */
 .custom-card-title-animals {
   font-size: 1.5rem;
   font-weight: bold;
 }
-/* card button styles for animals */
+/* card button styles */
 .custom-btn-animals {
   background-color: #fbfbfb;
   color: #451b16;
@@ -337,7 +296,7 @@ b.custom-b-green  {
   bottom: 0.15rem;
   right: 0.15rem;
 }
-/* card button styles for active and hover animals */
+/* card button styles for active and hover */
 .custom-btn-animals:hover,
 .custom-btn-animals:active {
   background-color: green;
@@ -346,7 +305,73 @@ b.custom-b-green  {
   font-weight: bold;
 }
 
-/* SHOP card styles */
+/** ADOPT card styles **/
+/* main card style */
+.custom-card-adopt {
+  width: 100%;
+  max-width: 30rem;
+  background-color: #451b16;
+  color: #fbfbfb;
+  margin: auto;
+  margin-bottom: 1rem;
+  box-shadow: 4px 4px 5px rgb(138, 139, 138);
+  border: solid 0.2rem #451b16;
+
+}
+/* main card style on hover */
+.custom-card-adopt:hover,
+.custom-card-adopt:active  {
+  transform: scale(1.05);
+}
+/* card body styles */
+.custom-card-body-adopt {
+  position: absolute;
+  bottom: 0;
+  background-color: #451b16;
+  color: #fbfbfb;
+  opacity: 0.9;
+  border-top-left-radius: 2rem;
+}
+/* card title styles */
+.custom-card-title-adopt {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+/* card text styles */
+.custom-card-text-adopt {
+  font-size: 1rem;
+  color: #fbfbfb;
+}
+/* card button styles */
+.custom-btn-adopt {
+  background-color: #451b16;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
+}
+/* card button styles for active and hover */
+.custom-btn-adopt:hover,
+.custom-btn-adopt:active {
+  background-color: green;
+  color: #fbfbfb;
+  font-weight: bold;
+}
+/* card button styles */
+.custom-btn-adopt-blue-hover {
+  background-color: #451b16;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
+}
+/* card button styles for active and hover */
+.custom-btn-adopt-blue-hover:hover,
+.custom-btn-adopt-blue-hover:active {
+  background-color: #4267B2;
+  color: #fbfbfb;
+  font-weight: bold;
+}
+
+
+/** SHOP card styles **/
+/* miand card styles */
 .custom-card-shop {
   width: 100%;
   max-width: 20rem;
