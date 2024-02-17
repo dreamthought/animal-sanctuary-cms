@@ -13,13 +13,13 @@
     <!-- Form -->
     <div class="col-md-6">
       <h2>Email</h2>
-      <p><a href="mailto:someone@example.com" class="in-text-link">animalsanctuary@xtra.co.nz</a></p>
+      <p><a href="mailto:someone@example.com" class="in-text-link"><b>animalsanctuary@xtra.co.nz</b></a></p>
     </div>
     <!-- End Form -->
     <!-- Contact Details -->
     <div class="col-md-6">
       <h2>Send us a message on Facebook</h2>
-      <p><a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank" class="in-text-link-facebook">The Animal Sanctuary</a></p>
+      <p><a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank" class="in-text-link-facebook"><b>The Animal Sanctuary NZ</b></a></p>
     </div>
     <!-- End Contact Details -->     
   </div>
