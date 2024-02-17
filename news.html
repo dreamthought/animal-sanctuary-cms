@@ -7,8 +7,6 @@
 	<title>The Animal Sanctuary</title>
 	<meta name=description
 		content="The Animal Sanctuary - Animal Shelter based near Matakana is an established chicken, duck, farm animal and native bird rescue working for the health and welfare of animals across New Zealand" />
-	<!-- Load external font-awesome CSS styles -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 	<!-- Load external Bootstrap CSS styles -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
 		integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
@@ -21,13 +19,19 @@
 	<!-- Svelte Head -->
 	<link rel="icon" href="./favicon.ico" />
 	
-		<link rel="modulepreload" href="./_app/immutable/entry/start.W-lCBdra.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/entry.IFHsA-v3.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.wRvJysW8.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/entry.j4qFC-z3.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/scheduler.kAlY8CUs.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.I7uBWAw-.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.yN5FhTQm.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/index.0fZ7xqdG.js">
 		<link rel="modulepreload" href="./_app/immutable/nodes/0.0azCt-w5.js">
 		<link rel="modulepreload" href="./_app/immutable/nodes/16.nwJsDe2A.js"><title>The Animal Sanctuary - Animals - Ducks</title><!-- HEAD_svelte-1vyl4eg_START --><!-- HEAD_svelte-1vyl4eg_END --><!-- HEAD_svelte-gu5i71_START --><!-- HEAD_svelte-gu5i71_END -->
+
+	<!-- Load external Bootstrap JS -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" 
+	integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+	<!-- Load external font-awesome CSS styles -->
+	<script src="https://kit.fontawesome.com/0414b2b37b.js" crossorigin="anonymous"></script>
 </head>
 
 <body data-sveltekit-preload-data="hover" data-sveltekit-preload-code="viewport">
@@ -47,7 +51,7 @@
 			
 			<script>
 				{
-					__sveltekit_71c2kb = {
+					__sveltekit_1imvwut = {
 						base: new URL(".", location).pathname.slice(0, -1),
 						assets: "/animal-santuary-cms"
 					};
@@ -57,8 +61,8 @@
 					const data = [null,null];
 
 					Promise.all([
-						import("./_app/immutable/entry/start.W-lCBdra.js"),
-						import("./_app/immutable/entry/app.I7uBWAw-.js")
+						import("./_app/immutable/entry/start.wRvJysW8.js"),
+						import("./_app/immutable/entry/app.yN5FhTQm.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element, {
 							node_ids: [0, 16],
@@ -70,12 +74,6 @@
 				}
 			</script>
 		</div>
-	<!-- Load external Bootstrap JS -->
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
-		integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-		crossorigin="anonymous"></script>
-
-
 </body>
 
 </html>
