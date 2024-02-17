@@ -12,13 +12,13 @@
   <div class="row">
     <!-- Form -->
     <div class="col-md-6">
-      <h2>Email</h2>
+      <h2><i class="fa-solid fa-envelope"></i> Email</h2>
       <p><a href="mailto:someone@example.com" class="in-text-link"><b>animalsanctuary@xtra.co.nz</b></a></p>
     </div>
     <!-- End Form -->
     <!-- Contact Details -->
     <div class="col-md-6">
-      <h2>Send us a message on Facebook</h2>
+      <h2><i class="fa-brands fa-facebook-messenger"></i> Send us a message on Facebook</h2>
       <p><a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank" class="in-text-link-facebook"><b>The Animal Sanctuary NZ</b></a></p>
     </div>
     <!-- End Contact Details -->     
