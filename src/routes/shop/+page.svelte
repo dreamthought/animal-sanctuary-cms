@@ -45,6 +45,7 @@
 
       </div>
     <!-- End row for shop options cards -->
+<hr/>
     <!-- Op Shop Donations -->
     <div class="container custom-content-green text-center mt-3">
       <p class="fs-3 pt-2"><b>We welcome donations for our Animals Op Shop Store</b></p>

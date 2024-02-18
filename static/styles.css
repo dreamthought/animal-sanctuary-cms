@@ -373,6 +373,7 @@ b.custom-b-green  {
   margin: auto;
   margin-bottom: 1rem;
   box-shadow: 4px 4px 5px rgb(138, 139, 138);
+  border: solid 0.2rem #451b16;
 }
 /* main card style on hover */
 .custom-card-shop:hover,
@@ -385,7 +386,7 @@ b.custom-b-green  {
   bottom: 0;
   background-color: #451b16;
   color: #fbfbfb;
-  opacity: 0.8;
+  opacity: 0.9;
   border-top-left-radius: 2rem;
 }
 /* card title styles for shop */
