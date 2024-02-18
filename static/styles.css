@@ -3,7 +3,7 @@ html {
   font-size: 15px;
 }
 
-/* BODY styles */
+/** BODY styles **/
 body {
   margin: 0;
   background-color:#fbfbfb;
@@ -68,27 +68,15 @@ body {
   padding-top: 2rem;
   padding-bottom: 3rem;
 }
-/* box styles */
+/* content container styles */
 .custom-content  {
   background-color: #fbfbfb;
   border-radius: 1rem;
   padding: 1rem;
 }
-/* section title div */
-.custom-section-title  {
-  color:#451b16;
-  background-color: #fbfbfb;
-  font-size: 1.5rem;
-  font-weight: 900;
-  text-align: center;
-  padding-top: 0.8rem;
-  border-top: solid 0.1rem #451b16;
-  border-bottom: solid 0.1rem #451b16;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
 
-/** VIDEO styles **/
+/** HOME styles **/
+/* VIDEO styles */
 /* i-frame Vimeo video */
 .container-iframe {
   position: relative;
@@ -112,15 +100,8 @@ body {
   height: 100%;
   border: solid 0.1rem #451b16;
 }
-/* blue content box for home coffee appeal */
-.custom-content-blue  {
-  /* background-color:	#198754; */
-  background-color: #451b16;
-  color:#fbfbfb;
-  border-radius: 0.5rem;
-  border: 1px solid #451b16;
-}
-
+/* COFFEE styles */
+/* background image for text for home coffee appeal */
 .custom-content-coffee  {
   background-image: url('images/home/coffeetext.jpeg');
   background-repeat:no-repeat;
@@ -237,7 +218,6 @@ b.custom-b-green  {
   margin-bottom: 1rem;
   box-shadow: 4px 4px 5px rgb(138, 139, 138);
   border: solid 0.2rem #451b16;
-
 }
 /* main card style on hover */
 .custom-card-home:hover,
@@ -330,7 +310,6 @@ b.custom-b-green  {
   margin-bottom: 1rem;
   box-shadow: 4px 4px 5px rgb(138, 139, 138);
   border: solid 0.2rem #451b16;
-
 }
 /* main card style on hover */
 .custom-card-adopt:hover,
@@ -369,13 +348,13 @@ b.custom-b-green  {
   color: #fbfbfb;
   font-weight: bold;
 }
-/* card button styles */
+/* card button styles for facebook blue */
 .custom-btn-adopt-blue-hover {
   background-color: #451b16;
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
 }
-/* card button styles for active and hover */
+/* card button styles for active and hover for facebook blue */
 .custom-btn-adopt-blue-hover:hover,
 .custom-btn-adopt-blue-hover:active {
   background-color: #4267B2;
