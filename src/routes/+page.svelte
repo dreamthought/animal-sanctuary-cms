@@ -87,13 +87,13 @@
       <!-- End What We Do -->
 <hr/>
       <!-- Sponsorship request  -->
-      <div class="container custom-content-green">
+      <div class="container">
         <div class="row">
-          <div class="col-lg-4">
-            <img src="images/home/coffeeAI.jpeg" class="img-fluid rounded" alt="AI generated painting of a donkey and an owl sharing a pot of coffee">
+          <div class="col-lg-6 g-0">
+            <img src="images/home/coffeeAI.jpeg" class="img-fluid" alt="The Sanctuary donkey and owl sitting at a table sharing coffee">
           </div>
-          <div class="col-lg-8">
-              <h1 class="custom-h1-greenbg mt-3"><i>Will you spare a coffee for the animals?</i></h1>
+
+          <div class="col-lg-6 pt-5 custom-content-coffee">
               <p>
                 <b>For the price of just one coffee a month, you can provide real help to injured and orphaned native birds and rescued abused animals.</b>
               </p>

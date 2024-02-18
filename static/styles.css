@@ -112,6 +112,20 @@ body {
   height: 100%;
   border: solid 0.1rem #451b16;
 }
+/* blue content box for home coffee appeal */
+.custom-content-blue  {
+  /* background-color:	#198754; */
+  background-color: #451b16;
+  color:#fbfbfb;
+  border-radius: 0.5rem;
+  border: 1px solid #451b16;
+}
+
+.custom-content-coffee  {
+  background-image: url('images/home/coffeetext.jpeg');
+  background-repeat:no-repeat;
+  background-size: cover;
+}
 
 /** TEXT styles **/
 /* wraps text around image and floats image to the left */
