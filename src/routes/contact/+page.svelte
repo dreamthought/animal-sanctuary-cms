@@ -5,32 +5,39 @@
 
 <!-- Contact Us -->
 <div class="container custom-content shadow-lg text-center">
-  <!-- Form and Contact Details section -->
   <h1>CONTACT US</h1>
   <p><b>Please use the contact details below to get in contact with us. We look forward to hearing from you!</b></p>
-  
+  <!-- Row for Contact Details -->
   <div class="row">
-    <!-- Form -->
     <div class="col-md-6">
       <h2><i class="fa-solid fa-envelope"></i> Email</h2>
       <p><a href="mailto:someone@example.com" class="in-text-link"><b>animalsanctuary@xtra.co.nz</b></a></p>
     </div>
-    <!-- End Form -->
-    <!-- Contact Details -->
     <div class="col-md-6">
       <h2><i class="fa-brands fa-facebook-messenger"></i> Send us a message on Facebook</h2>
       <p><a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank" class="in-text-link-facebook"><b>The Animal Sanctuary NZ</b></a></p>
-    </div>
-    <!-- End Contact Details -->     
+    </div>    
   </div>
+  <!-- End Row for Contact Details -->
 
 <hr/>
 
-  <!-- Google Map -->
-  <div class="container text-center">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d205471.19667662214!2d174.51069277155688!3d-36.42159432924103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0cdb6fe3a712d9%3A0x500ef6143a2c3c0!2sMatakana!5e0!3m2!1sen!2snz!4v1708122225770!5m2!1sen!2snz" width="100%" height="450" style="border:0;" allow="fullscreen=" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Google map"></iframe>
+  <!-- Image -->
+  <div class="container-fluid">
+    <div class="card">
+      <div class="card-img">
+        <img src="images/contact/contact.jpg" class="img-fluid rounded w-100" alt="Solomon and Batholomew the Sanctuary donkeys">
+      </div>
+      <div class="card-body custom-card-body-contact">
+        <p class="card-text custom-card-text-contact">
+          The Animal Sanctuary is closed to the general public. 
+          We are a 100% volunteer-run sanctuary, and our whole day is spent working, feeding and caring for the animals and native birds.
+          We are open for visits from our wonderful <a href="support" class="in-text-link">Sanctuary Supporters</a> by prior arrangement.  😊
+        </p>
+      </div>
+    </div>
   </div>
-  <!-- End Google Map -->
+  <!-- End Image -->
   
 </div>
-<!-- End Form and Contact Details -->
+<!-- End Contact Us -->
