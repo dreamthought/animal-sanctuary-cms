@@ -109,7 +109,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 g-0">
-            <img src="images/home/coffeeimage.jpeg" class="img-fluid" alt="The Sanctuary donkey and owl sitting at a table sharing coffee">
+            <img src="images/home/coffeeimage.jpeg" class="img-fluid custom-coffee-logo" alt="The Sanctuary donkey and owl sitting at a table sharing coffee">
           </div>
 
           <div class="col-lg-6 pt-5 custom-content-coffee">

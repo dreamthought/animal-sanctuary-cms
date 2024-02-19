@@ -75,39 +75,9 @@ body {
   padding: 1rem;
 }
 
-/** HOME styles **/
-/* VIDEO styles */
-/* i-frame Vimeo video */
-.container-iframe {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-   /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-  padding-top: 56.25%;
-  border-radius: 0.5rem;
-}
-/* responsive style to fit the iframe in the container div with full height and width */
-.responsive-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-}
-/* Image still styles */
-.custom-videostill:hover,
-.custom-videostill:active  {
-  transform: scale(1.03);
-}
-
-/* COFFEE styles */
-/* background image for text for home coffee appeal */
-.custom-content-coffee  {
-  background-image: url('images/home/coffeetext.jpeg');
-  background-repeat:no-repeat;
-  background-size: cover;
+/** FORM styles **/
+.custom-form  {
+  color:#451b16;
 }
 
 /** TEXT styles **/
@@ -201,15 +171,34 @@ b.custom-b-green  {
 }
 
 
-/** ABOUT styles **/
-/* for sign-off image */
-.custom-signoff  {
-  width: 235px;
-  height: 28px;
+/** HOME styles **/
+/* VIDEO styles */
+/* i-frame Vimeo video */
+.container-iframe {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+   /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+  padding-top: 56.25%;
+  border-radius: 0.5rem;
+}
+/* responsive style to fit the iframe in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
+/* Image still styles */
+.custom-videostill:hover,
+.custom-videostill:active  {
+  transform: scale(1.03);
 }
 
-/** CARD styles **/
-/** HOME card styles **/
+/* CARD HOME styles */
 /* main card style */
 .custom-card-home {
   width: 100%;
@@ -259,7 +248,23 @@ b.custom-b-green  {
   font-weight: bold;
 }
 
-/** ANIMALS card styles **/
+/* COFFEE appeal styles */
+/* logo for home coffee appeal */
+.custom-coffee-logo  {
+  border-bottom-left-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+}
+/* background image for text for home coffee appeal */
+.custom-content-coffee  {
+  background-image: url('images/home/coffeetext.jpeg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  border-bottom-right-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+
+/** ANIMALS styles **/
+/* CARD ANIMALS styles */
 /* main card style */
 .custom-card-animals {
   background-color: #451b16;
@@ -301,7 +306,16 @@ b.custom-b-green  {
   font-weight: bold;
 }
 
-/** ADOPT card styles **/
+/** ABOUT styles **/
+/* for sign-off image */
+.custom-signoff  {
+  width: 235px;
+  height: 28px;
+}
+
+
+/** ADOPT styles **/
+/* CARD ADOPT styles */
 /* main card style */
 .custom-card-adopt {
   width: 100%;
@@ -364,9 +378,9 @@ b.custom-b-green  {
   font-weight: bold;
 }
 
-
-/** SHOP card styles **/
-/* miand card styles */
+/** SHOP styles **/
+/* CARD SHOP styles */
+/* main card styles */
 .custom-card-shop {
   width: 100%;
   max-width: 20rem;
@@ -416,7 +430,8 @@ b.custom-b-green  {
 }
 
 /** HELP styles **/
-/* card styles */
+/* CARD HELP styles */
+/* main card style */
 .custom-card-help {
   background-color: #451b16;
   color:#fbfbfb;
@@ -435,14 +450,15 @@ b.custom-b-green  {
 }
 
 /** DONATE styles **/
-/* card style for donate */
+/* CARD DONATE styles */
+/* main card style */
 .custom-card-donate  {
   color: #451b16;
   border: 0.15rem solid #451b16;
   text-align: center;
   box-shadow: 4px 4px 5px rgb(138, 139, 138);
 }
-/* card header style for donate */
+/* card header style */
 .custom-card-header-donate  {
   background-color: rgba(0, 128, 0, 0.095);
   text-align: center;
@@ -481,6 +497,7 @@ b.custom-b-green  {
 } 
 
 /** CONTACT US styles **/
+/** CARD CONTACT US styles **/
 /* card body styles */
 .custom-card-body-contact {
   position: absolute;
@@ -497,11 +514,6 @@ b.custom-b-green  {
 .custom-card-text-contact {
   font-size: 1.2rem;
   color: #fbfbfb;
-}
-
-/** FORM styles **/
-.custom-form  {
-  color:#451b16;
 }
 
 /** FOOTER styles **/
