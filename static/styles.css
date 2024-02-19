@@ -100,6 +100,12 @@ body {
   height: 100%;
   border: solid 0.1rem #451b16;
 }
+/* Image still styles */
+.custom-videostill:hover,
+.custom-videostill:active  {
+  transform: scale(1.03);
+}
+
 /* COFFEE styles */
 /* background image for text for home coffee appeal */
 .custom-content-coffee  {

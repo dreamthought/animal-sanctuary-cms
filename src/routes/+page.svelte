@@ -4,22 +4,40 @@
 </svelte:head>
 
 <script>
-
 </script>
 
 
     <!-- Home -->
     <div class="container custom-content shadow-lg">
       
-      <!-- Welcome section -->
+      <!-- TEST section -->
       <h1>WELCOME TO THE ANIMAL SANCTUARY</h1>
       <div class="row">
         <div class="col-lg-6 mb-3">
-          <div class="container-iframe">
-            <iframe class="responsive-iframe"
+          <!-- Image trigger modal -->
+          <img src="images/home/videostill.png" class="img-fluid rounded custom-videostill" title="click to play video" alt="play video" data-bs-toggle="modal" data-bs-target="#exampleModal" />
+          
+          <!-- Modal -->
+          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-xl modal-fullscreen-lg-down">
+              <div class="modal-content">
+                
+                <div class="modal-header">
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <div class="container-iframe">
+                    <iframe class="responsive-iframe"
                     src="https://player.vimeo.com/video/447269165?color&amp;autopause=0&amp;loop=1&amp;muted=0&amp;title=0&amp;portrait=0&amp;byline=0#t=" title="The Animal Sanctuary video">
-            </iframe>
+                    </iframe>
+                  </div>
+                </div>
+
+              </div>
+            </div>
           </div>
+          <!-- End Modal -->
+
         </div>
         <div class="col-lg-6">
           <p>
@@ -41,7 +59,8 @@
           </p>
         </div>
       </div>
-      <!-- End Welcome section -->
+<!-- End TEST section -->
+
 <hr/>
       <!-- What We Do -->
       <div class="row">
