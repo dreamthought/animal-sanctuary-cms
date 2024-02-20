@@ -188,7 +188,6 @@ b.custom-b-green  {
   width: 100%;
    /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
   padding-top: 56.25%;
-  border-radius: 0.5rem;
 }
 /* responsive style to fit the iframe in the container div with full height and width */
 .responsive-iframe {
@@ -559,7 +558,7 @@ b.custom-b-green  {
 }
 /* card text styles for sm and below */
 .custom-card-text-contact-sm {
-  font-size: 0.85rem;
+  font-size: 0.84rem;
   color: #fbfbfb;
 }
 
