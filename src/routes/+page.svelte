@@ -15,10 +15,10 @@
       <div class="row">
         <div class="col-lg-6 mb-3">
           <!-- Image trigger modal -->
-          <img src="images/home/videostill.png" class="img-fluid rounded custom-videostill" title="click to play video" alt="play video" data-bs-toggle="modal" data-bs-target="#exampleModal" />
+          <img src="images/home/videostill.png" class="img-fluid rounded custom-videostill" title="click to play video" alt="play video" data-bs-toggle="modal" data-bs-target="#videoModal" />
           
           <!-- Modal -->
-          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-xl">
               <div class="modal-content">
                 
