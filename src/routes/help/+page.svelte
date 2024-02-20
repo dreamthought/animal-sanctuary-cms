@@ -14,7 +14,7 @@
                 <h4 class="card-title custom-card-title-help">Make a Donation</h4>
                 <p class="card-text custom-card-text-help">
                   The Animal Sanctuary receives no government funding and is completely supported by donations to our Charitable Trust.
-                  If you'd like to support our work with injured native birds and abused animals, we'll very much appreciate your donation:</p>
+                  If you'd like to support our work with injured native birds and abused animals, we'll very much appreciate your donation.</p>
                 <a href="donate" class="btn custom-btn-help">Learn more</a>
               </div>
             </div>
