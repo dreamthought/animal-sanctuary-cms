@@ -60,13 +60,21 @@ body {
 }
 
 /** CONTENT styles **/
-/* background cloud image */
+/* background cloud image for sm and above */
+@media (min-width: 768px)  {
 .custom-background {
   background-image: url('images/clouds.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 3rem; }
+}
+/* background blue gradient for sm and below */
+@media (max-width: 768px)  {
+  .custom-background  {
+    background: linear-gradient(0deg, rgba(251,251,251,1) 0%, rgba(121,179,253,1) 100%);
+    padding-top: 1rem;
+  }
 }
 /* content container styles */
 .custom-content  {
