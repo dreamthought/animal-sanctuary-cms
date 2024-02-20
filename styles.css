@@ -528,7 +528,7 @@ b.custom-b-green  {
 
 /** CONTACT US styles **/
 /** CARD CONTACT US styles **/
-/* card body styles */
+/* card body styles for md and above*/
 .custom-card-body-contact {
   position: absolute;
   bottom: 0;
@@ -540,11 +540,12 @@ b.custom-b-green  {
   border-bottom-left-radius: 0.4rem;
   border-bottom-right-radius: 0.4rem;
 }
-/* card text styles */
+/* card text styles for md and above */
 .custom-card-text-contact {
   font-size: 1.2rem;
   color: #fbfbfb;
 }
+/* card body styles for sm and below */
 .custom-card-body-contact-sm {
   position: absolute;
   top: 0;
@@ -556,6 +557,7 @@ b.custom-b-green  {
   border-bottom-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
 }
+/* card text styles for sm and below */
 .custom-card-text-contact-sm {
   font-size: 0.85rem;
   color: #fbfbfb;
