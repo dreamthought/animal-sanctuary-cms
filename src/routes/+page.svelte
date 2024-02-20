@@ -19,13 +19,13 @@
           
           <!-- Modal -->
           <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-xl modal-fullscreen-lg-down">
+            <div class="modal-dialog modal-xl">
               <div class="modal-content">
                 
                 <div class="modal-header">
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  <a href="." data-sveltekit-reload><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></a>
                 </div>
-                <div class="modal-body">
+                <div class="modal-body p-0">
                   <div class="container-iframe">
                     <iframe class="responsive-iframe"
                     src="https://player.vimeo.com/video/447269165?color&amp;autopause=0&amp;loop=1&amp;muted=0&amp;title=0&amp;portrait=0&amp;byline=0#t=" title="The Animal Sanctuary video">
