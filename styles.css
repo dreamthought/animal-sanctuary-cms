@@ -266,8 +266,6 @@ b.custom-b-green  {
   background-image: url('images/home/coffeetext.jpeg');
   background-repeat:no-repeat;
   background-size: cover;
-  border-bottom-right-radius: 0.5rem;
-  border-top-right-radius: 0.5rem;
 }
 
 /** NEWS styles **/
