@@ -270,6 +270,20 @@ b.custom-b-green  {
   border-top-right-radius: 0.5rem;
 }
 
+/** NEWS styles **/
+/* content styles */
+.custom-content-news  {
+  border: 0.08rem solid #451b16;
+  border-radius: 0.5rem;
+  background: #4267b20e;
+}
+/* facebook logo */
+.custom-news-logo  {
+  width: 28px;
+  height: 28px;
+}
+
+
 /** ANIMALS styles **/
 /* CARD ANIMALS styles */
 /* main card style */
