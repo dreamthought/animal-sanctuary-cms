@@ -5,7 +5,7 @@
 <Header/>
 
 <!-- Content area cloud background -->
-<div class="container-fluid custom-background">
+<div class="custom-background">
   <slot/> 
   
   <!-- Footer - within main container -->
