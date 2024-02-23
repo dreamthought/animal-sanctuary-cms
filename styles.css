@@ -65,7 +65,7 @@ body {
 .custom-background {
   background-image: url('images/clouds.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   padding-top: 2rem;
   padding-bottom: 3rem; }
 }
