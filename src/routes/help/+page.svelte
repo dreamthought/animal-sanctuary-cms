@@ -6,8 +6,8 @@
 <!-- Donate/Help -->
 <div class="container custom-content shadow-lg">
     <h1>MAKE A DONATION</h1>
-      <div class="row">
-        <div class="col-lg-3 col-md-6 mb-3">
+      <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4">
+        <div class="col mb-3">
           <div class="card custom-card-help h-100">
               <img src="images/help/donate.jpg" alt="Make a donation" class="card-img-top" />
               <div class="card-body">
@@ -19,7 +19,7 @@
               </div>
             </div>
         </div>
-        <div class="col-lg-3 col-md-6 mb-3">
+        <div class="col mb-3">
           <div class="card custom-card-help h-100">
             <img src="images/help/trademe.jpg" alt="Donate Itmems to Op shop logo" class="card-img-top" />
             <div class="card-body">
@@ -31,7 +31,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 mb-3">
+        <div class="col mb-3">
           <div class="card custom-card-help h-100">
             <img src="images/help/support.jpg" alt="Become a Sanctuary Supporter logo" class="card-img-top" />
               <div class="card-body">
@@ -44,7 +44,7 @@
               </div>
           </div>
         </div>
-        <div class="col-lg-3 col-md-6 mb-3">
+        <div class="col mb-3">
           <div class="card custom-card-help h-100">
               <img src="images/help/cow.jpg" alt="Save a Cow - Cowcare logo" class="card-img-top" />
               <div class="card-body">
