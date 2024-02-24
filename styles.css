@@ -260,11 +260,6 @@ b.custom-b-green  {
 }
 
 /* COFFEE appeal styles */
-/* logo for home coffee appeal */
-.custom-coffee-logo  {
-  border-bottom-left-radius: 0.5rem;
-  border-top-left-radius: 0.5rem;
-}
 /* background image for text for home coffee appeal */
 .custom-content-coffee  {
   background-image: url('images/home/coffeetext.jpeg');
