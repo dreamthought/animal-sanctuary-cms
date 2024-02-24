@@ -200,9 +200,11 @@ b.custom-b-green  {
   height: 100%;
 }
 /* Image still styles */
+@media (min-width: 992px)  {
 .custom-videostill:hover,
 .custom-videostill:active  {
   transform: scale(1.03);
+}
 }
 
 /* CARD HOME styles */
@@ -218,9 +220,11 @@ b.custom-b-green  {
   border: solid 0.2rem #451b16;
 }
 /* main card style on hover */
+@media (min-width: 992px)  {
 .custom-card-home:hover,
 .custom-card-home:active  {
   transform: scale(1.05);
+}
 }
 /* card body styles */
 .custom-card-body-home {
@@ -297,9 +301,11 @@ b.custom-b-green  {
   box-shadow: 4px 4px 5px rgb(138, 139, 138);
 }
 /* main card style on hover */
+@media (min-width: 992px)  {
 .custom-card-animals:hover,
 .custom-card-animals:active  {
   transform: scale(1.05);
+}
 }
 /* card title styles */
 .custom-card-title-animals {
@@ -347,9 +353,11 @@ b.custom-b-green  {
   border: solid 0.2rem #451b16;
 }
 /* main card style on hover */
+@media (min-width: 992px)  {
 .custom-card-adopt:hover,
 .custom-card-adopt:active  {
   transform: scale(1.05);
+}
 }
 /* card body styles */
 .custom-card-body-adopt {
@@ -411,9 +419,11 @@ b.custom-b-green  {
   border: solid 0.2rem #451b16;
 }
 /* main card style on hover */
+@media (min-width: 992px)  {
 .custom-card-shop:hover,
 .custom-card-shop:active  {
   transform: scale(1.05);
+}
 }
 /* card body styles for shop */
 .custom-card-body-shop {
@@ -462,9 +472,11 @@ b.custom-b-green  {
   border: solid 0.2rem #451b16;
 }
 /* main card style on hover */
+@media (min-width: 992px)  {
 .custom-card-help:hover,
 .custom-card-help:active  {
   transform: scale(1.05);
+}
 }
 /* card title styles */
 .custom-card-title-help {
@@ -514,9 +526,11 @@ b.custom-b-green  {
   height: auto;
 }
 /* card donate button on hover */
+@media (min-width: 992px)  {
 .custom-donate-button:hover,
 .custom-donate-button:active  {
   transform: scale(1.05);
+}
 }
 /* green content box for donate */
 .custom-content-green  {

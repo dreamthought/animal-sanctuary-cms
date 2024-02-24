@@ -12,7 +12,7 @@
       <b>While some animals come to the Sanctuary for the rest of their lives, others would be happy to find new homes with loving families all to themselves.</b>
     </p>
   </div>
-  <!-- Cards on xl, lg and md screens -->
+  <!-- Cards on lg and above screens -->
   <div class="d-none d-lg-block">
   <div class="row">
     <div class="col-md-6">
@@ -41,8 +41,8 @@
     </div>
   </div>
   </div>
-  <!-- End Cards on xl, lg and md screens -->
-  <!-- Cards on xs and sm screens -->
+  <!-- End Cards on lg and above screens -->
+  <!-- Cards md and below screens -->
   <div class="row d-lg-none">
     <div class="col-md-6 mb-3">
       <div class="card custom-card-adopt h-100">
@@ -54,7 +54,7 @@
         </div>
       </div>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6 mb-3">
       <div class="card custom-card-adopt h-100">
         <img src="images/adopt/sheep.png" alt="Sheep in a green paddock" class="card-img" />
         <div class="card-body">
