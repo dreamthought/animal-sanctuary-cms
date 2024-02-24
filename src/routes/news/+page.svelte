@@ -19,6 +19,38 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date-->
+            <small class="ms-auto">24 February</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            DON’T LET LIVE EXPORT START AGAIN
+            <br/>I try to stay out of politics, and just focus on what’s best for the animals.  Live export was finally banned in April 2023.  
+            The current government says they will reverse that ban and allow live export again.  
+            If they do this, it will begin that awful cycle of suffering and death all over again.  
+            We all know that a huge proportion of the animals die en route, and that the ones who survive have suffered in absolutely atrocious conditions.  
+            Pl…
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid037Jj6Eix95PpqDQBJR51PsSZkuenzjC2a7FKP6gJ23roYmCuYAQSyMsQjhzKM6Cihl?__cft__[0]=AZVKVbs60Eq2VBbqsdKNELe_zW1aZdQchLtcep7n5pE7Nksh1Nb3zuKn-JoGv0qN1gZsLNUkXzIwW8HK9Vi_rqnu4o7TiUAQh_giBGcYVefDV0E-0iusLr00KDyw4bAZNg6GBOrhx81UuuceGRjvfttrJVoloOUq2K3iIqkYXA8sNbRx9CjEozcTBOH715wTfy8&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-24feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
             <small class="ms-auto">23 February</small>
           </div>
           <!-- facebook post text -->
@@ -42,7 +74,7 @@
     </div>
     <!-- end news item -->
 
-    <!-- news item 1 -->
+    <!-- news item  -->
     <div class="col">
       <div class="row g-0 mb-3 custom-content-news">
         <div class="col-lg-9 p-2">
@@ -67,9 +99,9 @@
         </div>
       </div>
     </div>
-    <!-- end news item 1 -->
+    <!-- end news item  -->
 
-    <!-- news item 2 -->
+    <!-- news item  -->
     <div class="col">
       <div class="row g-0 mb-3 custom-content-news">
         <div class="col-lg-9 p-2">
@@ -98,9 +130,9 @@
         </div>
       </div>
     </div>
-    <!-- end news item 2 -->
+    <!-- end news item  -->
 
-    <!-- news item 3 -->
+    <!-- news item  -->
     <div class="col">
       <div class="row g-0 mb-3 custom-content-news">
         <div class="col-lg-9 p-2">
@@ -130,9 +162,9 @@
         </div>
       </div>
     </div>
-    <!-- end news item 3 -->
+    <!-- end news item  -->
 
-    <!-- news item 4 -->
+    <!-- news item  -->
     <div class="col">
       <div class="row g-0 mb-3 custom-content-news">
         <div class="col-lg-9 p-2">
@@ -161,7 +193,38 @@
         </div>
       </div>
     </div>
-    <!-- end news item 4 -->
+    <!-- end news item  -->
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
+            <small class="ms-auto">19 February</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            THE COW CONNECTION
+            <br/>
+            It was sooo special yesterday, to have many of our Cow Care sponsors join us for a picnic, and to visit the animals they've helped to save.  
+            It moved my heart to see sponsors meet their cows and steers up close and personal for the first time.  
+            I think the cows enjoyed it as much as we did!!
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0om7CjVEKxkFqmuqGKe2B4MF6qd5HtrAwDyCYDDCVYcE788h79BgwXtSxeRrGPs6Ul?__cft__[0]=AZX5y2aPMkw8_q4b2Mikx9Aq46Wry3CdnYdO3_1Tv5NTdx3m5HGiDeyQw7SoGjPhDMYpW2lMKZh1iJjQRhV_wzbNgPhTm-tD_w1tLMRK02zU6OHUE6qdZ8_g3l2Mofa6IRtF0mfwIRWavIU4VCSbL6uVXVEGB3nzRmnTrEqEqwqW92J7vOuBYknD0MAvRaNXfXg&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-19feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
     
   </div> 
   <!-- end row for news items -->
