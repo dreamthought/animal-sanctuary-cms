@@ -19,6 +19,68 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date-->
+            <small class="ms-auto">26 February</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            PIG PROJECTS
+            <br/>While we're working on the pig barn roof, we moved the pigs to another paddock. Of course they needed a sunshade and a wallow, 
+            so this is what they got...
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/reel/1600218860799385/?s=single_unit&__cft__[0]=AZVCHBMx_DqsSj0joIToSC5A9LkfxB87ceB-EjME6D1lUBvTubhQ2LOGDs9CMqu8ZwWqqh1WO_vQylOVtO_RT3q119WJVpPjT7nzZtruvC8t_gw4AkzDcaGdHMgPNaUDGE3cyEp6D3q4YL1fNjHZX_Qsmc8AsWzE5ZQd30dv1lO-cMdC7Bnsd6f5yqZgOxMwVJk&__tn__=H-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-26feb-2.png" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
+            <small class="ms-auto">26 February</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            <b>SPCA New Zealand</b> 
+            <br/>So what do New Zealanders think of the current Government’s decision to reintroduce live exports? 
+            In a recent independent survey, the response from the public is crystal-clear: only 12% trust the live export industry. 
+            Only 19% of New Zealanders think the ban should be overturned. 
+            While we celebrated the ban on the horrific practice of live exports by sea only last year, the current Government is choosing to ignore 
+            the views of the overwhelming 
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+              majority; an unethical move which will prove a shameful leap backwards for animal welfare in New Zealand.
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid06MoBvw38VLE3nzQWEYm3DrBHGRonpMs4H4uN4fFEov368jr4RGTL9HcfKYgx2GbUl?__cft__[0]=AZW3soDUdKEjt08wRHEKAtiVahvsmvcED4pEpmuF3kaHGhplKLR3ts_T6Dclx-jPdkHnbe7xzzEYK4CO6e0xF9JdTokByXxzHJkUGCal2Hsu9VLyu3cLK8ENxcHsLjYJhhTMH0o4LWnHFVvTRFB4WroSQ3sg6iWueQn6JVgp7mXRrP1FzSbARb7LFEeivr77Ixi6207IFaJFbTwQR3uZ1B5g&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-26feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
             <small class="ms-auto">24 February</small>
           </div>
           <!-- facebook post text -->
@@ -27,10 +89,11 @@
             <br/>I try to stay out of politics, and just focus on what’s best for the animals.  Live export was finally banned in April 2023.  
             The current government says they will reverse that ban and allow live export again.  
             If they do this, it will begin that awful cycle of suffering and death all over again.  
-            We all know that a huge proportion of the animals die en route, and that the ones who survive have suffered in absolutely atrocious conditions.  
-            Pl…
+            We all know that a huge proportion of the animals die en route, and 
             <!-- facebook post text (hidden on lg) -->
             <span class="d-md-inline d-lg-none d-xl-inline">
+              that the ones who survive have suffered in absolutely atrocious conditions.  
+            Pl…
             </span> 
             <!-- link to facebook post -->
             <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid037Jj6Eix95PpqDQBJR51PsSZkuenzjC2a7FKP6gJ23roYmCuYAQSyMsQjhzKM6Cihl?__cft__[0]=AZVKVbs60Eq2VBbqsdKNELe_zW1aZdQchLtcep7n5pE7Nksh1Nb3zuKn-JoGv0qN1gZsLNUkXzIwW8HK9Vi_rqnu4o7TiUAQh_giBGcYVefDV0E-0iusLr00KDyw4bAZNg6GBOrhx81UuuceGRjvfttrJVoloOUq2K3iIqkYXA8sNbRx9CjEozcTBOH715wTfy8&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
