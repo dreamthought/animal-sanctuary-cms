@@ -10,7 +10,39 @@
     <b>Our NEWS page is updated from our Facebook page. To see more, come <a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank" class="in-text-link-facebook">Follow us on Facebook</a>.</b>
   </p>
   <!-- row for news items (single col on sm and below and lg and above, double col on md)-->
-  <div class="row row-cols-1">
+  <div class="row row-cols-1">    
+    
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
+            <small class="ms-auto">29 February</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            A SURPRISE IN THE NEST
+            <br/>
+            I just never know what I’m going to find in the big pile of hay where the pigs sleep.  
+            They have a massive paddock, and somehow discover all kinds of things which they bring into the barn and bury in their hay.  
+            I noticed a small piece of thin black hose sticking out, and started to pull.  And pulled, and pulled, and pulled!  
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+              I’m not sure what amazes me more: that they found this really really looong piece of hose that I’d never seen before; that they p…
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0yBveUtfbBbKFuFZ3rB52fMRurQPNgLQCorQoMbtU8fqVSzeSd5YeA31JryNot92cl?__cft__[0]=AZV6Txu_tnStVo193kJBNpQ3TvpaLd4EZtxtgQCeATyO805wSXzwDh6pq-Cpax9y4vK1dPq4sEESH4cWoj6xtehZzMfC1L8-Els8ZsZDbAu_A_9osnc1nwuWkTjmgZvakneCjexxOfDZ8l5NDHe2HDJPEQyA2j4SBU5H6RkhitAGrQZCDwnygIqK4oJTXsAfN24&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-29feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
 
     <!-- news item -->
     <div class="col">
