@@ -11,6 +11,39 @@
   </p>
   <!-- row for news items (single col on sm and below and lg and above, double col on md)-->
   <div class="row row-cols-1">    
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
+            <small class="ms-auto">2 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            THE WORK GOES ON...
+            <br/>
+            Maureen and Dan came to continue work on replacing the roof of the pig barn on Friday.  
+            Michael and I were away celebrating our 30th wedding anniversary, but our wonderful volunteers from Spain pitched in to help.  Here’s Maureen’s “report”:  
+            The two ‘apprentices’ today were both on the power tools, and up and down the ladder!  
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+              Work went very swiftly and Dan’s confident to finish next week.  
+              Helena mastered the drill and saw, definitely gave Alvaro a run … 
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0xP5MZeoaS9owXNgAboVRakn8dwHs78w4MN5SdKQMXZaB4Xv7Z2GStA6dWfFKxrtBl?__cft__[0]=AZUzhcRuY4NNucPcHCQHZbiR6BS-foBu2BImj81ySASh8GaYT5iuapeI-hYjxtx-6jb9EdzMtFBilFDYRjatuDVQpD6ZeA5wZSORpqsJ3kC1tnvX_Bs8IiF04PjSoJAkMjBpIYvUtDXPIWffFx_vnVjs54MjYejIhzNfJQZ9SY0xtflgo_JxMRNkI0i3nP_elcU&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-2mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
     
     <!-- news item -->
     <div class="col">
