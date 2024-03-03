@@ -4,7 +4,6 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>The Animal Sanctuary</title>
 	<meta name=description
 		content="The Animal Sanctuary - Animal Shelter based near Matakana is an established chicken, duck, farm animal and native bird rescue working for the health and welfare of animals across New Zealand" />
 	<!-- Load external Bootstrap CSS styles -->
@@ -19,10 +18,10 @@
 	<!-- Svelte Head -->
 	<link rel="icon" href="/animal-santuary-cms/favicon.ico" />
 	
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/start.FoltZYFw.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/entry.9QVK-Uly.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/start.T4v36koQ.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/entry.sFq_LIw0.js">
 		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/scheduler.S4wXxuDW.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/app.MIM-UxCg.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/entry/app.BBX8UOBD.js">
 		<link rel="modulepreload" href="/animal-santuary-cms/_app/immutable/chunks/index.e1JFX3dS.js">
 
 	<!-- Load external Bootstrap JS -->
@@ -37,7 +36,7 @@
 	<div style="display: contents">
 			<script>
 				{
-					__sveltekit_18vrd93 = {
+					__sveltekit_rt6zbz = {
 						base: "/animal-santuary-cms",
 						assets: "/animal-santuary-cms"
 					};
@@ -45,8 +44,8 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/animal-santuary-cms/_app/immutable/entry/start.FoltZYFw.js"),
-						import("/animal-santuary-cms/_app/immutable/entry/app.MIM-UxCg.js")
+						import("/animal-santuary-cms/_app/immutable/entry/start.T4v36koQ.js"),
+						import("/animal-santuary-cms/_app/immutable/entry/app.BBX8UOBD.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
