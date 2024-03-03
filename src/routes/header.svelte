@@ -1,7 +1,3 @@
-<svelte:head>
-  <title>The Animal Sanctuary</title>
-</svelte:head>
-
   <!-- Header -->
   <header class="container-fluid custom-header-wrapper">
     <a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank">
