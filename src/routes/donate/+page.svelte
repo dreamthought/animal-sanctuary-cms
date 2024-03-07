@@ -60,14 +60,16 @@
     <div class="col-md-6">
       <div class="content custom-content-green mt-4">
         <p class="fs-5"><b>Your donation goes a long way!</b></p>
-        <p><b>$6</b> will buy a bale of hay</p>
-        <p><b>$15</b> will buy fish to feed one penguin for two weeks</p>
-        <p><b>$25</b> will feed three wood pigeons for a week</p>
-        <p><b>$33</b> will buy a bag of Multi Nuts for the goats and pigs</p>
-        <p><b>$50</b> will buy painkillers and antibiotics for an injured native bird</p>
-        <p><b>$90</b> is one visit from the farrier to trim and treat donkey and horse hooves</p>
-        <p><b>$200</b> will buy a large transport cage for injured herons</p>
-        <p><b>$500</b> will buy an incubator for our bird hospital</p>
+        <p><b>$10</b> buys a bale of hay</p>
+        <p><b>$15</b> pays for grazing for a rescued cow for 1 week</p>
+        <p><b>$20</b> buys fish for a penguin for a week</p>
+        <p><b>$25</b> pays for fruit for 3 native kereru for a week</p>
+        <p><b>$32</b> buys a bag of pellets for rescued hens</p>
+        <p><b>$40</b> buys a bag of quality low carb horse feed for the minis</p>
+        <p><b>$50</b> pays for painkillers and antibiotics for injured native birds</p>
+        <p><b>$100</b> buys 3 bags of Multi Nuts to feed pigs, sheep & goats</p>
+        <p><b>$125</b> pays for a  visit from the farrier for the horse hooves</p>
+        <p><b>$200</b> helps to desex an abandoned animal before adoption</p>
       </div>
     </div>
     <div class="col-md-6 mt-4">
