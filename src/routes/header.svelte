@@ -35,9 +35,6 @@
           <a class="nav-link" href="help">DONATE/HELP</a>
         </li>
         <li class="nav-item px-3">
-          <a class="nav-link" href="FAQ">FAQ</a>
-        </li>
-        <li class="nav-item px-3">
           <a class="nav-link" href="contact">CONTACT</a>
         </li>
       </ul>
