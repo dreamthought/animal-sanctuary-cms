@@ -5,7 +5,7 @@
 
 <!-- Donate/Help -->
 <div class="container custom-content shadow-lg">
-    <h1>MAKE A DONATION</h1>
+    <h1>WAYS YOU CAN HELP</h1>
       <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4">
         <div class="col mb-3">
           <div class="card custom-card-help h-100">
