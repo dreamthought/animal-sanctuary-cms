@@ -19,6 +19,39 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date-->
+            <small class="ms-auto">8 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            NEW COMMUNITY RESCUE PROJECT: POULTRY PATROL
+            <br/>
+            There’s been an explosion of people dumping hens, roosters, and domestic ducks at parking lots, parks, and country road pull offs.  
+            You know what happens:  Dogs savage and kill the poultry.  People hunt them with spear guns at night.  They’re run over.  
+            They starve (like the duck in top photo).  
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+              There’s uncontrolled breeding (like the chicks in bottom photo), so Council drops poison.  They die horribly.  
+            A small number of caring v… 
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02t92a7hbz6p9DwurtnGpfV9cQNtDZA3sfnQazna36cDR4wM3ZHTvA4LUtnbMqRC48l?__cft__[0]=AZX7EMzqB_eNCZ_l62lPUMSVUVulOAMcs1zct03dOi9hbIReFoMWcXdC6xHNfYU_Zz3qyKhao3anj_Ma9IwGDMAQqbMx838cqqrjoYMvcRYkgEFwtlq9-IS9SJoTnS_ixQtkoleSn537Ppf33tWN-kyM58JUY7wjMhB0xOdImUlYFU2_6bW8Mc8d8WOURdXSH6E&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-8mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
             <small class="ms-auto">2 March</small>
           </div>
           <!-- facebook post text -->
