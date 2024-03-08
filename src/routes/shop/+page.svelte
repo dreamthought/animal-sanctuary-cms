@@ -14,14 +14,28 @@
     </div>
     <!-- row for Shop option cards -->
     <div class="row">
+
+      <div class="col-md-6">
+        <div class="card custom-card-shop">
+          <img src=" images/shop/onlineopshop.jpg" alt="The Animal's Online Op Shop logo" class="card-img" />
+          <div class="card-img-overlay">
+            <div class="card-body custom-card-body-shop">
+              <h4 class="card-title custom-card-title-shop">The Animal's Online Op Shop</h4>
+              <p class="card-text custom-card-text-shop">100% of the sales from The Animal's Online Op Shop go to the animals.</p>
+              <!-- svelte-ignore a11y-missing-attribute -->
+              <a href="shop" class="btn custom-btn-shop">Coming Soon</a>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <div class="col-md-6">
         <div class="card custom-card-shop">
           <img src=" images/shop/logo-animal-sanctuary-shop-new.jpg" alt="The Animal Sanctuary logo" class="card-img" />
           <div class="card-img-overlay">
             <div class="card-body custom-card-body-shop">
-              <h4 class="card-title custom-card-title-shop">Online Shop</h4>
-              <p class="card-text custom-card-text-shop">Yes, our own on-line shop! 100% of the profits from these products go to the animals.</p>
+              <h4 class="card-title custom-card-title-shop">Petsy Shopping Portal</h4>
+              <p class="card-text custom-card-text-shop">Your gateway to heaps of wonderful shopping choices that will help save the animals!</p>
               <!-- svelte-ignore a11y-missing-attribute -->
               <a href="shop" class="btn custom-btn-shop">Coming Soon</a>
             </div>
@@ -29,30 +43,16 @@
         </div>
       </div>
 
-      <div class="col-md-6">
-        <div class="card custom-card-shop">
-          <img src=" images/shop/logo-trademe-new.jpg" alt="The Animal Sanctuary logo" class="card-img" />
-          <div class="card-img-overlay">
-            <div class="card-body custom-card-body-shop">
-              <h4 class="card-title custom-card-title-shop">Trade Me Store</h4>
-              <p class="card-text custom-card-text-shop">100% of the sales from our Trade Me site go to the animals. (contact us if you have items for us to sell)</p>
-              <!-- svelte-ignore a11y-missing-attribute -->
-              <a href="shop" class="btn custom-btn-shop">Shop Now</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
       </div>
     <!-- End row for shop options cards -->
-<hr/>
-    <!-- Op Shop Donations -->
+
+    <!-- Op Shop Donations Section & Form
     <div class="container text-center mt-3">
       <p class="fs-3 pt-2"><b>We welcome donations for our Animals Op Shop Store</b></p>
     </div>
-          <!-- Div for Form -->
+    
+    
     <div class="container mt-3">
-
 
     <iframe
     id="JotFormIFrame-240447944809062"
@@ -150,9 +150,8 @@
     window.attachEvent("onmessage", handleIFrameMessage);
   }
   </script>
-    <!-- Form -->
     </div>
-    <!-- End Op Shop Donations -->
+    <!-- End Form -->
 
   </div>
   <!-- End Shop -->
