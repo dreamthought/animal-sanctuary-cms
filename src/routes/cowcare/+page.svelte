@@ -16,7 +16,7 @@
         they're moved to fresh grass every day, weighed regularly, checked on daily, given supplements, baylage in winter if necessary, annual vaccination, etc. etc. etc.</b>
       </p>
       <p class="custom-wrap-text">
-        The cost to sponsor a cow is $12 +GST per week.  That's less than some places charge just for grazing, with no individual care for the animals. 
+        The cost to sponsor a cow is $15 per week.  That's less than some places charge just for grazing, with no individual care for the animals. 
         As a sponsor you can visit your cow; receive reports, photos & updates about your cow; join our private FB sponsors page; 
         receive invites to private Cow Care functions such as picnics, etc.
       </p>
