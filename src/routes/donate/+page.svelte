@@ -39,7 +39,7 @@
           <p class="card-text">
             On the Givealittle site you can safely use your credit card (from any country), or internet banking (NZ only) to make a donation. They provide your receipt.
           </p>
-          <a href="https://givealittle.co.nz/donate/org/theanimalsanctuary"><img src="images/help/donate-givealittle.png" alt="Give a little donation button" class="custom-donate-button"></a>
+          <a href="https://givealittle.co.nz/donate/org/theanimalsanctuary"><img src="images/donate/donate-givealittle.png" alt="Give a little donation button" class="custom-donate-button"></a>
         </div> 
       </div>
      </div>
@@ -50,7 +50,7 @@
           <p class="card-text">
             Donate securely with PayPal from anywhere in the world.  You can make a one off contribution or become a regular donor:
           </p>
-          <a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=FR3ZLBCTF2NB2&ssrt=1706937555273"><img src="images/help/donate-paypal.gif" alt="Give a little donation button" class="custom-donate-button"></a>
+          <a href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=FR3ZLBCTF2NB2&ssrt=1706937555273"><img src="images/donate/donate-paypal.gif" alt="Give a little donation button" class="custom-donate-button"></a>
         </div>
       </div>
     </div>
