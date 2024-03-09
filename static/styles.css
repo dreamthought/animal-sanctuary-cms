@@ -255,13 +255,13 @@ b.custom-b-green  {
   background-color: #451b16;
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
+  font-weight: bold;
 }
 /* card button styles for active and hover */
 .custom-btn-home:hover,
 .custom-btn-home:active {
   background-color: green;
   color: #fbfbfb;
-  font-weight: bold;
 }
 
 /* COFFEE appeal styles */
@@ -327,6 +327,7 @@ b.custom-b-green  {
   bottom: 0.15rem;
   right: 0.15rem;
 }
+/* card button style - reduced font size for sm and below */
 @media (max-width: 768px)  {
   .custom-btn-animals  {
     font-size: 0.7rem;
@@ -396,26 +397,26 @@ b.custom-b-green  {
   background-color: #451b16;
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
+  font-weight: bold;
 }
 /* card button styles for active and hover */
 .custom-btn-adopt:hover,
 .custom-btn-adopt:active {
   background-color: green;
   color: #fbfbfb;
-  font-weight: bold;
 }
 /* card button styles for facebook blue */
 .custom-btn-adopt-blue-hover {
   background-color: #451b16;
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
+  font-weight: bold;
 }
 /* card button styles for active and hover for facebook blue */
 .custom-btn-adopt-blue-hover:hover,
 .custom-btn-adopt-blue-hover:active {
   background-color: #4267B2;
   color: #fbfbfb;
-  font-weight: bold;
 }
 
 /** SHOP styles **/
@@ -462,13 +463,14 @@ b.custom-b-green  {
   background-color: #451b16;
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
+  font-weight: bold;
 }
 /* card button styles for active and hover shop */
 .custom-btn-shop:hover,
 .custom-btn-shop:active {
-  background-color: green;
+  background-color: #451b16;
   color: #fbfbfb;
-  font-weight: bold;
+  border: 0.15rem solid #fbfbfb;
 }
 
 /** HELP styles **/
@@ -513,7 +515,6 @@ b.custom-b-green  {
 .custom-btn-help:active {
   background-color: green;
   color: #fbfbfb;
-  font-weight: bold;
 }
 
 /** DONATE styles **/
