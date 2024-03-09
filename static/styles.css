@@ -325,6 +325,10 @@ b.custom-b-green  {
   border: 0.15rem solid #fbfbfb;
   font-weight: bold;
 }
+/* image style for individual animal pages */
+.custom-animal-img  {
+  max-height: 30rem;
+}
 
 /** ABOUT styles **/
 /* for sign-off image */
