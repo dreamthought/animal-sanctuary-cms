@@ -72,8 +72,7 @@ body {
 /* background blue gradient for sm and below */
 @media (max-width: 768px)  {
   .custom-background  {
-    background: linear-gradient(0deg, rgba(251,251,251,1) 0%, rgba(121,179,253,1) 100%);
-    padding-top: 1rem;
+    background: linear-gradient(0deg, rgba(251,251,251,1) 0%, rgba(121, 178, 253, 0.76) 100%);
   }
 }
 /* content container styles */
@@ -81,6 +80,12 @@ body {
   background-color: #fbfbfb;
   border-radius: 1rem;
   padding: 1rem;
+}
+/* content container style on sm and below - remove padding and border radius */
+@media (max-width: 768px)  {
+  .custom-content  {
+    border-radius: 0rem;
+  }
 }
 
 /** FORM styles **/
@@ -307,6 +312,11 @@ b.custom-b-green  {
   font-size: 1.5rem;
   font-weight: bold;
 }
+@media (max-width: 768px)  {
+  .custom-card-title-animals  {
+    font-size: 1.2rem;
+  }
+}
 /* card button styles */
 .custom-btn-animals {
   background-color: #fbfbfb;
@@ -317,13 +327,17 @@ b.custom-b-green  {
   bottom: 0.15rem;
   right: 0.15rem;
 }
+@media (max-width: 768px)  {
+  .custom-btn-animals  {
+    font-size: 0.7rem;
+  }
+}
 /* card button styles for active and hover */
 .custom-btn-animals:hover,
 .custom-btn-animals:active {
   background-color: green;
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
-  font-weight: bold;
 }
 /* image style for individual animal pages */
 .custom-animal-img  {
@@ -491,6 +505,7 @@ b.custom-b-green  {
 .custom-btn-help {
   background-color: #451b16;
   color: #fbfbfb;
+  font-weight: bold;
   border: 0.15rem solid #fbfbfb;
 }
 /* card button styles for active and hover */
