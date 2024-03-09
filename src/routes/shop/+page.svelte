@@ -31,7 +31,7 @@
       
       <div class="col-md-6">
         <div class="card custom-card-shop">
-          <img src=" images/shop/logo-animal-sanctuary-shop-new.jpg" alt="The Animal Sanctuary logo" class="card-img" />
+          <img src=" images/shop/petsy.jpg" alt="Petsy Online Shop logo" class="card-img" />
           <div class="card-img-overlay">
             <div class="card-body custom-card-body-shop">
               <h4 class="card-title custom-card-title-shop">Petsy Shopping Portal</h4>
