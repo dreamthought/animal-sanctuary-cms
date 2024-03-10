@@ -32,7 +32,7 @@
     </div>
   </div>
   <div class="text-end">
-    <a class="btn btn-success" href="animals" role="button">Back to Animals</a>
+    <a href="animals" class="btn custom-btn-animals-back">Back to Animals</a>
   </div>
 </div>
 <!-- End Lori -->
