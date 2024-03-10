@@ -70,7 +70,7 @@
       <h2><i class="fa fa-heart" aria-hidden="true"></i> I am now an Animal Sanctuary Supporter <i class="fa fa-heart" aria-hidden="true"></i></h2>
     </div>
     <!-- Supporters Form -->
-    <form id="supportForm" on:submit={submitForm}>
+    <form id="supportForm" on:submit|preventDefault={submitForm}>
       <div class="form-group">
         <label for="name">Name:</label>
         <input type="name" class="form-control" id="name" placeholder="Please enter your name" name="name" bind:value={name} required>
