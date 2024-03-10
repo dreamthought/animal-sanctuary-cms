@@ -354,6 +354,7 @@ b.custom-b-green  {
   color: #451b16;
   border: 0.15rem solid #451b16;
 }
+
 /* image style for individual animal pages */
 .custom-animal-img  {
   max-height: 30rem;
@@ -530,20 +531,6 @@ b.custom-b-green  {
   background-color: green;
   color: #fbfbfb;
 }
-/* button back styles for individual help/donate pages */
-.custom-btn-help-back {
-  background-color: #fbfbfb;
-  color: #451b16;
-  border: 0.15rem solid #451b16;
-  font-weight: bold;
-}
-/* /* button back styles for individual help/donate pages for active and hover */
-.custom-btn-help-back:hover,
-.custom-btn-help-back:active {
-  background-color: green;
-  color: #fbfbfb;
-  border: 0.15rem solid green;
-}
 
 /** DONATE styles **/
 /* CARD DONATE styles */
@@ -577,10 +564,12 @@ b.custom-b-green  {
 }
 /* green content box for donate */
 .custom-content-green  {
+  /* background-color:	#198754; */
   background-color: #459a37;
   color:#fbfbfb;
   padding: 1rem;
   border-radius: 0.5rem;
+  border: 1px solid #451b16;
 }
 
 /** FAQ styles **/
