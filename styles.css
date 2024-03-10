@@ -340,6 +340,21 @@ b.custom-b-green  {
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
 }
+/* button back styles for individual animal pages */
+.custom-btn-animals-back {
+  background-color: green;
+  color: #fbfbfb;
+  border: 0.15rem solid green;
+  font-weight: bold;
+}
+/* /* button back styles for individual animal pages for active and hover */
+.custom-btn-animals-back:hover,
+.custom-btn-animals-back:active {
+  background-color: #fbfbfb;
+  color: #451b16;
+  border: 0.15rem solid #451b16;
+}
+
 /* image style for individual animal pages */
 .custom-animal-img  {
   max-height: 30rem;
