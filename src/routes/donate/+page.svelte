@@ -90,7 +90,7 @@
 
   <hr>
   <div class="text-end">
-    <a class="btn btn-outline-success" href="help" role="button">Back to Donate/Help</a>
+    <a href="help" class="btn custom-btn-help-back">Back to Donate/Help</a>
   </div>
 
 </div>
