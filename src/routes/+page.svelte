@@ -10,57 +10,15 @@
     <!-- Home -->
     <div class="container custom-content shadow-lg">
       <h1>WELCOME TO THE ANIMAL SANCTUARY</h1>
-      <!-- old modal --> 
-      <!-- div class="row">
-        <div class="col-lg-6 mb3">
-          <img src="images/home/videostill.png" class="img-fluid rounded custom-videostill" title="click to play video" alt="play video" data-bs-toggle="modal" data-bs-target="#videoModal">  
-          <div class="modal fade" id="videoModal" tabindex="-1" aria-labelledby="videoModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-xl">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <a href="." data-sveltekit-reload><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button></a>
-                </div> 
-                <div class="modal-body p-0">
-                  <div class="container-iframe">
-                    <iframe class="responsive-iframe" src="https://www.youtube.com/embed/13F_Em_z83E?si=Amd33Ql36RNT8SMu?autoplay=1" allow="autoplay" title="The Animal Sanctuary video"></iframe>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> 
-        </div> 
-      <div class="col-lg-6">
-        <p>
-          <b>The Animal Sanctuary is run by Shawn Bishop and Michael Dixon, and is based in Matakana, New Zealand.
-          We provide a safe haven for abused and neglected animals, and care for injured and orphaned native birds.</b>
-        </p> 
-        <p>
-          Our 32 acre property has paddocks and barns to care for abused farm animals. Some stay forever, and others are rehomed when they recover. 
-          We're bordered by 400 acres of protected bush where we can safely release rehabilitated native birds.
-        </p> 
-        <p>
-          We often care for between 100 – 300 animals at The Animal Sanctuary: two-legged and four-legged, native and exotic, warm and cold-blooded – 
-          all getting the care that they deserve.
-        </p> 
-        <p class="text-center">
-          <b>You can <a href="https://player.vimeo.com/video/447269165?color&autopause=0&loop=1&muted=0&title=0&portrait=0&byline=0#t=" target="_blank" class="in-text-link">watch our video</a>
-          to learn more about what we do, and <a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank" class="in-text-link-facebook">Follow us on Facebook</a> to see what we get up to.</b>
-        </p>  
-      </div>
-    </div>
-<hr/ -->
-
       <div class="row">
-        <div class="col-lg-6 mb-3">
+        <div class="col-xl-6 mb-3">
           <!-- Video -->
-          <div class="container-iframe rounded">
-            <iframe class="responsive-iframe"
-                    src="https://www.youtube.com/embed/13F_Em_z83E?si=Amd33Ql36RNT8SMu?autoplay=1" title="YouTube video player - The Animal Sanctuary promo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-            </iframe>
-          </div>
+          <div style="padding:56.25% 0 0 0;position:relative;">
+            <iframe src="https://player.vimeo.com/video/921637852?h=3570e547eb&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen class="rounded"></iframe>
+          </div><script src="https://player.vimeo.com/api/player.js"></script>
           <!-- End Video -->
         </div>
-        <div class="col-lg-6">
+        <div class="col-xl-6">
           <p>
           <b>The Animal Sanctuary is run by Shawn Bishop and Michael Dixon, and is based in Matakana, New Zealand.
           We provide a safe haven for abused and neglected animals, and care for injured and orphaned native birds.</b>
@@ -80,7 +38,6 @@
           </p>
         </div>
       </div>
-
 <hr/>
       <!-- What We Do -->
       <div class="row">
