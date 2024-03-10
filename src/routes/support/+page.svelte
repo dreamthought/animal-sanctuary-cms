@@ -3,6 +3,43 @@
 <title>The Animal Sanctuary - Support</title>
 </svelte:head>
 
+<script>
+  const apiEndpoint = 'https://btk5m6ieo6.execute-api.us-east-1.amazonaws.com/Live/support';
+  let name = ""
+  let email = ""
+  let address = ""
+  let payment_code = ""
+  const submitForm = (event)  => {
+           event.preventDefault();
+
+           var data = {
+              name,
+              email,
+              address,
+              payment_code,
+            };
+
+            fetch(apiEndpoint, {
+                method: 'POST',
+                body: JSON.stringify(data),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                document.getElementById('supportForm').reset();
+            })
+            .catch(error => {
+                alert('Error submitting form. It is us, not you. Please try again.');
+                console.error('Error:', error);
+            });
+  };
+</script>
+
+
+
 <!-- Content Supporter -->
 <div class="container custom-content shadow-lg">
     <h1>SANCTUARY SUPPORTERS</h1>
@@ -33,28 +70,30 @@
       <h2><i class="fa fa-heart" aria-hidden="true"></i> I am now an Animal Sanctuary Supporter <i class="fa fa-heart" aria-hidden="true"></i></h2>
     </div>
     <!-- Supporters Form -->
-    <form action="#">
+    <form id="supportForm" on:submit={submitForm}>
       <div class="form-group">
         <label for="name">Name:</label>
-        <input type="name" class="form-control" id="name" placeholder="Please enter your name" name="name">
+        <input type="name" class="form-control" id="name" placeholder="Please enter your name" name="name" bind:value={name} required>
       </div>
       <div class="form-group">
         <label for="email">Email:</label>
-        <input type="email" class="form-control" id="email" placeholder="Please enter your email" name="email">
+        <input type="email" class="form-control" id="email" placeholder="Please enter your email" name="email" bind:value={email} required>
       </div>
       <div class="form-group">
         <label for="address" class="form-label">Address:</label>
-        <textarea type="address" class="form-control" id="address" rows="4" placeholder="Please enter your full postal address"></textarea>
+        <textarea type="address" class="form-control" id="address" rows="4" placeholder="Please enter your full postal address"
+         bind:value={address} required></textarea>
       </div>
       <div class="form-group">
         <label for="payment">Payment Code:</label>
-        <input type="payment" class="form-control" id="payment" placeholder="Please enter your payment code" name="payment">
+        <input type="payment" class="form-control" id="payment" placeholder="Please enter your payment code"
+         name="payment" bind:value={payment_code} required>
       </div>
 
       <button type="submit" class="btn btn-success d-flex mx-auto mt-3">Send</button>
     </form> 
     <!-- Supporters Form -->
-<hr/>
+    <hr/>
     <div class="text-end">
       <a class="btn btn-outline-success" href="help" role="button">Back to Donate/Help</a>
     </div>
