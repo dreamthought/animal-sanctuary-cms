@@ -34,7 +34,7 @@
           <img src=" images/shop/petsy.jpg" alt="Petsy Online Shop logo" class="card-img" />
           <div class="card-img-overlay">
             <div class="card-body custom-card-body-shop">
-              <h4 class="card-title custom-card-title-shop">Petsy Shopping Portal</h4>
+              <h4 class="card-title custom-card-title-shop">PEtsy Shopping Portal</h4>
               <p class="card-text custom-card-text-shop">Your gateway to heaps of wonderful shopping choices that will help save the animals!</p>
               <!-- svelte-ignore a11y-missing-attribute -->
               <a href="shop" class="btn custom-btn-shop">Coming Soon</a>
