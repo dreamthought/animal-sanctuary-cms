@@ -19,7 +19,7 @@
       Once these beautiful animals realize that they won’t be hurt any more, they become the most gentle and caring companions with amazing personalities. 
     </p>
     <p>
-      Below are just a small sample of the beautiful souls that have stayed with us, past and present. Click on any photo to learn their stories.
+      Below are just a small sample of the beautiful souls that have stayed with us, past and present. <b><i>Click on any photo to learn their stories.</i></b>
     </p>
   </div>
   
@@ -31,7 +31,7 @@
         <h4 class="card-header custom-card-title-animals">Sparky</h4>
         <img src="images/animals/sparky-square.jpg" alt="Sparky the Cow" class="card-img-top" />
         <div class="card-img-overlay">
-          <a href="animals-sparky" class="btn custom-btn-animals">Learn more</a>
+          <a href="animals-sparky" class="btn custom-btn-animals"><i class="fa-solid fa-book-open"></i></a>
         </div>
       </div>
     </div>
@@ -39,113 +39,101 @@
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Bartholomew</h4>
-        <img src="images/animals/bartholomew-square.jpg" alt="Bartholomew the Donkey" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-bartholomew" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-bartholomew">
+          <img src="images/animals/bartholomew-square.jpg" alt="Bartholomew the Donkey" class="card-img-top" />
+        </a>
       </div>
     </div>
 
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Romeo</h4>
-        <img src="images/animals/romeo-square.jpg" alt="Romeo the Miniature Horse" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-romeo" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-romeo">
+          <img src="images/animals/romeo-square.jpg" alt="Romeo the Miniature Horse" class="card-img-top" />
+        </a>
       </div>
     </div>
           
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Nellie</h4>
-        <img src="images/animals/nellie-square.jpg" alt="Nellie the Goat" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-nellie" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-nellie">
+          <img src="images/animals/nellie-square.jpg" alt="Nellie the Goat" class="card-img-top" />
+        </a>
       </div>
     </div>
 
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Jose</h4>
-        <img src="images/animals/jose-square.jpg" alt="Jose the Pig" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-jose" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-jose">
+          <img src="images/animals/jose-square.jpg" alt="Jose the Pig" class="card-img-top" />
+        </a>
       </div>
     </div>
 
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">The Boys</h4>
-        <img src="images/animals/sheep-square.jpg" alt="Sheep" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-sheep" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-sheep">
+          <img src="images/animals/sheep-square.jpg" alt="Sheep" class="card-img-top" />
+        </a>
       </div>
     </div>
 
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Lori</h4>
-        <img src="images/animals/lori.jpg" alt="Lori the Lorikeet Parrot" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-lori" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-lori">
+          <img src="images/animals/lori.jpg" alt="Lori the Lorikeet Parrot" class="card-img-top" />
+        </a>
       </div>
     </div>
     
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Dick</h4>
-        <img src="images/animals/dick-square.jpg" alt="Dick the Duck" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-dick" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-dick">
+          <img src="images/animals/dick-square.jpg" alt="Dick the Duck" class="card-img-top" />
+        </a>
       </div>
     </div>
 
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Peacocks</h4>
-        <img src="images/animals/peacocks.jpg" alt="peacocks" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-peacocks" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-peacocks">
+          <img src="images/animals/peacocks.jpg" alt="peacocks" class="card-img-top" />
+        </a>
       </div>
     </div>
 
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Queenie</h4>
-        <img src="images/animals/queenie-square.jpg" alt="Queenie the Hen" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-queenie" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-queenie">
+          <img src="images/animals/queenie-square.jpg" alt="Queenie the Hen" class="card-img-top" />
+        </a>
       </div>
     </div>
 
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Tofu</h4>
-        <img src="images/animals/tofu-square.jpg" alt="hens" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-tofu" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="animals-tofu">
+          <img src="images/animals/tofu-square.jpg" alt="hens" class="card-img-top" />
+        </a>
       </div>
     </div>
 
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Native Birds</h4>
-        <img src="images/animals/animals-8-nativebirds.jpg" alt="native birds" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="nativebirds" class="btn custom-btn-animals">Learn more</a>
-        </div>
+        <a href="nativebirds">
+          <img src="images/animals/animals-8-nativebirds.jpg" alt="native birds" class="card-img-top" />
+        </a>
       </div>
     </div>
-
 
   </div>
   <!-- close row -->
