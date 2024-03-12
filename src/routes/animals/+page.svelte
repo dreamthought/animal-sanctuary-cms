@@ -29,10 +29,9 @@
     <div class="col">
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Sparky</h4>
-        <img src="images/animals/sparky-square.jpg" alt="Sparky the Cow" class="card-img-top" />
-        <div class="card-img-overlay">
-          <a href="animals-sparky" class="btn custom-btn-animals"><i class="fa-solid fa-book-open"></i></a>
-        </div>
+        <a href="animals-sparky">
+          <img src="images/animals/sparky-square.jpg" alt="Sparky the Cow" class="card-img-top" />
+        </a>
       </div>
     </div>
 
@@ -103,7 +102,7 @@
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Peacocks</h4>
         <a href="animals-peacocks">
-          <img src="images/animals/peacocks.jpg" alt="peacocks" class="card-img-top" />
+          <img src="images/animals/peacocks.jpg" alt="Peacocks" class="card-img-top" />
         </a>
       </div>
     </div>
@@ -121,7 +120,7 @@
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Tofu</h4>
         <a href="animals-tofu">
-          <img src="images/animals/tofu-square.jpg" alt="hens" class="card-img-top" />
+          <img src="images/animals/tofu-square.jpg" alt="Tofu the Turkey" class="card-img-top" />
         </a>
       </div>
     </div>
@@ -130,7 +129,7 @@
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Native Birds</h4>
         <a href="nativebirds">
-          <img src="images/animals/animals-8-nativebirds.jpg" alt="native birds" class="card-img-top" />
+          <img src="images/animals/animals-8-nativebirds.jpg" alt="Two Kereru - NZ native wood pigeons" class="card-img-top" />
         </a>
       </div>
     </div>
