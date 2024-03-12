@@ -19,6 +19,40 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date -->
+            <small class="ms-auto">12 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            NORTHERN HEN RESCUE: 14 APRIL 
+            <br/>
+            With so many of the rescues happening south of Auckland, people up north haven’t been able to adopt.  
+            SOOOO we now have a northern hen rescue, just for you, with northern pick up points!!  
+            They’re brown shavers, 18 months old, and have laid just one season.
+            IF you can offer a safe (non eating, non breeding) home for any of these sweet girls, and
+            IF you 
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+              can pick up from Whangarei, Tutukaka Coast, Dargaville, Kaikohe, Keri Keri or Matakana on April… 
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0cRzwyD4cS5p38oAspn3MmnRgu6AS8SoWjuJ94TcRj25ADSwRrGx7oaqrkHda4TfNl?__cft__[0]=AZXBdQgskZfzwwTuij-1kOWcqFRI-8ViYbWryJ_DTmyAOyVDPsVGBHj_xZz5M2bym7YKCf6sxkxhYR4MDF_QQFWDiAYdH-FCMCg6QGph9RDY9SU6nUAuzCw_0FqLpqx7MrOr6ntoYsQFzkt-Vuk2wTR1nyHKTi2hQAxsMVMc15cbKglxHT13g20ZBEF3ran9zvg&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square) -->
+          <img src="images/news/facebook-12mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item  -->
+
+    <!-- news item  -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date -->
             <small class="ms-auto">11 March</small>
           </div>
           <!-- facebook post text -->
@@ -32,12 +66,12 @@
               She loves to lie on the couch with you on rainy days and snuggle up. She feels the cold so … 
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02eH2NDNAUxtEtc8V6u6xn6fzSrY2k3JYXDGigaqB7LFv8MTn1Fnmy6Utv9KjDSJMUl?__cft__[0]=AZXslnInRC8FxNdPlaNhO85Mr91pQ6itwlr34JcRFYcHFKY3gEF1NmUBY3ynKE43lgBcX6IhFe0J_z5PPaKy-iGWP4sHI7YiDatgQuCzAhpnMafDCrrbFJYjqZzLN9ROP0BB-7Mnk7EOYO0gJtdhbB2l_p0KVakvEkRPRzQ-Va_SAdprmgCBZHL2PW-z7nHFC4Q&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02eH2NDNAUxtEtc8V6u6xn6fzSrY2k3JYXDGigaqB7LFv8MTn1Fnmy6Utv9KjDSJMUl?__cft__[0]=AZXslnInRC8FxNdPlaNhO85Mr91pQ6itwlr34JcRFYcHFKY3gEF1NmUBY3ynKE43lgBcX6IhFe0J_z5PPaKy-iGWP4sHI7YiDatgQuCzAhpnMafDCrrbFJYjqZzLN9ROP0BB-7Mnk7EOYO0gJtdhbB2l_p0KVakvEkRPRzQ-Va_SAdprmgCBZHL2PW-z7nHFC4Q&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
           <!-- facebook post image (square) -->
-          <img src="images/news/facebook-11Mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+          <img src="images/news/facebook-11mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
         </div>
       </div>
     </div>
@@ -64,7 +98,7 @@
               When we arrived home yesterday, the animals were beside themselves with happiness to see us, which filled our hearts.  Then L…
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid09GKFzeU6EhFLYySuMgtHyMNC8BX9qdjpdkjPoC9DwP2YPXcwAJSz5Ptcb7sL44Lxl?__cft__[0]=AZWyM2_49g6hUwGk5xypmNPnedqlHdgj66r-Plnfp8Ez5X-hO0i7k0YvBKb3AJArae6glV58NGzFDzlVvFlP3wRmb4orMeYYDNlguuQIe6FmxE1ATfyadl1j4Q6asZJSvHPvPyWSJAjw6sYV4Im1XfeqrhVl_kyGTiaxKtNo3uxbDIRVYdgdLnocIt9yjlBMHX0&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid09GKFzeU6EhFLYySuMgtHyMNC8BX9qdjpdkjPoC9DwP2YPXcwAJSz5Ptcb7sL44Lxl?__cft__[0]=AZWyM2_49g6hUwGk5xypmNPnedqlHdgj66r-Plnfp8Ez5X-hO0i7k0YvBKb3AJArae6glV58NGzFDzlVvFlP3wRmb4orMeYYDNlguuQIe6FmxE1ATfyadl1j4Q6asZJSvHPvPyWSJAjw6sYV4Im1XfeqrhVl_kyGTiaxKtNo3uxbDIRVYdgdLnocIt9yjlBMHX0&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -97,7 +131,7 @@
             A small number of caring v… 
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02t92a7hbz6p9DwurtnGpfV9cQNtDZA3sfnQazna36cDR4wM3ZHTvA4LUtnbMqRC48l?__cft__[0]=AZX7EMzqB_eNCZ_l62lPUMSVUVulOAMcs1zct03dOi9hbIReFoMWcXdC6xHNfYU_Zz3qyKhao3anj_Ma9IwGDMAQqbMx838cqqrjoYMvcRYkgEFwtlq9-IS9SJoTnS_ixQtkoleSn537Ppf33tWN-kyM58JUY7wjMhB0xOdImUlYFU2_6bW8Mc8d8WOURdXSH6E&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02t92a7hbz6p9DwurtnGpfV9cQNtDZA3sfnQazna36cDR4wM3ZHTvA4LUtnbMqRC48l?__cft__[0]=AZX7EMzqB_eNCZ_l62lPUMSVUVulOAMcs1zct03dOi9hbIReFoMWcXdC6xHNfYU_Zz3qyKhao3anj_Ma9IwGDMAQqbMx838cqqrjoYMvcRYkgEFwtlq9-IS9SJoTnS_ixQtkoleSn537Ppf33tWN-kyM58JUY7wjMhB0xOdImUlYFU2_6bW8Mc8d8WOURdXSH6E&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -130,7 +164,7 @@
               Helena mastered the drill and saw, definitely gave Alvaro a run … 
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0xP5MZeoaS9owXNgAboVRakn8dwHs78w4MN5SdKQMXZaB4Xv7Z2GStA6dWfFKxrtBl?__cft__[0]=AZUzhcRuY4NNucPcHCQHZbiR6BS-foBu2BImj81ySASh8GaYT5iuapeI-hYjxtx-6jb9EdzMtFBilFDYRjatuDVQpD6ZeA5wZSORpqsJ3kC1tnvX_Bs8IiF04PjSoJAkMjBpIYvUtDXPIWffFx_vnVjs54MjYejIhzNfJQZ9SY0xtflgo_JxMRNkI0i3nP_elcU&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0xP5MZeoaS9owXNgAboVRakn8dwHs78w4MN5SdKQMXZaB4Xv7Z2GStA6dWfFKxrtBl?__cft__[0]=AZUzhcRuY4NNucPcHCQHZbiR6BS-foBu2BImj81ySASh8GaYT5iuapeI-hYjxtx-6jb9EdzMtFBilFDYRjatuDVQpD6ZeA5wZSORpqsJ3kC1tnvX_Bs8IiF04PjSoJAkMjBpIYvUtDXPIWffFx_vnVjs54MjYejIhzNfJQZ9SY0xtflgo_JxMRNkI0i3nP_elcU&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -162,7 +196,7 @@
               I’m not sure what amazes me more: that they found this really really looong piece of hose that I’d never seen before; that they p…
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0yBveUtfbBbKFuFZ3rB52fMRurQPNgLQCorQoMbtU8fqVSzeSd5YeA31JryNot92cl?__cft__[0]=AZV6Txu_tnStVo193kJBNpQ3TvpaLd4EZtxtgQCeATyO805wSXzwDh6pq-Cpax9y4vK1dPq4sEESH4cWoj6xtehZzMfC1L8-Els8ZsZDbAu_A_9osnc1nwuWkTjmgZvakneCjexxOfDZ8l5NDHe2HDJPEQyA2j4SBU5H6RkhitAGrQZCDwnygIqK4oJTXsAfN24&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0yBveUtfbBbKFuFZ3rB52fMRurQPNgLQCorQoMbtU8fqVSzeSd5YeA31JryNot92cl?__cft__[0]=AZV6Txu_tnStVo193kJBNpQ3TvpaLd4EZtxtgQCeATyO805wSXzwDh6pq-Cpax9y4vK1dPq4sEESH4cWoj6xtehZzMfC1L8-Els8ZsZDbAu_A_9osnc1nwuWkTjmgZvakneCjexxOfDZ8l5NDHe2HDJPEQyA2j4SBU5H6RkhitAGrQZCDwnygIqK4oJTXsAfN24&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -191,7 +225,7 @@
             <span class="d-md-inline d-lg-none d-xl-inline">
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/reel/1600218860799385/?s=single_unit&__cft__[0]=AZVCHBMx_DqsSj0joIToSC5A9LkfxB87ceB-EjME6D1lUBvTubhQ2LOGDs9CMqu8ZwWqqh1WO_vQylOVtO_RT3q119WJVpPjT7nzZtruvC8t_gw4AkzDcaGdHMgPNaUDGE3cyEp6D3q4YL1fNjHZX_Qsmc8AsWzE5ZQd30dv1lO-cMdC7Bnsd6f5yqZgOxMwVJk&__tn__=H-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/reel/1600218860799385/?s=single_unit&__cft__[0]=AZVCHBMx_DqsSj0joIToSC5A9LkfxB87ceB-EjME6D1lUBvTubhQ2LOGDs9CMqu8ZwWqqh1WO_vQylOVtO_RT3q119WJVpPjT7nzZtruvC8t_gw4AkzDcaGdHMgPNaUDGE3cyEp6D3q4YL1fNjHZX_Qsmc8AsWzE5ZQd30dv1lO-cMdC7Bnsd6f5yqZgOxMwVJk&__tn__=H-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -224,7 +258,7 @@
               majority; an unethical move which will prove a shameful leap backwards for animal welfare in New Zealand.
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid06MoBvw38VLE3nzQWEYm3DrBHGRonpMs4H4uN4fFEov368jr4RGTL9HcfKYgx2GbUl?__cft__[0]=AZW3soDUdKEjt08wRHEKAtiVahvsmvcED4pEpmuF3kaHGhplKLR3ts_T6Dclx-jPdkHnbe7xzzEYK4CO6e0xF9JdTokByXxzHJkUGCal2Hsu9VLyu3cLK8ENxcHsLjYJhhTMH0o4LWnHFVvTRFB4WroSQ3sg6iWueQn6JVgp7mXRrP1FzSbARb7LFEeivr77Ixi6207IFaJFbTwQR3uZ1B5g&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid06MoBvw38VLE3nzQWEYm3DrBHGRonpMs4H4uN4fFEov368jr4RGTL9HcfKYgx2GbUl?__cft__[0]=AZW3soDUdKEjt08wRHEKAtiVahvsmvcED4pEpmuF3kaHGhplKLR3ts_T6Dclx-jPdkHnbe7xzzEYK4CO6e0xF9JdTokByXxzHJkUGCal2Hsu9VLyu3cLK8ENxcHsLjYJhhTMH0o4LWnHFVvTRFB4WroSQ3sg6iWueQn6JVgp7mXRrP1FzSbARb7LFEeivr77Ixi6207IFaJFbTwQR3uZ1B5g&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -257,7 +291,7 @@
             Pl…
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid037Jj6Eix95PpqDQBJR51PsSZkuenzjC2a7FKP6gJ23roYmCuYAQSyMsQjhzKM6Cihl?__cft__[0]=AZVKVbs60Eq2VBbqsdKNELe_zW1aZdQchLtcep7n5pE7Nksh1Nb3zuKn-JoGv0qN1gZsLNUkXzIwW8HK9Vi_rqnu4o7TiUAQh_giBGcYVefDV0E-0iusLr00KDyw4bAZNg6GBOrhx81UuuceGRjvfttrJVoloOUq2K3iIqkYXA8sNbRx9CjEozcTBOH715wTfy8&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid037Jj6Eix95PpqDQBJR51PsSZkuenzjC2a7FKP6gJ23roYmCuYAQSyMsQjhzKM6Cihl?__cft__[0]=AZVKVbs60Eq2VBbqsdKNELe_zW1aZdQchLtcep7n5pE7Nksh1Nb3zuKn-JoGv0qN1gZsLNUkXzIwW8HK9Vi_rqnu4o7TiUAQh_giBGcYVefDV0E-0iusLr00KDyw4bAZNg6GBOrhx81UuuceGRjvfttrJVoloOUq2K3iIqkYXA8sNbRx9CjEozcTBOH715wTfy8&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -287,7 +321,7 @@
             <span class="d-md-inline d-lg-none d-xl-inline">
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid027FES2E4QxeGqJqge58AvZ5QTqBXErtYBS2EDf5ijc8CJDBTcPAHVyotme4xaTWSDl?__cft__[0]=AZW3G70HVbsm8qySFOC69iQ9NdzBQfoP1w-PsaAcR2LBQqQiKsvxxl7kV52h-Cwsf_nBlk8VUGj74-J_fI1kM_JDFiPzye-F6GshqmVitffrx2Wi6DSIRG1zXgISDdJ-DJb4IRcuMhmdmoTm5aFcgroj_APn6PR3aiJrTKsUDAl1AF48TZRG5oO5eQQTFTfWmBg&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid027FES2E4QxeGqJqge58AvZ5QTqBXErtYBS2EDf5ijc8CJDBTcPAHVyotme4xaTWSDl?__cft__[0]=AZW3G70HVbsm8qySFOC69iQ9NdzBQfoP1w-PsaAcR2LBQqQiKsvxxl7kV52h-Cwsf_nBlk8VUGj74-J_fI1kM_JDFiPzye-F6GshqmVitffrx2Wi6DSIRG1zXgISDdJ-DJb4IRcuMhmdmoTm5aFcgroj_APn6PR3aiJrTKsUDAl1AF48TZRG5oO5eQQTFTfWmBg&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -314,7 +348,7 @@
            <span class="d-md-inline d-lg-none d-xl-inline">
            </span>
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/reel/1766443237192584/?s=single_unit&__cft__[0]=AZW125GaNhR0Vr8-VwVBAb3kRFimYNM_gvQO-wlAcp8VSljfZ7jth4EJ7LhKZON7VaDXUAEnW6jRfdn3oPx9GUnmcJyYPefELT7AzFyjtdPZQEw6FOBLzKEbAKDvblCj1Q7xjDLUk72A6H2andPdyM7ETRhBwTzMfeMQBlsD393RBjr_PbolktyJ-yhdhi0aVTY&__tn__=H-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/reel/1766443237192584/?s=single_unit&__cft__[0]=AZW125GaNhR0Vr8-VwVBAb3kRFimYNM_gvQO-wlAcp8VSljfZ7jth4EJ7LhKZON7VaDXUAEnW6jRfdn3oPx9GUnmcJyYPefELT7AzFyjtdPZQEw6FOBLzKEbAKDvblCj1Q7xjDLUk72A6H2andPdyM7ETRhBwTzMfeMQBlsD393RBjr_PbolktyJ-yhdhi0aVTY&__tn__=H-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
@@ -345,44 +379,12 @@
             <br/>So if you live in the regions of Auckland, Waikato, Tauranga, or Rotorua and would like to adopt, please apply using this li…
             </span> 
             <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02465yd7jGFBMruu5GsiYGQjjUNC1S2nFqUvUybhpDfAzJFERUsT26dH2FpHPUVLKvl?__cft__[0]=AZW60zUzLLYEdzA1g5tGidz68nf5Zny_ev3hM9PwtIiGuX-w0JbJbOHF7tXBJLJ3JIANT2Vd5YPpks9casLdO2I0M5MB2vpKKNEapNl1c3AMjTvoRi4rCaqwmNmuLlOFll_m08wSux-V_Dhoc3MY4GnIRJB39TwyhiDhkfJ1EpOfjTo1ZCJmwLc0Mmy0acOE7UI&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02465yd7jGFBMruu5GsiYGQjjUNC1S2nFqUvUybhpDfAzJFERUsT26dH2FpHPUVLKvl?__cft__[0]=AZW60zUzLLYEdzA1g5tGidz68nf5Zny_ev3hM9PwtIiGuX-w0JbJbOHF7tXBJLJ3JIANT2Vd5YPpks9casLdO2I0M5MB2vpKKNEapNl1c3AMjTvoRi4rCaqwmNmuLlOFll_m08wSux-V_Dhoc3MY4GnIRJB39TwyhiDhkfJ1EpOfjTo1ZCJmwLc0Mmy0acOE7UI&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
         <div class="col-lg-3 d-flex align-items-center align-content-center">
           <!-- facebook post image (square ) -->
           <img src="images/news/facebook-b.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item  -->
-
-    <!-- news item  -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date -->
-            <small class="ms-auto">20 February</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            GRAPHIC DESIGN VOLUNTEER 
-            <br/>UPDATE: Wow, we've already had 4 people express a willingness to help with this!  Incredible.  
-            I'm sure that something fabulous will result, so we should be all set now.  Thanks so much.
-            <!-- facebook post text (hidden on lg) -->
-            <span class="d-md-inline d-lg-none d-xl-inline">
-            <br/>-----------------------------------------
-            <br/>I'm bursting to announce a couple of new Animal Sanctuary projects that are being worked on, 
-            but know I can't say anything until they're ready to launch.  One is getting close to completion, and the other is in development.…
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0mxhhLW4gbsXwEv4eGqg1zwLEqXJMFUnkNP2dPuzupBWzdWjCMBnqAQnpugp9AA1Zl?__cft__[0]=AZU7gpmOpU9kGJIn-SRQerjLxbQ4XdnVpPBRJ0cjDH-vcoDs2r7wRkyudgwVqGi8zYSGNnA7NFcITSY_fbjZJZr1lctnp-RVdOoB5WP4HfirInEaCqx6Ugs0IkDsdPtBRqaYpHwWnp4bDV1VOIqQmpkXdbbyKkZZLPKl90XxrQ0poZ64hs1nKPkLT1S5MnvaG7U&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">Continue reading <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square) -->
-          <img src="images/news/facebook-c.jpg" class="rounded img-fluid w-100" alt="Facebook">
         </div>
       </div>
     </div>

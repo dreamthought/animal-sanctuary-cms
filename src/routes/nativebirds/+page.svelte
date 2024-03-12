@@ -9,13 +9,13 @@
     <div class="row">
       <div class="col-md-4">
         <div class="text-center mb-2">
-          <img src="images/animals/nativebirds-1.jpg" class="rounded img-fluid" alt="baby chicks">
+          <img src="images/nativebirds/nativebirds-1.jpg" class="rounded img-fluid" alt="baby chicks">
         </div>
         <div class="text-center mb-2">
-          <img src="images/animals/nativebirds-2.jpg" class="rounded img-fluid" alt="native wood pigeons">
+          <img src="images/nativebirds/nativebirds-2.jpg" class="rounded img-fluid" alt="native wood pigeons">
         </div>
         <div class="text-center mb-2">
-          <img src="images/animals/nativebirds-3.jpg" class="rounded img-fluid" alt="little blue penguin">
+          <img src="images/nativebirds/nativebirds-3.jpg" class="rounded img-fluid" alt="little blue penguin">
         </div>
       </div>
       <div class="col-md-8">

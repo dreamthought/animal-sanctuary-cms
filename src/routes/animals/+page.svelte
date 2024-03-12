@@ -129,7 +129,7 @@
       <div class="card custom-card-animals">
         <h4 class="card-header custom-card-title-animals">Native Birds</h4>
         <a href="nativebirds">
-          <img src="images/animals/animals-8-nativebirds.jpg" alt="Two Kereru - NZ native wood pigeons" class="card-img-top" />
+          <img src="images/animals/nativebirds.jpg" alt="Two Kereru - NZ native wood pigeons" class="card-img-top" />
         </a>
       </div>
     </div>
