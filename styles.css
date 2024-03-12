@@ -636,3 +636,11 @@ b.custom-b-green  {
   text-align: center;
   margin-top: 2rem;
 }
+.footer-link  {
+  text-decoration: none;
+  color: #451b16;
+}
+.footer-link:hover,
+.footer-link:active  {
+  font-weight: bold;
+}
