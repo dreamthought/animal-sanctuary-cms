@@ -16,7 +16,7 @@
                 <li><a href="animals-bartholomew" class="plain-link">Bartholomew</a></li>
                 <li><a href="animals-romeo" class="plain-link">Romeo</a></li>
                 <li><a href="animals-nellie" class="plain-link">Nellie</a></li>
-                <li><a href="animals=jose" class="plain-link">Jose</a></li>
+                <li><a href="animals-jose" class="plain-link">Jose</a></li>
                 <li><a href="animals-sheep" class="plain-link">The Boys</a></li>
                 <li><a href="animals-lori" class="plain-link">Lori</a></li>
                 <li><a href="animals-dick" class="plain-link">Dick</a></li>
