@@ -66,6 +66,5 @@
     </div>
   </div>
   <!-- End Cards on xs and sm screens -->
-
 </div>
 <!-- End Adopt-->

@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Donate</title>
+<title>Donate - The Animal Sanctuary</title>
 </svelte:head>
 
 
@@ -88,7 +88,8 @@
     </div>
   </div>
 
-  <hr>
+  <hr/>
+  
   <div class="text-end">
     <a href="help" class="btn custom-btn-help-back">Back to Donate/Help</a>
   </div>

@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Animals - Dick</title>
+<title>Dick - Rescued Animals - The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Content Dick -->
@@ -9,7 +9,7 @@
   <div class="row">
     <div class="col-lg-3">
       <div class="text-center mb-2">
-        <img src="images/animals/dick.jpg" class="rounded img-fluid custom-animal-img" alt="Bartholomew the donkey">
+        <img src="images/animals/dick.jpg" class="rounded img-fluid custom-animal-img" alt="Dick the domestic duck">
       </div>
     </div>
     <div class="col-lg-9">

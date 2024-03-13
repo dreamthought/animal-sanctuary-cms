@@ -1,11 +1,11 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Native Birds</title>
+<title>Native Birds - The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Native Bird Rehabilitation -->
 <div class="container custom-content shadow-lg">
-    <h1>NATIVE BIRD REHABILITATION</h1>
+  <h1>NATIVE BIRD REHABILITATION</h1>
     <div class="row">
       <div class="col-md-4">
         <div class="text-center mb-2">

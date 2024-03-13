@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Animals - Lori</title>
+<title>Lori - Rescued Animals - The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Lori -->
@@ -9,7 +9,7 @@
   <div class="row">
     <div class="col-lg-2">
       <div class="text-center mb-2">
-        <img src="images/animals/lori.jpg" class="rounded img-fluid custom-animal-img" alt="Lori the Lorikeet Parrot" />
+        <img src="images/animals/lori.jpg" class="rounded img-fluid custom-animal-img" alt="Lori the Lorikeet parrot" />
       </div>
     </div>
     <div class="col-lg-10">

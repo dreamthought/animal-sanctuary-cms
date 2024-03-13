@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Privacy Policy</title>
+<title>Privacy Policy - The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Privacy Policy -->
@@ -30,11 +30,11 @@
     <p>
       <b><u>Embedded content from other websites</u></b>
       <br/>Pages on our website may include embedded content (e.g. videos). 
-      Embedded content from other websites behaves in the exact same way as you if have visited the other website.
+      Embedded content from other websites behaves in the exact same way as if you have visited the other website.
     </p>
     <p>
-      <b><u>Security, retaning and deleting your personal date</u></b>
-      <br/>When you submit your information via our website’s form or email, we will take all reasonable precautions to protect your information.
+      <b><u>Security, retaining and deleting your personal data</u></b>
+      <br/>When you submit information via our website’s form or email, we will take all reasonable precautions to protect your information.
       We retain the information we collect from you only for as long as we need it for it's intended purpose. 
       You can request access to any personal data we hold about you to correct or delete it.
     </p>

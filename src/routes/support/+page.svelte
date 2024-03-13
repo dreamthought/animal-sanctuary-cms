@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Support</title>
+<title>Sanctuary Supporter - The Animal Sanctuary</title>
 </svelte:head>
 
 <script>
@@ -90,10 +90,11 @@
          name="payment" bind:value={payment_code} required>
       </div>
 
-      <button type="submit" class="btn btn-success d-flex mx-auto mt-3">Send</button>
+      <button type="submit" class="btn custom-btn-animals-back d-flex mx-auto mt-3">Send</button>
     </form> 
     <!-- Supporters Form -->
-    <hr/>
+
+<hr/>
     <div class="text-end">
       <a href="help" class="btn custom-btn-help-back">Back to Donate/Help</a>
     </div>

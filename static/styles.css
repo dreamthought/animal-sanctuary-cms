@@ -325,29 +325,6 @@ b.custom-b-green  {
     font-size: 1.2rem;
   }
 }
-/* card button styles */
-.custom-btn-animals {
-  background-color: #fbfbfb;
-  color: #451b16;
-  border: 0.15rem solid #451b16;
-  font-weight: bold;
-  position: absolute;
-  bottom: 0.15rem;
-  right: 0.15rem;
-}
-/* card button style - reduced font size for sm and below */
-@media (max-width: 768px)  {
-  .custom-btn-animals  {
-    font-size: 0.7rem;
-  }
-}
-/* card button styles for active and hover */
-.custom-btn-animals:hover,
-.custom-btn-animals:active {
-  background-color: green;
-  color: #fbfbfb;
-  border: 0.15rem solid #fbfbfb;
-}
 /* button back styles for individual animal pages */
 .custom-btn-animals-back {
   background-color: green;
@@ -355,7 +332,7 @@ b.custom-b-green  {
   border: 0.15rem solid green;
   font-weight: bold;
 }
-/* /* button back styles for individual animal pages for active and hover */
+/* button back styles for individual animal pages for active and hover */
 .custom-btn-animals-back:hover,
 .custom-btn-animals-back:active {
   background-color: #fbfbfb;
@@ -643,12 +620,4 @@ b.custom-b-green  {
   color: #451b16;
   text-align: center;
   margin-top: 2rem;
-}
-.footer-link  {
-  text-decoration: none;
-  color: #451b16;
-}
-.footer-link:hover,
-.footer-link:active  {
-  font-weight: bold;
 }

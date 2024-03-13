@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Cowcare</title>
+<title>CowCare - The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Content CowCare -->

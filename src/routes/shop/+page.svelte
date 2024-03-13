@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Shop</title>
+<title>Shop - The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Shop -->

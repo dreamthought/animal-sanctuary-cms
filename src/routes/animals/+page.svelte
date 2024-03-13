@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>The Animal Sanctuary - Animals</title>
+  <title>Rescued animals - The Animal Sanctuary</title>
 </svelte:head>
 
 <script>

@@ -27,7 +27,7 @@
               </ul>
             <li><a href="hens" class="plain-link">Egg-Farm Hens</a></li>
             <li><a href="nativebirds" class="plain-link">Native Birds</a></li>
-            <li><a href="support" class="plain-link">Become a Supporter</a></li>
+            <li><a href="support" class="plain-link">Become a Sanctuary Supporter</a></li>
         </ul>
       <li><a href="about" class="plain-link">ABOUT</a></li>
       <li><a href="adopt" class="plain-link">ADOPT</a></li>
