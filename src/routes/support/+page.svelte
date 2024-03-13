@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Sanctuary Supporter - The Animal Sanctuary</title>
+<title>Sanctuary Supporter | The Animal Sanctuary</title>
 </svelte:head>
 
 <script>

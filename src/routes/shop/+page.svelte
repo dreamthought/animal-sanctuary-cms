@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Shop - The Animal Sanctuary</title>
+<title>Shop - Online Op Shop and PEtsy Store | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Shop -->
@@ -31,7 +31,7 @@
       
       <div class="col-md-6">
         <div class="card custom-card-shop">
-          <img src=" images/shop/petsy.jpg" alt="Petsy Online Shop logo" class="card-img" />
+          <img src=" images/shop/petsy.jpg" alt="PEtsy Online Shop logo" class="card-img" />
           <div class="card-img-overlay">
             <div class="card-body custom-card-body-shop">
               <h4 class="card-title custom-card-title-shop">PEtsy Shopping Portal</h4>

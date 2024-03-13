@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Donate - The Animal Sanctuary</title>
+<title>Give a Donation | The Animal Sanctuary</title>
 </svelte:head>
 
 

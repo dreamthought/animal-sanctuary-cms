@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Sitemap - The Animal Sanctuary</title>
+<title>Sitemap | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Sitemap -->

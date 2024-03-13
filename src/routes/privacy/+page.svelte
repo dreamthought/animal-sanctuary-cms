@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Privacy Policy - The Animal Sanctuary</title>
+<title>Privacy Policy | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Privacy Policy -->

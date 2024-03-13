@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Sparky - Rescued Animals - The Animal Sanctuary</title>
+<title>Sparky - the rescued cow | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Sparky -->

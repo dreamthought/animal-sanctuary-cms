@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Tofu - Rescued animals - The Animal Sanctuary</title>
+<title>Tofu - the rescued turkey | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Tofu -->

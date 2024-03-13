@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Hens - The Animal Sanctuary</title>
+<title>Hens from egg farms - rescue & rehome | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Container for Hens -->

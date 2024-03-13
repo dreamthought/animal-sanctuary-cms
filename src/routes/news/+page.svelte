@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>News - The Animal Sanctuary</title>
+<title>News | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- News -->

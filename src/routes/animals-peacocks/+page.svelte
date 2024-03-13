@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Peacocks - Rescued animals - The Animal Sanctuary</title>
+<title>Peacocks - Rescued Animals | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Content Peacocks -->

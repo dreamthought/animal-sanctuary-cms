@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Dick - Rescued Animals - The Animal Sanctuary</title>
+<title>Dick - the rescued duck | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Content Dick -->

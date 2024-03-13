@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>About - The Animal Sanctuary</title>
+<title>About Us | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- About -->

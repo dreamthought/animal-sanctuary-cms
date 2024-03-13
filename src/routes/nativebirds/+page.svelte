@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>Native Birds - The Animal Sanctuary</title>
+<title>Native Birds - rescue & release | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Native Bird Rehabilitation -->

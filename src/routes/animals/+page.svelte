@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Rescued animals - The Animal Sanctuary</title>
+  <title>Rescued Animals - our permanent residents | The Animal Sanctuary</title>
 </svelte:head>
 
 <script>

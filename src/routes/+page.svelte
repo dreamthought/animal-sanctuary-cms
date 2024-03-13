@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary</title>
+<title>The Animal Sanctuary - Animal Refuge NZ</title>
 </svelte:head>
 
 <!-- Home -->

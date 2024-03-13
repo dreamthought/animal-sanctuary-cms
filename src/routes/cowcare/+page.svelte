@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>CowCare - The Animal Sanctuary</title>
+<title>Cow Care - sponsor a rescue cow | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Content CowCare -->
