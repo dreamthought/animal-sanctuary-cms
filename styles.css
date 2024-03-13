@@ -155,6 +155,14 @@ b.custom-b-green  {
   color: green;
 }
 /* Link styles in text */
+.plain-link  {
+  text-decoration: none;
+  color: #451b16;
+}
+.plain-link:hover,
+.plain-link:active  {
+  font-weight: bold;
+}
 .in-text-link  {
   text-decoration: none;
   color: green;
