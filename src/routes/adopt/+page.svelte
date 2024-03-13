@@ -22,7 +22,7 @@
           <div class="card-body custom-card-body-adopt">
             <h4 class="card-title custom-card-title-adopt">Egg Farm Hens</h4>
             <p class="card-text custom-card-text-adopt">The Animal Sanctuary works closely with other sanctuaries to rescue, rehabilitate and re-home young hens from commercial egg farms.</p>
-            <a href="#hen" class="btn custom-btn-adopt">Learn more</a>
+            <a href="hens" class="btn custom-btn-adopt">Learn more</a>
           </div>
         </div>
       </div>
@@ -50,7 +50,7 @@
         <div class="card-body">
           <h4 class="card-title custom-card-title-adopt">Egg Farm Hens</h4>
           <p class="card-text custom-card-text-adopt">The Animal Sanctuary works closely with other sanctuaries to rescue, rehabilitate and re-home young hens from commercial egg farms.</p>
-          <a href="#hen" class="btn custom-btn-adopt">Learn more</a>
+          <a href="hens" class="btn custom-btn-adopt">Learn more</a>
         </div>
       </div>
     </div>
@@ -66,32 +66,6 @@
     </div>
   </div>
   <!-- End Cards on xs and sm screens -->
-
-<hr/>
-  
-  <!-- Hen Content -->
-  <div class="containter" id="hen">
-    <h1>Egg Farm Hens</h1>
-      <p>
-      <b>The Animal Sanctuary works closely with other sanctuaries to rescue, rehabilitate and re-home young hens from commercial egg farms. 
-        Most people don’t know that ALL laying hens in New Zealand are allowed to lay for just one season, and then are killed at 18 months of age. 
-        This includes free range and caged.</b>
-      </p>
-      <p>
-        We help rescue these young hens (with the permission of the farmers) to find them safe loving homes instead. 
-        Hens make wonderful companions as they are low-maintenance, social animals that love to spend time with you and will keep you entertained with their antics.
-      </p>
-      <p>
-        <b><i><u>All of our hen rescues are now coordinated by Franklin Farm Sanctuary.</u></i></b> 
-        <br/>If you live in the regions of Auckland, Waikato, Tauranga, and Rotorua, please apply using this hen adoption link:
-        <a href="https://franklinfarmsanctuary.co.nz/adoption-form/?adoption-type=Hens" class="in-text-link" target="_blank">Franklin Farm Sanctuary - hen adoption form</a>.
-      <p>
-        If you’re in the Taranaki region, visit 
-        <a href="https://www.facebook.com/profile.php?id=100064618362585" class="in-text-link-facebook" target="_blank">New Beginnings Rescue & Rehoming</a>
-        on Facebook.
-    </p>
-  </div>
-  <!-- End Hen Content-->
 
 </div>
 <!-- End Adopt-->
