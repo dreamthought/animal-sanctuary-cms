@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animal Sanctuary - Adopt Hens</title>
+<title>Hens - The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Container for Hens -->
@@ -27,6 +27,5 @@
           <a href="https://www.facebook.com/profile.php?id=100064618362585" class="in-text-link-facebook" target="_blank">New Beginnings Rescue & Rehoming</a>
           on Facebook.
       </p>
-
   </div>
   <!-- Hens-->
