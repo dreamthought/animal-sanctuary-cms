@@ -10,7 +10,72 @@
     <b>Our NEWS page is updated from our Facebook page. To see more, come <a href="https://www.facebook.com/TheAnimalSanctuaryNZ" target="_blank" class="in-text-link-facebook">Follow us on Facebook</a>.</b>
   </p>
   <!-- row for news items (single col on sm and below and lg and above, double col on md)-->
-  <div class="row row-cols-1">    
+  <div class="row row-cols-1"> 
+
+    <!-- news item  -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date -->
+            <small class="ms-auto">15 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            URGENT   URGENT   URGENT
+            <br/>CHRISTCHURCH HEN NEEDS SAFE HOME
+            <br/>Note: not actual photo 
+            <br/>I’ve had an urgent request for a safe hen home in Christchurch, asap.  I don’t even have a photo yet, but the hen is a mixed breed, still laying. 
+           <!-- facebook post text (hidden on lg) -->
+           <span class="d-md-inline d-lg-none d-xl-inline">
+            The issue is that she gets out of the hen pen.  So would be happiest with a free range home, or higher fencing.
+            She’s currently in Spreydon, transport within reason is possible.  If you can provide a slaughter free home where she’ll be loved and appre…
+           </span>
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid036HYdWEA1Zs1QBE9ZL3qQkn4A8pWDA5QgiFW4mFaRvDmKLhRgc5AzXsMTAiHibeWWl?__cft__[0]=AZUmRwKp9hd9rHGyvxmUwBUnh4YP5Vu8sobtrt8Hq-rj5JkoG0FY66yTt0f8ysUrNXLcAcm3tGV621wYS7DHu5VxiqPJowmUsKM-zaRm7g_dtzfQQTS1DPo5cyK2JTS8iz_sZnntsYOfa2AAHh0xhlGLlTnZ_gDQng0a1ZAbmwFpYhOsXfhzONC6ISTCHIJ2y1w&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square)-->
+          <img src="images/news/facebook-15mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item  -->
+    
+    <!-- news item  -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
+            <small class="ms-auto">14 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            PUSHING PAUSE
+            <br/>
+            Plans never go in a straight line.  I intended to announce our exciting developments this week... but instead had eye surgery!  
+            I can’t read or see the phone and laptop screens at the moment, so will be “off line” for just a bit.  That means I can't respond to emails, texts or PMs.  
+            Please be patient.  Hopefully we’ll have vision solutions worked out for next week, 
+             <!-- facebook post text (hidden on lg) -->
+             <span class="d-md-inline d-lg-none d-xl-inline">
+              and THEN I can push Play again on our new developments!  
+            Michael will be busy caring for the anima…
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02vb1EgHWuY7xsArdTmaBnuXDEUWu9MSZY9rdhb3TzSztw79LzxrfiGvuvpBMRxLwTl?__cft__[0]=AZXgFJF4a_bYEayPLNd5B6ESAEaqxHz3RJJc1W60E9KUs3OqxpMDCIxF2OKhj6sC-8vglYfwX5moDW6iWKi1R7XABq3P3O873Q2n5FxAZImney-d694nn9phw4ifAz65AQD1VfqAJA5XQClbKt9wUX1r3_MSYS3UMFCGjonYyLHiXhc8g7GlriUmOJHpJMrJ7I8&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-14mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item  -->
 
     <!-- news item  -->
     <div class="col">
@@ -331,64 +396,6 @@
       </div>
     </div>
     <!-- end news item -->
-
-    <!-- news item  -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date -->
-            <small class="ms-auto">22 February</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            WHEN I HEARD STRANGE NOISES emanating from a bowl on top of the hutch, I just had to investigate...
-           <!-- facebook post text (hidden on lg) -->
-           <span class="d-md-inline d-lg-none d-xl-inline">
-           </span>
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/reel/1766443237192584/?s=single_unit&__cft__[0]=AZW125GaNhR0Vr8-VwVBAb3kRFimYNM_gvQO-wlAcp8VSljfZ7jth4EJ7LhKZON7VaDXUAEnW6jRfdn3oPx9GUnmcJyYPefELT7AzFyjtdPZQEw6FOBLzKEbAKDvblCj1Q7xjDLUk72A6H2andPdyM7ETRhBwTzMfeMQBlsD393RBjr_PbolktyJ-yhdhi0aVTY&__tn__=H-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square)-->
-          <img src="images/news/facebook-a.png" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item  -->
-
-    <!-- news item  -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date-->
-            <small class="ms-auto">21 February</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            HEN RESCUE COMING UP
-            <br/>We are so happy to announce that there will be a BIG egg-farm hen rescue (1000 hens) on 22 March.  Yay!!  
-            The more hens that we have homes for, the more we can rescue.  So this is the time to apply to adopt some lucky 18 month old hens.
-             <!-- facebook post text (hidden on lg) -->
-             <span class="d-md-inline d-lg-none d-xl-inline">
-              <br/>All of our hen rescues are now coordinated by the wonderful Sally Ann of Franklin Farm Sanctuary.
-            <br/>So if you live in the regions of Auckland, Waikato, Tauranga, or Rotorua and would like to adopt, please apply using this li…
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02465yd7jGFBMruu5GsiYGQjjUNC1S2nFqUvUybhpDfAzJFERUsT26dH2FpHPUVLKvl?__cft__[0]=AZW60zUzLLYEdzA1g5tGidz68nf5Zny_ev3hM9PwtIiGuX-w0JbJbOHF7tXBJLJ3JIANT2Vd5YPpks9casLdO2I0M5MB2vpKKNEapNl1c3AMjTvoRi4rCaqwmNmuLlOFll_m08wSux-V_Dhoc3MY4GnIRJB39TwyhiDhkfJ1EpOfjTo1ZCJmwLc0Mmy0acOE7UI&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square ) -->
-          <img src="images/news/facebook-b.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item  -->
     
   </div> 
   <!-- end row for news items -->
