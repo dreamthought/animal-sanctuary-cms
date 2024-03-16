@@ -13,6 +13,7 @@ const config = {
                     precompress: false,
                     strict: true
                 }),
+                appDir: 'app',
                 paths: {
                     base: process.env.NODE_ENV === 'production' ? '/animal-santuary-cms' : '',
                 }
