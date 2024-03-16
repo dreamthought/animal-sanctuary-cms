@@ -12,6 +12,40 @@
   <!-- row for news items (single col on sm and below and lg and above, double col on md)-->
   <div class="row row-cols-1"> 
 
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
+            <small class="ms-auto">16 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            TRANSPORT NEEDED
+            <br/>
+            We have a couple of rescue opportunities, but need to know we have transport support before we proceed.  
+            Can you help with either of the following?
+            <br/>1.  KUMEU TO WARKWORTH/MATAKANA:  Our Poultry Patrol volunteers will be catching a couple of dumped hens in Kumeu next week. 
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+              One has an injured leg, so we want the 2 hens brought to us as soon as they’re caught.  
+              If you’re coming this way, or just want a nice drive and to help, please contact me.  The volunteers … 
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0hrkCPUQbC77bWdmMsARuM8gwheL2MJqG7fLjnz1QzFWM81hhtaJkxX4YAfb1c5QXl?__cft__[0]=AZWUedQ95okN4NuT3cxyDrhq87K918sEj1txjSFGtsIEQanbYHRqluD04Hh_qOnPMbdeC2zN2c3pJ1k7MNxkXxcANWm7wz69_6KQKxXB3An68mC2z5UPiOAtA8qayTxk9YtK1i7s_5GrBmoQZyEO2WLgSGrzSBpZnBM2kYFzOh5_DDe7F6M-t6pdCiBQSGdHM60&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-16mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
     <!-- news item  -->
     <div class="col">
       <div class="row g-0 mb-3 custom-content-news">
@@ -362,36 +396,6 @@
         <div class="col-lg-3 d-flex align-items-center align-content-center">
           <!-- facebook post image (square ) -->
           <img src="images/news/facebook-24feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item -->
-
-    <!-- news item -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date-->
-            <small class="ms-auto">23 February</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            FABULOUS FRIDAY
-            <br/>Work on the new roof for the pig's barn continues. Dan is determined to make as much progress as possible.  
-            It's hard to get him to stop for a coffee break! Once again, Alvaro's height is an advantage. 
-            Maureen and Elena are taking a pause after hauling a load of roofing iron and timer to the barn. All second hand, and wonderful!
-            <!-- facebook post text (hidden on lg) -->
-            <span class="d-md-inline d-lg-none d-xl-inline">
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid027FES2E4QxeGqJqge58AvZ5QTqBXErtYBS2EDf5ijc8CJDBTcPAHVyotme4xaTWSDl?__cft__[0]=AZW3G70HVbsm8qySFOC69iQ9NdzBQfoP1w-PsaAcR2LBQqQiKsvxxl7kV52h-Cwsf_nBlk8VUGj74-J_fI1kM_JDFiPzye-F6GshqmVitffrx2Wi6DSIRG1zXgISDdJ-DJb4IRcuMhmdmoTm5aFcgroj_APn6PR3aiJrTKsUDAl1AF48TZRG5oO5eQQTFTfWmBg&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square ) -->
-          <img src="images/news/facebook-e.jpg" class="rounded img-fluid w-100" alt="Facebook">
         </div>
       </div>
     </div>
