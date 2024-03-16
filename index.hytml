@@ -18,10 +18,10 @@
 	<!-- Svelte Head -->
 	<link rel="icon" href="/animal-santuary-cms/favicon.ico" />
 	
-		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/entry/start.LOo47O__.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/chunks/entry.qD-aCZDm.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/entry/start.ctvSYTMk.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/chunks/entry.fz4acyy2.js">
 		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/chunks/scheduler.S4wXxuDW.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/entry/app.VmHo4npz.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/entry/app.t80mgXs2.js">
 		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/chunks/index.g_WIspXK.js">
 
 	<!-- Load external Bootstrap JS -->
@@ -36,7 +36,7 @@
 	<div style="display: contents">
 			<script>
 				{
-					__sveltekit_aqvwyc = {
+					__sveltekit_1htnppw = {
 						base: "/animal-santuary-cms",
 						assets: "/animal-santuary-cms"
 					};
@@ -44,8 +44,8 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/animal-santuary-cms/app/immutable/entry/start.LOo47O__.js"),
-						import("/animal-santuary-cms/app/immutable/entry/app.VmHo4npz.js")
+						import("/animal-santuary-cms/app/immutable/entry/start.ctvSYTMk.js"),
+						import("/animal-santuary-cms/app/immutable/entry/app.t80mgXs2.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
