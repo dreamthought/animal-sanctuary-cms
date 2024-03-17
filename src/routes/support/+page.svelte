@@ -9,6 +9,7 @@
   let email = ""
   let address = ""
   let payment_code = ""
+  let comment = ""
   const submitForm = (event)  => {
            event.preventDefault();
 
@@ -17,6 +18,7 @@
               email,
               address,
               payment_code,
+              comment
             };
 
             fetch(apiEndpoint, {
@@ -73,23 +75,27 @@
     <form id="supportForm" on:submit|preventDefault={submitForm}>
       <div class="form-group">
         <label for="name">Name:</label>
-        <input type="name" class="form-control" id="name" placeholder="Please enter your name" name="name" bind:value={name} required>
+        <input type="text" class="form-control" id="name" placeholder="Please enter your name" name="name" bind:value={name} maxlength="100" required>
       </div>
       <div class="form-group">
         <label for="email">Email:</label>
-        <input type="email" class="form-control" id="email" placeholder="Please enter your email" name="email" bind:value={email} required>
+        <input type="email" class="form-control" id="email" placeholder="Please enter your email" name="email" maxlength="200" bind:value={email} required>
       </div>
       <div class="form-group">
         <label for="address" class="form-label">Address:</label>
-        <textarea type="address" class="form-control" id="address" rows="4" placeholder="Please enter your full postal address"
-         bind:value={address} required></textarea>
+        <textarea type="text" class="form-control" id="address" rows="4" placeholder="Please enter your full postal address"
+         bind:value={address} required maxlength="255"></textarea>
       </div>
       <div class="form-group">
         <label for="payment">Payment Code:</label>
-        <input type="payment" class="form-control" id="payment" placeholder="Please enter your payment code"
-         name="payment" bind:value={payment_code} required>
+        <input type="text" class="form-control" id="payment" placeholder="Please enter your payment code"
+         name="payment" bind:value={payment_code} maxlength="100" required>
       </div>
-
+      <div class="form-group">
+        <label for="Comment">Comment:</label>
+        <textarea type="text" class="form-control" id="comment" placeholder="Message (optional)"
+          name="comment" bind:value={comment} maxlength="800" rows="3"/>
+      </div>
       <button type="submit" class="btn custom-btn-animals-back d-flex mx-auto mt-3">Send</button>
     </form> 
     <!-- Supporters Form -->
