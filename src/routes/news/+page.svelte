@@ -121,13 +121,11 @@
           </div>
           <!-- facebook post text -->
           <p>
-            URGENT   URGENT   URGENT
-            <br/>CHRISTCHURCH HEN NEEDS SAFE HOME
-            <br/>Note: not actual photo 
+            UPDATE: HEN NOW HAS A NEW HOME. THANKS!!
             <br/>I’ve had an urgent request for a safe hen home in Christchurch, asap.  I don’t even have a photo yet, but the hen is a mixed breed, still laying. 
+            The issue is that she gets out of the hen pen.  So would be happiest with a free range home, or higher fencing.
            <!-- facebook post text (hidden on lg) -->
            <span class="d-md-inline d-lg-none d-xl-inline">
-            The issue is that she gets out of the hen pen.  So would be happiest with a free range home, or higher fencing.
             She’s currently in Spreydon, transport within reason is possible.  If you can provide a slaughter free home where she’ll be loved and appre…
            </span>
             <!-- link to facebook post -->
