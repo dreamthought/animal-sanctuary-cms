@@ -12,6 +12,37 @@
   <!-- row for news items (single col on sm and below and lg and above, double col on md)-->
   <div class="row row-cols-1"> 
 
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
+            <small class="ms-auto">17 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            I often get questions about what to do with a hen that's egg bound.  This is one of the easiest ways to help her, and I've had good luck with it.  
+            I do put a cut up shower mat on the base, so she doesn't feel like she's slipping and can stand comfortably.
+            Note:  when I take a hen out of the water, I dry her with a towel, then paper towels, then tissues, to get her 
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+              as dry as possible.  
+            Then I keep her good and warm, either on a low heating pad, or with a warming light, or nea… 
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02A5Ap6ikFUHghGBdfzVsQZzJY9FbvHaHpGs2TV25DDFTT6D7oAenCRxvUDAudv2hvl?__cft__[0]=AZWu4ic-lqaTTCCgRSXkWj7uejqYHqUZCzKWXnkAjkHeAEUbjHQIe5koq0bbGeCojmg7gDPa4npRSxHsQ1ynBLjNZc-9bHiTleg2R1IKv7kUe803gU1RBZ4FPbbGskwsgsVE1RegkAb-YRFGEhiFRSMFE6-HcUZoGe7unmwuA50NXr863RJQl_YbxhWbKES-B9QOX8wCSEW9WfadnBSFhXOz&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-17mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
 
     <!-- news item -->
     <div class="col">
@@ -363,39 +394,6 @@
         <div class="col-lg-3 d-flex align-items-center align-content-center">
           <!-- facebook post image (square ) -->
           <img src="images/news/facebook-26feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item -->
-
-    <!-- news item -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date-->
-            <small class="ms-auto">24 February</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            DON’T LET LIVE EXPORT START AGAIN
-            <br/>I try to stay out of politics, and just focus on what’s best for the animals.  Live export was finally banned in April 2023.  
-            The current government says they will reverse that ban and allow live export again.  
-            If they do this, it will begin that awful cycle of suffering and death all over again.  
-            We all know that a huge proportion of the animals die en route, and 
-            <!-- facebook post text (hidden on lg) -->
-            <span class="d-md-inline d-lg-none d-xl-inline">
-              that the ones who survive have suffered in absolutely atrocious conditions.  
-            Pl…
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid037Jj6Eix95PpqDQBJR51PsSZkuenzjC2a7FKP6gJ23roYmCuYAQSyMsQjhzKM6Cihl?__cft__[0]=AZVKVbs60Eq2VBbqsdKNELe_zW1aZdQchLtcep7n5pE7Nksh1Nb3zuKn-JoGv0qN1gZsLNUkXzIwW8HK9Vi_rqnu4o7TiUAQh_giBGcYVefDV0E-0iusLr00KDyw4bAZNg6GBOrhx81UuuceGRjvfttrJVoloOUq2K3iIqkYXA8sNbRx9CjEozcTBOH715wTfy8&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square ) -->
-          <img src="images/news/facebook-24feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
         </div>
       </div>
     </div>
