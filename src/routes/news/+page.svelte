@@ -19,6 +19,39 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date-->
+            <small class="ms-auto">18 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            ANIMAL SANCTUARY’S NEW WEBSITE 
+            <br/>
+            I am so incredibly grateful to a wonderful woman named Lucia, who created a whole new website for us.  
+            We had exciting new projects planned which couldn’t be accomplished on our old website, so Lucia patiently made us a brand new one!  
+            Similar look and feel, but updated and refreshed…   
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+              and now with the capability to launch some much needed new initiatives.
+              One of those projects will launch this week (check back for announcement!), and with Lucia…
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02di9zuUkE5at4fztyEC2fURnu38WDpHJQEDnot6RPmkRgS9n3REwLgpam9o1gqxcAl?__cft__[0]=AZUEWBoctbHR-iBTcG7jpaS5LYekPVHlc8LG0YGhKSmy-8NX120usRpnjD3MAYoPd6_cc2QGl1tA9KdQgjBFgne2jGqlSoOfdaHgcPrpIc2RHylF0VGUEEdD-RwoVqWeRpNmZJVDXvCejhXJeguZcUGl4ZPhFIuYGfiDN47_OmtlqgXj3-rEWX8F4LyjjnoGexg&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-18mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
             <small class="ms-auto">17 March</small>
           </div>
           <!-- facebook post text -->
@@ -366,38 +399,7 @@
     </div>
     <!-- end news item -->
 
-    <!-- news item -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date-->
-            <small class="ms-auto">26 February</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            <b>SPCA New Zealand</b> 
-            <br/>So what do New Zealanders think of the current Government’s decision to reintroduce live exports? 
-            In a recent independent survey, the response from the public is crystal-clear: only 12% trust the live export industry. 
-            Only 19% of New Zealanders think the ban should be overturned. 
-            While we celebrated the ban on the horrific practice of live exports by sea only last year, the current Government is choosing to ignore 
-            the views of the overwhelming 
-            <!-- facebook post text (hidden on lg) -->
-            <span class="d-md-inline d-lg-none d-xl-inline">
-              majority; an unethical move which will prove a shameful leap backwards for animal welfare in New Zealand.
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid06MoBvw38VLE3nzQWEYm3DrBHGRonpMs4H4uN4fFEov368jr4RGTL9HcfKYgx2GbUl?__cft__[0]=AZW3soDUdKEjt08wRHEKAtiVahvsmvcED4pEpmuF3kaHGhplKLR3ts_T6Dclx-jPdkHnbe7xzzEYK4CO6e0xF9JdTokByXxzHJkUGCal2Hsu9VLyu3cLK8ENxcHsLjYJhhTMH0o4LWnHFVvTRFB4WroSQ3sg6iWueQn6JVgp7mXRrP1FzSbARb7LFEeivr77Ixi6207IFaJFbTwQR3uZ1B5g&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square ) -->
-          <img src="images/news/facebook-26feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item -->
+
     
   </div> 
   <!-- end row for news items -->
