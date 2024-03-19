@@ -27,7 +27,7 @@
               <p class="card-text custom-card-text-help">
                 Help us by donating a quality item to list on Trade Me for our “Animal's Online Op Shop” store! 
                 The proceeds from this sale will help us continue the important work we do, and we couldn't do it without support from people like you.</p>
-              <a href="shop" class="btn custom-btn-help">Learn more</a>
+              <a href="opshopform" class="btn custom-btn-help">Learn more</a>
             </div>
           </div>
         </div>
