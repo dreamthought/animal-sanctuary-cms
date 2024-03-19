@@ -466,10 +466,24 @@ b.custom-b-green  {
 /* card button styles for active and hover shop */
 .custom-btn-shop:hover,
 .custom-btn-shop:active {
+  background-color: green;
+  color: #fbfbfb;
+}
+/* card button styles for shop */
+.custom-btn-shop-soon {
+  background-color: #451b16;
+  color: #fbfbfb;
+  border: 0.15rem solid #fbfbfb;
+  font-weight: bold;
+}
+/* card button styles for active and hover shop */
+.custom-btn-shop-soon:hover,
+.custom-btn-shop-soon:active {
   background-color: #451b16;
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
 }
+
 
 /** HELP styles **/
 /* CARD HELP styles */
