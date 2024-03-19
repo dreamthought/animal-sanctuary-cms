@@ -1,6 +1,6 @@
 <!-- Add headers here -->
 <svelte:head>
-<title>The Animals Online Op Shop | The Animal Sanctuary</title>
+<title>Donate Items to Op Shop | The Animal Sanctuary</title>
 </svelte:head>
 
 <!-- Op Shop -->

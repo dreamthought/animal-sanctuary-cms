@@ -35,10 +35,13 @@
           <li><a href="hens" class="plain-link">Egg-Farm Hens</a></li>
         </ul>
       <li><a href="shop" class="plain-link">SHOP</a></li>
+        <ul>
+          <li><a href="opshopform" class="plain-link">Donate an Item to The Animals Online Op Shop</a></li>
+        </ul>
       <li><a href="help" class="plain-link">DONATE/HELP</a></li>
         <ul>
           <li><a href="donate" class="plain-link">Make a Donation</a></li>
-          <li><a href="shop" class="plain-link">Donate Items to Op Shop</a></li>
+          <li><a href="opshopform" class="plain-link">Donate Items to Op Shop</a></li>
           <li><a href="support" class="plain-link">Become a Sanctuary Supporter</a></li>
           <li><a href="cowcare" class="plain-link">Save a Cow</a></li>
         </ul>
