@@ -68,7 +68,7 @@
       src="https://form.jotform.com/240447944809062"
       frameborder="0"
       style="min-width:100%;max-width:100%;height:539px;border:none;"
-      scrolling="no"
+      scrolling="yes"
     >
     </iframe>
     <script type="text/javascript">
