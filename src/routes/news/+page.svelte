@@ -19,6 +19,35 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date-->
+            <small class="ms-auto">19 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            GOOFY, BUT IT WORKS!
+            <br/>
+            I know, I know, this is a terribly goofy look.  But for the first time since my eye surgery 6 days ago, I've been able to visit the animals.  
+            I'm supposed to stay away as the pigs running to me can kick up dirt, the hens flapping can stir up dust, driving the quad can get bits in the eyes, etc. etc.... 
+            but these silly goggles let me get out tonight to visit the animals, while keeping my eye safe.  Oh my gosh, it was SOOO good to see them all!  I'm still n…
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02ygf6ZrFfuJo4QB5hBtRsRtWzSBBWnaGTrDLhyrojkmyDs8MvTdgVVdKLTvgPVv7gl?__cft__[0]=AZVwe5yFUcYBVkTxrv0gIFU1HqMwEkns6cQbD507iHC7b8uogoKVbyepvYOx7naRqqUw095X_Wnv2hR19z80Mim7tcg3TQQiZlPE-cO6ThWBeF6XQ0tqF6jeiB1lWBQmmRdCSDZeIC97li1E34AqWv8IhHs1GPEh583jHAtye_hXxNAtOzDOEY-EyR1DrT6_EKE&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-19mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
             <small class="ms-auto">18 March</small>
           </div>
           <!-- facebook post text -->
@@ -367,37 +396,6 @@
       </div>
     </div>
     <!-- end news item -->
-
-    <!-- news item -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date-->
-            <small class="ms-auto">26 February</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            PIG PROJECTS
-            <br/>While we're working on the pig barn roof, we moved the pigs to another paddock. Of course they needed a sunshade and a wallow, 
-            so this is what they got...
-            <!-- facebook post text (hidden on lg) -->
-            <span class="d-md-inline d-lg-none d-xl-inline">
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/reel/1600218860799385/?s=single_unit&__cft__[0]=AZVCHBMx_DqsSj0joIToSC5A9LkfxB87ceB-EjME6D1lUBvTubhQ2LOGDs9CMqu8ZwWqqh1WO_vQylOVtO_RT3q119WJVpPjT7nzZtruvC8t_gw4AkzDcaGdHMgPNaUDGE3cyEp6D3q4YL1fNjHZX_Qsmc8AsWzE5ZQd30dv1lO-cMdC7Bnsd6f5yqZgOxMwVJk&__tn__=H-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square ) -->
-          <img src="images/news/facebook-26feb-2.png" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item -->
-
-
     
   </div> 
   <!-- end row for news items -->
