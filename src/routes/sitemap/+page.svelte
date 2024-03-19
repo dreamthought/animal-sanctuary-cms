@@ -41,7 +41,7 @@
       <li><a href="help" class="plain-link">DONATE/HELP</a></li>
         <ul>
           <li><a href="donate" class="plain-link">Make a Donation</a></li>
-          <li><a href="opshopform" class="plain-link">Donate Items to Op Shop</a></li>
+          <li><a href="opshop" class="plain-link">Donate Items to Op Shop</a></li>
           <li><a href="support" class="plain-link">Become a Sanctuary Supporter</a></li>
           <li><a href="cowcare" class="plain-link">Save a Cow</a></li>
         </ul>
