@@ -19,6 +19,37 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date-->
+            <small class="ms-auto">20 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            CUDDLY CLEO – MEGA URGENT
+            <br/>
+            Remember the elderly couple that were forced to move near Christmas, and couldn't take their 3 rescue cats? You all helped them find homes, including Cleo.  
+            She’s SUPER FRIENDLY and LOVES CUDDLES, but was terrified of the 2 big dogs at her new home.  So she's living under a nearby house which is now being sold. 
+            We need to get her settled somewhere wonderful before winter.  She's 8, is speyed, vaccinated, has had her teeth done, is healthy, and did I …  
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02eWF8BwoXD8YDFDuMGms8MtHzcgQSq7yxzQkVUBH4ZkEQ3SbSbdiEQWVzZQrmn2ofl?__cft__[0]=AZUJBd-uv9qmaoWbt1S2svnniypNg9Dwe166HSK0GP0g7U_thkxH5Bhaw9W4KW01yK_CPR2UOvMOvhZgoouidXpiabVdtFrH09x2jy06AgkfJMN7TtQZijnhrU70J8Vv0ZE-4u7IaEYhuPs4QlqQOZ50vLuWJH6faV-_bQo7SVwHu6yHhOxKmVL-n5o-NKBBh7E&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-20mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
             <small class="ms-auto">19 March</small>
           </div>
           <!-- facebook post text -->
@@ -360,38 +391,6 @@
         <div class="col-lg-3 d-flex align-items-center align-content-center">
           <!-- facebook post image (square ) -->
           <img src="images/news/facebook-2mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item -->
-    
-    <!-- news item -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date-->
-            <small class="ms-auto">29 February</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            A SURPRISE IN THE NEST
-            <br/>
-            I just never know what I’m going to find in the big pile of hay where the pigs sleep.  
-            They have a massive paddock, and somehow discover all kinds of things which they bring into the barn and bury in their hay.  
-            I noticed a small piece of thin black hose sticking out, and started to pull.  And pulled, and pulled, and pulled!  
-            <!-- facebook post text (hidden on lg) -->
-            <span class="d-md-inline d-lg-none d-xl-inline">
-              I’m not sure what amazes me more: that they found this really really looong piece of hose that I’d never seen before; that they p…
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0yBveUtfbBbKFuFZ3rB52fMRurQPNgLQCorQoMbtU8fqVSzeSd5YeA31JryNot92cl?__cft__[0]=AZV6Txu_tnStVo193kJBNpQ3TvpaLd4EZtxtgQCeATyO805wSXzwDh6pq-Cpax9y4vK1dPq4sEESH4cWoj6xtehZzMfC1L8-Els8ZsZDbAu_A_9osnc1nwuWkTjmgZvakneCjexxOfDZ8l5NDHe2HDJPEQyA2j4SBU5H6RkhitAGrQZCDwnygIqK4oJTXsAfN24&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square ) -->
-          <img src="images/news/facebook-29feb.jpg" class="rounded img-fluid w-100" alt="Facebook">
         </div>
       </div>
     </div>
