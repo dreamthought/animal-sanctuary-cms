@@ -18,27 +18,23 @@
       <div class="col-md-6">
         <div class="card custom-card-shop">
           <img src=" images/shop/onlineopshop.jpg" alt="The Animal's Online Op Shop logo" class="card-img" />
-          <div class="card-img-overlay">
-            <div class="card-body custom-card-body-shop">
+            <div class="card-body">
               <h4 class="card-title custom-card-title-shop">The Animal's Online Op Shop</h4>
               <p class="card-text custom-card-text-shop">100% of the sales from The Animal's Online Op Shop go to the animals.</p>
               <button class="btn custom-btn-shop-soon">Coming Soon</button>
               <a href="opshop" class="btn custom-btn-shop">Donate an Item</a>
             </div>
-          </div>
         </div>
       </div>
       
       <div class="col-md-6">
         <div class="card custom-card-shop">
           <img src=" images/shop/petsy.jpg" alt="PEtsy Online Shop logo" class="card-img" />
-          <div class="card-img-overlay">
-            <div class="card-body custom-card-body-shop">
+            <div class="card-body">
               <h4 class="card-title custom-card-title-shop">PEtsy Shopping Portal</h4>
               <p class="card-text custom-card-text-shop">Your gateway to heaps of wonderful shopping choices that will help save the animals!</p>
               <button class="btn custom-btn-shop-soon">Coming Soon</button>
             </div>
-          </div>
         </div>
       </div>
 
