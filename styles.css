@@ -422,7 +422,7 @@ b.custom-b-green  {
 /* main card styles */
 .custom-card-shop {
   width: 100%;
-  max-width: 20rem;
+  max-width: 30rem;
   background-color: #451b16;
   color: #fbfbfb;
   margin: auto;
@@ -436,15 +436,6 @@ b.custom-b-green  {
 .custom-card-shop:active  {
   transform: scale(1.05);
 }
-}
-/* card body styles for shop */
-.custom-card-body-shop {
-  position: absolute;
-  bottom: 0;
-  background-color: #451b16;
-  color: #fbfbfb;
-  opacity: 0.9;
-  border-top-left-radius: 2rem;
 }
 /* card title styles for shop */
 .custom-card-title-shop {
@@ -462,6 +453,8 @@ b.custom-b-green  {
   color: #fbfbfb;
   border: 0.15rem solid #fbfbfb;
   font-weight: bold;
+  position: absolute;
+  right: 1rem;
 }
 /* card button styles for active and hover shop */
 .custom-btn-shop:hover,
