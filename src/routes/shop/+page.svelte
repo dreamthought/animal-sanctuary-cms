@@ -8,7 +8,7 @@
     <h1>SHOP HERE TO HELP THE ANIMALS</h1>
       <div class="container">
         <p class="text-center">
-        <b>Whenever you shop with one of the links below, you help The Animal Sanctuary.
+        <b>When you shop with these links, you raise funds for animal rescues.
         So please, indulge in lots and lots of wonderful retail therapy!!</b>
       </p>
     </div>
@@ -27,7 +27,18 @@
         </div>
       </div>
       
-      <div class="col-md-6">
+      <div class="col-md-6 d-none d-md-block">
+        <div class="card custom-card-shop">
+          <img src=" images/shop/petsy-tall.jpg" alt="PEtsy Online Shop logo" class="card-img" />
+            <div class="card-body">
+              <h4 class="card-title custom-card-title-shop">PEtsy Shopping Portal</h4>
+              <p class="card-text custom-card-text-shop">Your gateway to heaps of wonderful shopping choices that will help save the animals!</p>
+              <button class="btn custom-btn-shop-soon">Coming Soon</button>
+            </div>
+        </div>
+      </div>
+
+      <div class="d-block d-md-none">
         <div class="card custom-card-shop">
           <img src=" images/shop/petsy.jpg" alt="PEtsy Online Shop logo" class="card-img" />
             <div class="card-body">
