@@ -18,10 +18,10 @@
 	<!-- Svelte Head -->
 	<link rel="icon" href="/animal-santuary-cms/favicon.ico" />
 	
-		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/entry/start.QYP5rKFH.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/chunks/entry.0qbExvE8.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/entry/start.FEo8xQR7.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/chunks/entry.JDMLQdFC.js">
 		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/chunks/scheduler.S4wXxuDW.js">
-		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/entry/app.v-9md1Or.js">
+		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/entry/app.iXIRIZuL.js">
 		<link rel="modulepreload" href="/animal-santuary-cms/app/immutable/chunks/index.g_WIspXK.js">
 
 	<!-- Load external Bootstrap JS -->
@@ -36,7 +36,7 @@
 	<div style="display: contents">
 			<script>
 				{
-					__sveltekit_1otdub9 = {
+					__sveltekit_kp3fiq = {
 						base: "/animal-santuary-cms",
 						assets: "/animal-santuary-cms"
 					};
@@ -44,14 +44,25 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/animal-santuary-cms/app/immutable/entry/start.QYP5rKFH.js"),
-						import("/animal-santuary-cms/app/immutable/entry/app.v-9md1Or.js")
+						import("/animal-santuary-cms/app/immutable/entry/start.FEo8xQR7.js"),
+						import("/animal-santuary-cms/app/immutable/entry/app.iXIRIZuL.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
 				}
 			</script>
 		</div>
+
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-194RVY1XYH"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-194RVY1XYH');
+	</script>
 </body>
 
 </html>
