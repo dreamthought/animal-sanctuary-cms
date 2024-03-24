@@ -19,6 +19,35 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date-->
+            <small class="ms-auto">24 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            HERBERT CHOWS DOWN
+            <br/>
+            This is EXACTLY how I eat corn on the cob!! 
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline">
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0ksAAWikn2p1X6QXgTxHNQeE49HhwCE2qRzPStzokMrJrSf7T9AKBCRfFE1Ki7yFnl?__cft__[0]=AZXrVk2BwhtVklKmiyfYz6_F_tlmwuCZr-TD_JrDMRARVnJKL6UCX5DsORQ__9zZLqYi8mIMlNpAjrM7G9kYm7k6vYjRols6z9T6gPlMGSl_GZGXcxhjPaxEbFgV1kLm_k6MHDjJkHZ2nJXYCCSmJ4gPcvEK8J-0rM4xV0eM7_puMH5_q56VsErhA7jAK2uXZ98&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-24mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item -->
+
+    <!-- news item -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
             <small class="ms-auto">22 March</small>
           </div>
           <!-- facebook post text -->
@@ -357,38 +386,6 @@ Once we have the 2 volunteers,  we can launch!
       </div>
     </div>
     <!-- end news item  -->
-
-    <!-- news item -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date-->
-            <small class="ms-auto">10 March</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            A LOVELY WELCOME HOME!
-            <br/>
-            Michael and I had a week in Coffs Harbour, Australia, to celebrate our 30th wedding anniversary.  
-            It was wonderful to relax, read, go to movies, eat good food, and do nature walks.  
-            I also had the time and headspace to work on a couple of exciting upcoming projects for The Animal Sanctuary, which I’m eager to announce very soon.  
-            <!-- facebook post text (hidden on lg) -->
-            <span class="d-md-inline d-lg-none d-xl-inline">
-              When we arrived home yesterday, the animals were beside themselves with happiness to see us, which filled our hearts.  Then L…
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid09GKFzeU6EhFLYySuMgtHyMNC8BX9qdjpdkjPoC9DwP2YPXcwAJSz5Ptcb7sL44Lxl?__cft__[0]=AZWyM2_49g6hUwGk5xypmNPnedqlHdgj66r-Plnfp8Ez5X-hO0i7k0YvBKb3AJArae6glV58NGzFDzlVvFlP3wRmb4orMeYYDNlguuQIe6FmxE1ATfyadl1j4Q6asZJSvHPvPyWSJAjw6sYV4Im1XfeqrhVl_kyGTiaxKtNo3uxbDIRVYdgdLnocIt9yjlBMHX0&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square ) -->
-          <img src="images/news/facebook-10mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item -->
     
   </div> 
   <!-- end row for news items -->
