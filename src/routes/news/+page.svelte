@@ -12,6 +12,37 @@
   <!-- row for news items (single col on sm and below and lg and above, double col on md)-->
   <div class="row row-cols-1"> 
 
+    <!-- news item  -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date -->
+            <small class="ms-auto">26 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            FAIRY TALE ENDING: HAPPILY EVER AFTER!
+            <br/>You’ve heard me say it a thousand times: It’s almost impossible to find safe homes for roosters.  
+            So when we caught 3 beautiful hens and 2 gorgeous young roosters recently, my heart sank.  
+            But like a miracle, on the same day I had an enquiry from someone who wanted to adopt not one, but TWO roosters!  
+            They’d had 3 roosters (no hens) living as a bachelor flock for many years.  One passed a while ago, and a second passed recently.  So they… 
+             <!-- facebook post text (hidden on lg) -->
+             <span class="d-md-inline d-lg-none d-xl-inline">
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0352Ji8gSjbDtso7yrShWwzbDckDorqz4HbrBCVw54x6wRvtmAVWAe5B56vZSVwBol?__cft__[0]=AZUoPmY7BImclIO2DgIe58-DYaCtHxZV6wg36BdbtopVjApUbVoqbThyRsAulS2DN7yW014p50ZhQd5kYGxskMsAIUV1oKgyRyXdd6WBg29DAILHunq5clg8Rp9as6rFg6mALRJU67cT0WhFJeIaFRsJkuJnKRDztUM0sUx0Vs4NwI5gP25D1Ci3FI_O6VTi_8g&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square) -->
+          <img src="images/news/facebook-26mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item  -->
+
     <!-- news item -->
     <div class="col">
       <div class="row g-0 mb-3 custom-content-news">
@@ -351,37 +382,6 @@ Once we have the 2 volunteers,  we can launch!
         <div class="col-lg-3 d-flex align-items-center align-content-center">
           <!-- facebook post image (square) -->
           <img src="images/news/facebook-12mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item  -->
-
-    <!-- news item  -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date -->
-            <small class="ms-auto">11 March</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            OK, you KNOW we don’t rescue cats & dogs at The Animal Sanctuary, because there are so many great groups that focus exclusively on them.  
-            We rescue the other species that fall through the cracks.  So this post is an exception, because the dog belongs to an animal rescuer that I really want to support:
-            Molly, 5 years, desexed, vaccinated and chipped.
-            Molly is affectionate and chilled. 
-             <!-- facebook post text (hidden on lg) -->
-             <span class="d-md-inline d-lg-none d-xl-inline">
-              She loves to lie on the couch with you on rainy days and snuggle up. She feels the cold so … 
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02eH2NDNAUxtEtc8V6u6xn6fzSrY2k3JYXDGigaqB7LFv8MTn1Fnmy6Utv9KjDSJMUl?__cft__[0]=AZXslnInRC8FxNdPlaNhO85Mr91pQ6itwlr34JcRFYcHFKY3gEF1NmUBY3ynKE43lgBcX6IhFe0J_z5PPaKy-iGWP4sHI7YiDatgQuCzAhpnMafDCrrbFJYjqZzLN9ROP0BB-7Mnk7EOYO0gJtdhbB2l_p0KVakvEkRPRzQ-Va_SAdprmgCBZHL2PW-z7nHFC4Q&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square) -->
-          <img src="images/news/facebook-11mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
         </div>
       </div>
     </div>
