@@ -19,6 +19,36 @@
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date -->
+            <small class="ms-auto">28 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            BABOO DAY 
+            <br/>
+            Had my second eye surgery yesterday, so it's back on the couch again, taking it easy with Baboo and the dogs today.  
+            They love it when I have to slow down and take it easy!!  Looking forward to being able to read and type next week, so we can launch The Animals Op Shop!!
+            <!-- facebook post text (hidden on lg) -->
+            <span class="d-md-inline d-lg-none d-xl-inline"> 
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0SjuSFaNandy8j4bAc1H7ndXUfp49P9cVu1TUMdeKKp2wM6JrpFKkabBDS8vWoHLel?__cft__[0]=AZWPuZ1Bc2JcSwItyMc57VmAetbWBUZM7g9UKDM1vlIC_oEuzlgrdYqu8ogqANyG5vdjStxQFIDcjffUXEv_tlUlpnN_SjiVPDpqHAuV9nrNI4WecxCQDUuMGPdQbXkx-RsFLPM_K3VNtZKdD4daSqzKmDf-JJbEAPpjJtcKX5Bcyk3KtyCSlTQeV2b6bCJDVdE&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square) -->
+          <img src="images/news/facebook-28mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item  -->
+
+    <!-- news item  -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date -->
             <small class="ms-auto">26 March</small>
           </div>
           <!-- facebook post text -->
@@ -348,40 +378,6 @@ Once we have the 2 volunteers,  we can launch!
         <div class="col-lg-3 d-flex align-items-center align-content-center">
           <!-- facebook post image (square ) -->
           <img src="images/news/facebook-14mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item  -->
-
-    <!-- news item  -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date -->
-            <small class="ms-auto">12 March</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            NORTHERN HEN RESCUE: 14 APRIL 
-            <br/>
-            With so many of the rescues happening south of Auckland, people up north haven’t been able to adopt.  
-            SOOOO we now have a northern hen rescue, just for you, with northern pick up points!!  
-            They’re brown shavers, 18 months old, and have laid just one season.
-            IF you can offer a safe (non eating, non breeding) home for any of these sweet girls, and
-            IF you 
-            <!-- facebook post text (hidden on lg) -->
-            <span class="d-md-inline d-lg-none d-xl-inline">
-              can pick up from Whangarei, Tutukaka Coast, Dargaville, Kaikohe, Keri Keri or Matakana on April… 
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0cRzwyD4cS5p38oAspn3MmnRgu6AS8SoWjuJ94TcRj25ADSwRrGx7oaqrkHda4TfNl?__cft__[0]=AZXBdQgskZfzwwTuij-1kOWcqFRI-8ViYbWryJ_DTmyAOyVDPsVGBHj_xZz5M2bym7YKCf6sxkxhYR4MDF_QQFWDiAYdH-FCMCg6QGph9RDY9SU6nUAuzCw_0FqLpqx7MrOr6ntoYsQFzkt-Vuk2wTR1nyHKTi2hQAxsMVMc15cbKglxHT13g20ZBEF3ran9zvg&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square) -->
-          <img src="images/news/facebook-12mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
         </div>
       </div>
     </div>
