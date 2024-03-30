@@ -18,6 +18,38 @@
         <div class="col-lg-9 p-2">
           <div class="d-flex">
             <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
+            <!-- facebook post date-->
+            <small class="ms-auto">30 March</small>
+          </div>
+          <!-- facebook post text -->
+          <p>
+            EASTER WEEKEND SURPRISE
+            <br/>
+            I’m so happy!  Sarah & Alex texted to say they wanted to pop up and help out this afternoon.  
+            Since I’m not allowed to do a lot yet, it was fabulous news.  They cleaned Hen Barns 1, 2 & 3, and scraped the hen decks; they refilled animal feed bins; 
+            they fed the pigs; they cleaned out the indoor bird aviary, cut and brought in fresh branches, and replaced the floor covering.  
+            The indoor bird aviary was overdue, and it was a wonderful relief to have that … 
+             <!-- facebook post text (hidden on lg) -->
+             <span class="d-md-inline d-lg-none d-xl-inline">
+            </span> 
+            <!-- link to facebook post -->
+            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid0JqDuLqmMK5cbKFQKsZNsbrVxEZzYQboXRq79p6qCXRUga4URfTQAeNCc1edfZZ8Zl?__cft__[0]=AZW3CuaTdMrbUTefAGzpHW2ArRMjGU16rlOy58H-OK95hHNjtsRSUhdKpLyGFL_Cjz4WEXylHN8yj1UivemMdBwfvIn9IkpMiXdjhDNvuk1csJPpQlb6ZlEXMRJ6CeVN5fj7-vu8YIkrVQzhZXdfft0O4e574zS3GmGVahqb-JLkqhF2wvT3W9GYtzOSeKq9Fd8&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
+          </p>
+        </div>
+        <div class="col-lg-3 d-flex align-items-center align-content-center">
+          <!-- facebook post image (square ) -->
+          <img src="images/news/facebook-30mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
+        </div>
+      </div>
+    </div>
+    <!-- end news item  -->
+
+    <!-- news item  -->
+    <div class="col">
+      <div class="row g-0 mb-3 custom-content-news">
+        <div class="col-lg-9 p-2">
+          <div class="d-flex">
+            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
             <!-- facebook post date -->
             <small class="ms-auto">28 March</small>
           </div>
@@ -345,39 +377,6 @@ Once we have the 2 volunteers,  we can launch!
         <div class="col-lg-3 d-flex align-items-center align-content-center">
           <!-- facebook post image (square)-->
           <img src="images/news/facebook-15mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
-        </div>
-      </div>
-    </div>
-    <!-- end news item  -->
-    
-    <!-- news item  -->
-    <div class="col">
-      <div class="row g-0 mb-3 custom-content-news">
-        <div class="col-lg-9 p-2">
-          <div class="d-flex">
-            <img src="images/news/facebook-logo.png" alt="The Animal Sanctuary NZ Facebook logo" class="custom-news-logo" /><b>The Animal Sanctuary</b>
-            <!-- facebook post date-->
-            <small class="ms-auto">14 March</small>
-          </div>
-          <!-- facebook post text -->
-          <p>
-            PUSHING PAUSE
-            <br/>
-            Plans never go in a straight line.  I intended to announce our exciting developments this week... but instead had eye surgery!  
-            I can’t read or see the phone and laptop screens at the moment, so will be “off line” for just a bit.  That means I can't respond to emails, texts or PMs.  
-            Please be patient.  Hopefully we’ll have vision solutions worked out for next week, 
-             <!-- facebook post text (hidden on lg) -->
-             <span class="d-md-inline d-lg-none d-xl-inline">
-              and THEN I can push Play again on our new developments!  
-            Michael will be busy caring for the anima…
-            </span> 
-            <!-- link to facebook post -->
-            <br/><a href="https://www.facebook.com/TheAnimalSanctuaryNZ/posts/pfbid02vb1EgHWuY7xsArdTmaBnuXDEUWu9MSZY9rdhb3TzSztw79LzxrfiGvuvpBMRxLwTl?__cft__[0]=AZXgFJF4a_bYEayPLNd5B6ESAEaqxHz3RJJc1W60E9KUs3OqxpMDCIxF2OKhj6sC-8vglYfwX5moDW6iWKi1R7XABq3P3O873Q2n5FxAZImney-d694nn9phw4ifAz65AQD1VfqAJA5XQClbKt9wUX1r3_MSYS3UMFCGjonYyLHiXhc8g7GlriUmOJHpJMrJ7I8&__tn__=%2CO%2CP-R" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
-          </p>
-        </div>
-        <div class="col-lg-3 d-flex align-items-center align-content-center">
-          <!-- facebook post image (square ) -->
-          <img src="images/news/facebook-14mar.jpg" class="rounded img-fluid w-100" alt="Facebook">
         </div>
       </div>
     </div>
