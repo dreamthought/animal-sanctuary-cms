@@ -41,11 +41,23 @@
   background: #350b06;
 }
   
-.news-img-crop {
-  object-position: center;
-  object-fit: cover;
-  max-height: 20rem;
+@media (min-width: 768px)  {
+ .news-img-crop {
+   object-position: center;
+   object-fit: cover;
+   max-height: 20rem;
+ }
 }
+
+ 
+/* background blue gradient for sm and below */
+@media (max-width: 768px)  {
+  .news-img-crop {
+  }
+}
+
+
+
 </style>
 
 
