@@ -43,7 +43,7 @@
   
 .news-img-crop {
   object-position: center;
-  object-fit: scale-down;
+  object-fit: cover;
   max-height: 20rem;
 }
 </style>
