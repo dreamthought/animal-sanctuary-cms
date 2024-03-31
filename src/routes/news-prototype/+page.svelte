@@ -5,7 +5,7 @@
 <script>
   import { onMount } from 'svelte'
   const callToAction = "Some exciting news from the Animal Sanctuary!"
-  const postLimit = 75;
+  const postLimit = 65;
   const apiEndpoint = 'https://560dcon6p6.execute-api.us-east-1.amazonaws.com/default/animal-sanctuary-news-api-poc'
   let feed = [];
   //const deNewline= (text) => (text.substring(0,128)+"...").split("\n")
@@ -33,19 +33,31 @@
 
 <style>
 .news-container {
-  max-height: 25rem;
+  /**  max-height: 25rem; **/
 }
-
-.news-img-container {
-  text-align: right;
-  background: #350b06;
-  -webkit-clip-path: ellipse(60% 65% at 70% 50%);
-  clip-path: ellipse(60% 65% at 70% 50%);
+  
+  /* background blue gradient for sm and below */
+@media (max-width: 768px)  {
+  .news-img-container {
+    text-align: right;
+    background: #350b06;
+  }
+}
+  
+@media (min-width: 768px)  {
+  .news-img-container {
+    text-align: right;
+    background: #350b06;
+    -webkit-clip-path: ellipse(60% 65% at 70% 50%);
+    clip-path: ellipse(60% 65% at 70% 50%);
+  }
+  .news-img-crop {
+    object-position: right;
+  }
 }
 
 .news-img-crop {
   object-fit: scale-down;
-  object-position: right;
   max-height: 20rem;
   margin: 0 0 0 auto;
 }
@@ -80,10 +92,12 @@
             <br/><a href="{post.permalink_url}" target="_blank" class="in-text-link-facebook">See more <i class="fa-solid fa-arrow-right"></i></a>
           </p>
         </div>
+        {#if post.full_picture}
         <div class="col-lg-3 d-flex align-items-center align-content-center news-img-container">
           <!-- facebook post image (square ) -->
           <img src="{post.full_picture}" class="news-crop rounded img-fluid w-100 news-img-crop" alt="Facebook">
         </div>
+        {/if}
       </div>
     </div>
     <!-- end news item  -->
