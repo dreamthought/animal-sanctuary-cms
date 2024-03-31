@@ -7,14 +7,19 @@
   const callToAction = "Some exciting news from the Animal Sanctuary!"
   const postLimit = 65;
   const apiEndpoint = 'https://560dcon6p6.execute-api.us-east-1.amazonaws.com/default/animal-sanctuary-news-api-poc'
+  const leadingZeroRe = new RegExp(/^0/);
   let feed = [];
-  //const deNewline= (text) => (text.substring(0,128)+"...").split("\n")
-  //const deNewline= (text) => (text.substring(0,postLimit)+"...").split("\n")
-  //const deNewline= (text) => [text]
-  //const deNewline= (text) => text.split("\n")
-  const deNewline= (text) => !text ? [callToAction] : (text.split(" ").slice(0, postLimit).join(" ") + " ...").split("\n")
-  //const deNewline = (text) => [text.substring(0,100) + "..."]
-  const formatDate = (date) => (new Date(date)).toDateString()
+
+  const deNewline= (text) => !text ? [callToAction] : (text.split(" ").slice(0, postLimit).join(" ") + " ...").split("\n");
+
+  const formatDate = (date) => {
+    const options = { day: "2-digit", month:"short" };
+    const dateFormatter = new Intl.DateTimeFormat('en-NZ', options);
+    // returns "dd MMM"
+    const formattedDate = dateFormatter.format(new Date(date));
+    return formattedDate.replace(/^0/, "");
+  }
+
   const fetchData = async () => { 
     const response = await fetch(apiEndpoint, {
       method: 'GET',
@@ -32,34 +37,14 @@
 </script>
 
 <style>
-.news-container {
-  /**  max-height: 25rem; **/
+.news-img-container {
+  background: #350b06;
 }
   
-  /* background blue gradient for sm and below */
-@media (max-width: 768px)  {
-  .news-img-container {
-    text-align: right;
-    background: #350b06;
-  }
-}
-  
-@media (min-width: 768px)  {
-  .news-img-container {
-    text-align: right;
-    background: #350b06;
-    -webkit-clip-path: ellipse(60% 65% at 70% 50%);
-    clip-path: ellipse(60% 65% at 70% 50%);
-  }
-  .news-img-crop {
-    object-position: right;
-  }
-}
-
 .news-img-crop {
+  object-position: center;
   object-fit: scale-down;
   max-height: 20rem;
-  margin: 0 0 0 auto;
 }
 </style>
 
@@ -75,7 +60,7 @@
   {#each feed as post}
 <!-- News -->
     <!-- news item  -->
-    <div class="col news-container">
+    <div class="col">
       <div class="row g-0 mb-3 custom-content-news">
         <div class="col-lg-9 p-2">
           <div class="d-flex">
