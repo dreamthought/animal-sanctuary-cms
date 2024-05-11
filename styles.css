@@ -472,9 +472,8 @@ b.custom-b-green  {
 /* card button styles for active and hover shop */
 .custom-btn-shop-soon:hover,
 .custom-btn-shop-soon:active {
-  background-color: #451b16;
+  background-color: green;
   color: #fbfbfb;
-  border: 0.15rem solid #fbfbfb;
 }
 
 
